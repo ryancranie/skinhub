@@ -13,9 +13,6 @@ last 07/01/2023
        width="151" 
        height="70"/></a>
 
-# [- shizume](https://github.com/rudjx3/skins/raw/main/sleumuel/-%20shizume.osk)
-[![](https://osu.ppy.sh/ss/18358557/b55f)](https://github.com/rudjx3/skins/raw/main/sleumuel/-%20shizume.osk)
-
 # [sleumuel](https://github.com/rudjx3/skins/raw/main/sleumuel/sleumuel.osk)
 [![](https://osu.ppy.sh/ss/18359766/6bcc)](https://github.com/rudjx3/skins/raw/main/sleumuel/sleumuel.osk)
 
