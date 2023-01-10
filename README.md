@@ -287,7 +287,7 @@ last updated <b>09/01/2023</b>
 <b>↓ other skinhubs ↓</b><br>
 <br>
   · <a href="https://sites.google.com/view/osu-skins-br/skins?authuser=0">osu skins brasil</a> ·<br>
-  · <a href="https://github.com/wonderer0103/wonderer-osu-skins/blob/master/README.md">wonderer-osu-skins</a> ·<br>
+  · <a href="https://github.com/wonderer0103/osu-skin-asdfasdfasdf/blob/main/README.md">wonderer-osu-skins</a> ·<br>
   · <a href="https://github.com/venomthor2/morgan-osu-skins/blob/master/README.md">morgan-osu-skins</a> ·<br>
   · <a href="http://skins.osuck.net">skins.osuck.net</a> ·<br>
   · <a href="https://github.com/Mizaruuu/osu-RyuK-s-super-cool-skins/blob/master/Skins.md">RyuK-super-cool</a> ·<br>
@@ -307,7 +307,7 @@ last updated <b>09/01/2023</b>
   · <a href="https://github.com/avreya/skins/blob/master/skins.md">averya-skins</a> ·<br>
   · <a href="https://skins.btmc.live/">skins.btmc.live</a> ·<br>
   · <a href="https://gist.github.com/vistafan12/c131048fa696f651a4deb998b77dfe95">Rafis Skins Official</a> ·<br>
-  · <a href="https://github.com/baron6060/hard-to-find-osu-skins">baron-hard-to-find</a> ·<br>
+  · <a href="https://github.com/baron6060/harder-to-find-osu-skins">baron-harder-to-find</a> ·<br>
   · <a href="https://github.com/Garnet27/osu-Garnet27-Public-Skins/blob/master/Skins.md">Garnet27-Public-Skins</a> ·<br>
   · <a href="https://github.com/ypan53/skins/blob/main/skins.md">ypan-&-maliszewski-skins</a> ·<br>
   · <a href="https://github.com/MumusLeBG/AzeriteSkins/blob/master/README.md">AzeriteSkins</a> ·<br>
