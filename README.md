@@ -1,4 +1,4 @@
-# rudj-skinhub
+# rudj-skinhub FUCKIGN EVERYTHIGN IS BROKEN
 made by <a href="https://twitter.com/rudj_">rudj</a>
 <br>
 if you want a skinhub join the <a href="https://discord.gg/RE8ExXsvHZ">skinhub discord</a>
