@@ -23,8 +23,8 @@ last 23/12/2022
        width="151" 
        height="70"/></a>
 
-# [Toke_-_Natsukihina](https://github.com/rudjx3/skins/raw/main/toke/Toke_-_Natsukihina.osk)
-[![](https://osu.ppy.sh/ss/18328072/d8fe)](https://github.com/rudjx3/skins/raw/main/toke/Toke_-_Natsukihina.osk)
+# [Toke_-_Natsukihina](https://github.com/rudj-skinhub/woal/raw/tyfh/toke/Toke_-_Natsukihina.osk)
+[![](https://osu.ppy.sh/ss/18328072/d8fe)](https://github.com/rudj-skinhub/woal/raw/tyfh/toke/Toke_-_Natsukihina.osk)
 
 #
 <p align="center">

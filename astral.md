@@ -8,14 +8,14 @@
 last 19/12/2022
 </p>
 
-# [zephyr](https://github.com/rudjx3/skins/raw/main/astral/zephyr.osk)
-[![](https://i.imgur.com/qwY3ysd.png)](https://github.com/rudjx3/skins/raw/main/astral/zephyr.osk)
+# [zephyr](https://github.com/rudj-skinhub/woal/raw/tyfh/astral/zephyr.osk)
+[![](https://i.imgur.com/qwY3ysd.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/astral/zephyr.osk)
 
-# [monko bliss](https://github.com/rudjx3/skins/raw/main/astral/monko%20bliss.osk)
-[![](https://i.imgur.com/mW7eSyN.jpg)](https://github.com/rudjx3/skins/raw/main/astral/monko%20bliss.osk)
+# [monko bliss](https://github.com/rudj-skinhub/woal/raw/tyfh/astral/monko%20bliss.osk)
+[![](https://i.imgur.com/mW7eSyN.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/astral/monko%20bliss.osk)
 
-# [tekkito bliss](https://github.com/rudjx3/skins/raw/main/astral/tekkito%20bliss.osk)
-[![](https://i.imgur.com/aK9JqOZ.jpg)](https://github.com/rudjx3/skins/raw/main/astral/tekkito%20bliss.osk)
+# [tekkito bliss](https://github.com/rudj-skinhub/woal/raw/tyfh/astral/tekkito%20bliss.osk)
+[![](https://i.imgur.com/aK9JqOZ.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/astral/tekkito%20bliss.osk)
 
 #
 <p align="center">

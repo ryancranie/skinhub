@@ -13,14 +13,14 @@ last 03/11/2022
        width="151" 
        height="70"/></a>
 
-# [心kokoro dt](https://github.com/rudjx3/skins/raw/main/duckyzie/%E5%BF%83kokoro%20dt.osk)
-[![](https://osu.ppy.sh/ss/18211277/8511)](https://github.com/rudjx3/skins/raw/main/duckyzie/%E5%BF%83kokoro%20dt.osk)
+# [心kokoro dt](https://github.com/rudj-skinhub/woal/raw/tyfh/duckyzie/%E5%BF%83kokoro%20dt.osk)
+[![](https://osu.ppy.sh/ss/18211277/8511)](https://github.com/rudj-skinhub/woal/raw/tyfh/duckyzie/%E5%BF%83kokoro%20dt.osk)
 
-# [pretty](https://github.com/rudjx3/skins/raw/main/duckyzie/pretty.osk)
-[![](https://cdn.discordapp.com/attachments/901175797698687016/1021418609085521930/image0.jpg)](https://github.com/rudjx3/skins/raw/main/duckyzie/pretty.osk)
+# [pretty](https://github.com/rudj-skinhub/woal/raw/tyfh/duckyzie/pretty.osk)
+[![](https://cdn.discordapp.com/attachments/901175797698687016/1021418609085521930/image0.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/duckyzie/pretty.osk)
 
-# [aero](https://github.com/rudjx3/skins/raw/main/duckyzie/aero.osk)
-[![](https://i.imgur.com/mXW7AHJ.jpeg)](https://github.com/rudjx3/skins/raw/main/duckyzie/aero.osk)
+# [aero](https://github.com/rudj-skinhub/woal/raw/tyfh/duckyzie/aero.osk)
+[![](https://i.imgur.com/mXW7AHJ.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/duckyzie/aero.osk)
 
 #
 <p align="center">

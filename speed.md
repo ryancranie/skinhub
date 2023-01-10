@@ -8,14 +8,14 @@
 last 07/01/2023
 </p>
 
-# [n2zg85](https://github.com/rudjx3/skins/raw/main/speed/n2zg85.osk)
-[![](https://cdn.discordapp.com/attachments/1020438364001939547/1020440353008013422/screenshot1335.jpg)](https://github.com/rudjx3/skins/raw/main/speed/n2zg85.osk)
+# [n2zg85](https://github.com/rudj-skinhub/woal/raw/tyfh/speed/n2zg85.osk)
+[![](https://cdn.discordapp.com/attachments/1020438364001939547/1020440353008013422/screenshot1335.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/speed/n2zg85.osk)
 
-# [be_rhetro_mix](https://github.com/rudjx3/skins/raw/main/speed/be_rhetro_mix.osk)
-[![](https://media.discordapp.net/attachments/1020438364001939547/1020440952806051860/screenshot1342.jpg?width=1214&height=683)](https://github.com/rudjx3/skins/raw/main/speed/be_rhetro_mix.osk)
+# [be_rhetro_mix](https://github.com/rudj-skinhub/woal/raw/tyfh/speed/be_rhetro_mix.osk)
+[![](https://media.discordapp.net/attachments/1020438364001939547/1020440952806051860/screenshot1342.jpg?width=1214&height=683)](https://github.com/rudj-skinhub/woal/raw/tyfh/speed/be_rhetro_mix.osk)
 
-# [- be_bubbleman](https://github.com/rudjx3/skins/raw/main/speed/-%20be_bubbleman.osk)
-[![](https://i.imgur.com/7MqkXSX.jpeg)](https://github.com/rudjx3/skins/raw/main/speed/-%20be_bubbleman.osk)
+# [- be_bubbleman](https://github.com/rudj-skinhub/woal/raw/tyfh/speed/-%20be_bubbleman.osk)
+[![](https://i.imgur.com/7MqkXSX.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/speed/-%20be_bubbleman.osk)
 
 #
 <p align="center">

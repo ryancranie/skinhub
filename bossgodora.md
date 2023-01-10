@@ -8,14 +8,14 @@
 last 07/01/2023
 </p>
 
-# [SPONGOIDS](https://github.com/rudjx3/skins/raw/main/bossgodora/SPONGOIDS.osk)
-[![](https://i.imgur.com/YHsHLFt.png)](https://github.com/rudjx3/skins/raw/main/bossgodora/SPONGOIDS.osk)
+# [SPONGOIDS](https://github.com/rudj-skinhub/woal/raw/tyfh/bossgodora/SPONGOIDS.osk)
+[![](https://i.imgur.com/YHsHLFt.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/bossgodora/SPONGOIDS.osk)
 
-# [Aristia(Edit) Instafade ver](https://github.com/rudjx3/skins/raw/main/bossgodora/Aristia%20(Edit%20%2B%20Instafade%20%2B%20Menus).osk)
-[![](https://i.imgur.com/bH2yVlW.png)](https://github.com/rudjx3/skins/raw/main/bossgodora/Aristia%20(Edit%20%2B%20Instafade%20%2B%20Menus).osk)
+# [Aristia(Edit) Instafade ver](https://github.com/rudj-skinhub/woal/raw/tyfh/bossgodora/Aristia%20(Edit%20%2B%20Instafade%20%2B%20Menus).osk)
+[![](https://i.imgur.com/bH2yVlW.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/bossgodora/Aristia%20(Edit%20%2B%20Instafade%20%2B%20Menus).osk)
 
-# [cheeseburger](https://github.com/rudjx3/skins/raw/main/bossgodora/cheeseburger.osk)
-[![](https://i.imgur.com/rSJXMC4.png)](https://github.com/rudjx3/skins/raw/main/bossgodora/cheeseburger.osk)
+# [cheeseburger](https://github.com/rudj-skinhub/woal/raw/tyfh/bossgodora/cheeseburger.osk)
+[![](https://i.imgur.com/rSJXMC4.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/bossgodora/cheeseburger.osk)
 
 #
 <p align="center">

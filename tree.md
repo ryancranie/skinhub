@@ -8,8 +8,8 @@
 last 29/12/2022
 </p>
 
-# [just a mixed skin](https://github.com/rudjx3/skins/raw/main/tree/just%20a%20mixed%20skin.osk)
-[![](https://i.imgur.com/rJtHG5f.jpeg)](https://github.com/rudjx3/skins/raw/main/tree/just%20a%20mixed%20skin.osk)
+# [just a mixed skin](https://github.com/rudj-skinhub/woal/raw/tyfh/tree/just%20a%20mixed%20skin.osk)
+[![](https://i.imgur.com/rJtHG5f.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/tree/just%20a%20mixed%20skin.osk)
 
 #
 <p align="center">

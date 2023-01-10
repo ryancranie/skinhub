@@ -8,11 +8,11 @@
 last 27/11/2022
 </p>
 
-# [pikmin_wooting_skin_Aristia](https://github.com/rudjx3/skins/raw/main/aya/pikmin_wooting_skin_Aristia.osk)
-[![](https://i.imgur.com/ukfA0jl.png)](https://github.com/rudjx3/skins/raw/main/aya/pikmin_wooting_skin_Aristia.osk)
+# [pikmin_wooting_skin_Aristia](https://github.com/rudj-skinhub/woal/raw/tyfh/aya/pikmin_wooting_skin_Aristia.osk)
+[![](https://i.imgur.com/ukfA0jl.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/aya/pikmin_wooting_skin_Aristia.osk)
 
-# [pikmin_wooting_skin_DT](https://github.com/rudjx3/skins/raw/main/aya/pikmin_wooting_skin_DT.osk)
-[![](https://i.imgur.com/3TOMQ0L.png)](https://github.com/rudjx3/skins/raw/main/aya/pikmin_wooting_skin_DT.osk)
+# [pikmin_wooting_skin_DT](https://github.com/rudj-skinhub/woal/raw/tyfh/aya/pikmin_wooting_skin_DT.osk)
+[![](https://i.imgur.com/3TOMQ0L.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/aya/pikmin_wooting_skin_DT.osk)
 
 #
 <p align="center">

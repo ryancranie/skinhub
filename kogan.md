@@ -13,8 +13,8 @@ last 28/12/2022
        width="151" 
        height="70"/></a>
 
-# [K0GANMIX99](https://github.com/rudjx3/skins/raw/main/kogan/K0GANMIX99.osk)
-[![](https://i.imgur.com/GGx7z8Z.jpeg)](https://github.com/rudjx3/skins/raw/main/kogan/K0GANMIX99.osk)
+# [K0GANMIX99](https://github.com/rudj-skinhub/woal/raw/tyfh/kogan/K0GANMIX99.osk)
+[![](https://i.imgur.com/GGx7z8Z.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/kogan/K0GANMIX99.osk)
 
 #
 <p align="center">

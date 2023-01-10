@@ -13,14 +13,14 @@ last 22/10/2022
        width="151" 
        height="70"/></a>
 
-# [rylan0109-skin](https://github.com/rudjx3/skins/raw/main/ratcho/rylan0109-skin.osk)
-[![](https://i.imgur.com/AO5nMUd.jpeg)](https://github.com/rudjx3/skins/raw/main/ratcho/rylan0109-skin.osk)
+# [rylan0109-skin](https://github.com/rudj-skinhub/woal/raw/tyfh/ratcho/rylan0109-skin.osk)
+[![](https://i.imgur.com/AO5nMUd.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/ratcho/rylan0109-skin.osk)
 
-# [Rafis Aussie](https://github.com/rudjx3/skins/raw/main/ratcho/Rafis%20Aussie.osk)
-[![](https://osu.ppy.sh/ss/18205100/c729)](https://github.com/rudjx3/skins/raw/main/ratcho/Rafis%20Aussie.osk)
+# [Rafis Aussie](https://github.com/rudj-skinhub/woal/raw/tyfh/ratcho/Rafis%20Aussie.osk)
+[![](https://osu.ppy.sh/ss/18205100/c729)](https://github.com/rudj-skinhub/woal/raw/tyfh/ratcho/Rafis%20Aussie.osk)
 
-# [Rafis Cheat Followpoints](https://github.com/rudjx3/skins/raw/main/ratcho/Rafis%20Cheat%20Followpoints.osk)
-[![](https://osu.ppy.sh/ss/18205142/e9af)](https://github.com/rudjx3/skins/raw/main/ratcho/Rafis%20Cheat%20Followpoints.osk)
+# [Rafis Cheat Followpoints](https://github.com/rudj-skinhub/woal/raw/tyfh/ratcho/Rafis%20Cheat%20Followpoints.osk)
+[![](https://osu.ppy.sh/ss/18205142/e9af)](https://github.com/rudj-skinhub/woal/raw/tyfh/ratcho/Rafis%20Cheat%20Followpoints.osk)
 
 #
 <p align="center">

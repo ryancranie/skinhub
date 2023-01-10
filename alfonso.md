@@ -13,11 +13,11 @@ last 18/09/2022
        width="151" 
        height="70"/></a>
 
-# [Blue Aesfonsia](https://github.com/rudjx3/skins/raw/main/alfonso/Blue%20Aesfonsia.osk)
-[![](https://osu.ppy.sh/ss/18134825/c06e)](https://github.com/rudjx3/skins/raw/main/alfonso/Blue%20Aesfonsia.osk)
+# [Blue Aesfonsia](https://github.com/rudj-skinhub/woal/raw/tyfh/alfonso/Blue%20Aesfonsia.osk)
+[![](https://osu.ppy.sh/ss/18134825/c06e)](https://github.com/rudj-skinhub/woal/raw/tyfh/alfonso/Blue%20Aesfonsia.osk)
 
-# [Alfonso_Spazza_White](https://github.com/rudjx3/skins/raw/main/alfonso/Alfonso_Spazza_White.osk)
-[![](https://osu.ppy.sh/ss/18134823/ab88)](https://github.com/rudjx3/skins/raw/main/alfonso/Alfonso_Spazza_White.osk)
+# [Alfonso_Spazza_White](https://github.com/rudj-skinhub/woal/raw/tyfh/alfonso/Alfonso_Spazza_White.osk)
+[![](https://osu.ppy.sh/ss/18134823/ab88)](https://github.com/rudj-skinhub/woal/raw/tyfh/alfonso/Alfonso_Spazza_White.osk)
 
 #
 <p align="center">

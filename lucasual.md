@@ -8,11 +8,11 @@
 last 09/12/2022
 </p>
 
-# [umineko lucas Aristia](https://github.com/rudjx3/skins/raw/main/lucasual/umineko%20lucas%20Aristia.osk)
-[![](https://i.imgur.com/81ETUdK.jpeg)](https://github.com/rudjx3/skins/raw/main/lucasual/umineko%20lucas%20Aristia.osk)
+# [umineko lucas Aristia](https://github.com/rudj-skinhub/woal/raw/tyfh/lucasual/umineko%20lucas%20Aristia.osk)
+[![](https://i.imgur.com/81ETUdK.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/lucasual/umineko%20lucas%20Aristia.osk)
 
-# [umineko lucas Espanca criança](https://github.com/rudjx3/skins/raw/main/lucasual/umineko%20lucas%20Espanca%20crian%C3%A7a.osk)
-[![](https://i.imgur.com/gwkzJC8.jpeg)](https://github.com/rudjx3/skins/raw/main/lucasual/umineko%20lucas%20Espanca%20crian%C3%A7a.osk)
+# [umineko lucas Espanca criança](https://github.com/rudj-skinhub/woal/raw/tyfh/lucasual/umineko%20lucas%20Espanca%20crian%C3%A7a.osk)
+[![](https://i.imgur.com/gwkzJC8.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/lucasual/umineko%20lucas%20Espanca%20crian%C3%A7a.osk)
 
 #
 <p align="center">

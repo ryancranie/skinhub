@@ -13,8 +13,8 @@ last 27/11/2022
        width="151" 
        height="70"/></a>
 
-# [unicornpriv](https://github.com/rudjx3/skins/raw/main/bored/unicornpriv.osk)
-[![](https://i.imgur.com/Xm3MWwC.png)](https://github.com/rudjx3/skins/raw/main/bored/unicornpriv.osk)
+# [unicornpriv](https://github.com/rudj-skinhub/woal/raw/tyfh/bored/unicornpriv.osk)
+[![](https://i.imgur.com/Xm3MWwC.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/bored/unicornpriv.osk)
 
 #
 <p align="center">

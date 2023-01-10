@@ -8,11 +8,11 @@
 last 03/01/2023
 </p>
 
-# [- Topoi green edit](https://github.com/rudjx3/skins/raw/main/airiat/-%20Topoi%20green%20edit.osk)
-[![](https://i.imgur.com/pt4pOEm.jpeg)](https://github.com/rudjx3/skins/raw/main/airiat/-%20Topoi%20green%20edit.osk)
+# [- Topoi green edit](https://github.com/rudj-skinhub/woal/raw/tyfh/airiat/-%20Topoi%20green%20edit.osk)
+[![](https://i.imgur.com/pt4pOEm.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/airiat/-%20Topoi%20green%20edit.osk)
 
-# [personalairiat](https://github.com/rudjx3/skins/raw/main/airiat/personalairiat.osk)
-[![](https://i.imgur.com/9bqRkJw.jpeg)](https://github.com/rudjx3/skins/raw/main/airiat/personalairiat.osk)
+# [personalairiat](https://github.com/rudj-skinhub/woal/raw/tyfh/airiat/personalairiat.osk)
+[![](https://i.imgur.com/9bqRkJw.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/airiat/personalairiat.osk)
 
 #
 <p align="center">

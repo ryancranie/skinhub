@@ -23,11 +23,11 @@ last 04/01/23
        width="151" 
        height="70"/></a>
 
-# [#lifeline x Kristiyan subahibi](https://github.com/rudjx3/skins/raw/main/xkristiyan/-_lifeline_x_Kristiyan_subahibi.osk)
-[![](https://i.imgur.com/ssg3v5Q.png)](https://github.com/rudjx3/skins/raw/main/xkristiyan/-_lifeline_x_Kristiyan_subahibi.osk)
+# [#lifeline x Kristiyan subahibi](https://github.com/rudj-skinhub/woal/raw/tyfh/xkristiyan/-_lifeline_x_Kristiyan_subahibi.osk)
+[![](https://i.imgur.com/ssg3v5Q.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/xkristiyan/-_lifeline_x_Kristiyan_subahibi.osk)
 
-# [#xKrisk Subahibi](https://github.com/rudjx3/skins/raw/main/xkristiyan/-%20%23xKrisk%20Subahibi.osk) [NSFW]
-[![](https://i.imgur.com/SzbmmE1.jpeg)](https://github.com/rudjx3/skins/raw/main/xkristiyan/-%20%23xKrisk%20Subahibi.osk)
+# [#xKrisk Subahibi](https://github.com/rudj-skinhub/woal/raw/tyfh/xkristiyan/-%20%23xKrisk%20Subahibi.osk) [NSFW]
+[![](https://i.imgur.com/SzbmmE1.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/xkristiyan/-%20%23xKrisk%20Subahibi.osk)
 
 #
 <p align="center">

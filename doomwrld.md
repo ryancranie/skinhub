@@ -8,14 +8,14 @@
 last 09/12/2022
 </p>
 
-# [aristia doom](https://github.com/rudjx3/skins/raw/main/doomwrld/aristia%20doom.osk)
-[![](https://cdn.discordapp.com/attachments/936185753225007144/1020450230195470396/screenshot069.png)](https://github.com/rudjx3/skins/raw/main/doomwrld/aristia%20doom.osk)
+# [aristia doom](https://github.com/rudj-skinhub/woal/raw/tyfh/doomwrld/aristia%20doom.osk)
+[![](https://cdn.discordapp.com/attachments/936185753225007144/1020450230195470396/screenshot069.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/doomwrld/aristia%20doom.osk)
 
-# [doom dt](https://github.com/rudjx3/skins/raw/main/doomwrld/doom%20dt.osk)
-[![](https://cdn.discordapp.com/attachments/936185753225007144/1020683668345339954/screenshot071.png)](https://github.com/rudjx3/skins/raw/main/doomwrld/doom%20dt.osk)
+# [doom dt](https://github.com/rudj-skinhub/woal/raw/tyfh/doomwrld/doom%20dt.osk)
+[![](https://cdn.discordapp.com/attachments/936185753225007144/1020683668345339954/screenshot071.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/doomwrld/doom%20dt.osk)
 
-# [aprx stunna edit](https://github.com/rudjx3/skins/raw/main/doomwrld/aprx%20stunna%20edit.osk)
-[![](https://i.imgur.com/TABOceq.png)](https://github.com/rudjx3/skins/raw/main/doomwrld/aprx%20stunna%20edit.osk)
+# [aprx stunna edit](https://github.com/rudj-skinhub/woal/raw/tyfh/doomwrld/aprx%20stunna%20edit.osk)
+[![](https://i.imgur.com/TABOceq.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/doomwrld/aprx%20stunna%20edit.osk)
 
 #
 

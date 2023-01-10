@@ -13,11 +13,11 @@ last 23/10/2022
        width="151" 
        height="70"/></a>
 
-# [- shime!](https://github.com/rudjx3/skins/raw/main/shime/-%20shime!.osk)
-[![](https://shime.s-ul.eu/TgxD0wZ2)](https://github.com/rudjx3/skins/raw/main/shime/-%20shime!.osk)
+# [- shime!](https://github.com/rudj-skinhub/woal/raw/tyfh/shime/-%20shime!.osk)
+[![](https://shime.s-ul.eu/TgxD0wZ2)](https://github.com/rudj-skinhub/woal/raw/tyfh/shime/-%20shime!.osk)
 
-# [- shime! mapping & modding](https://github.com/rudjx3/skins/raw/main/shime/-%20shime!%20mapping%20%26%20modding.osk)
-[![](https://shime.s-ul.eu/GWaZFX7n)](https://github.com/rudjx3/skins/raw/main/shime/-%20shime!%20mapping%20%26%20modding.osk)
+# [- shime! mapping & modding](https://github.com/rudj-skinhub/woal/raw/tyfh/shime/-%20shime!%20mapping%20%26%20modding.osk)
+[![](https://shime.s-ul.eu/GWaZFX7n)](https://github.com/rudj-skinhub/woal/raw/tyfh/shime/-%20shime!%20mapping%20%26%20modding.osk)
 
 #
 <p align="center">

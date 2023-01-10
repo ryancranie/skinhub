@@ -8,14 +8,14 @@
 last 22/10/2022
 </p>
 
-# [rae 404](https://github.com/rudjx3/skins/raw/main/rae/rae%20404.osk)
-[![](https://i.imgur.com/yjfzzyU.jpeg)](https://github.com/rudjx3/skins/raw/main/rae/rae%20404.osk)
+# [rae 404](https://github.com/rudj-skinhub/woal/raw/tyfh/rae/rae%20404.osk)
+[![](https://i.imgur.com/yjfzzyU.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/rae/rae%20404.osk)
 
-# [rae rafis](https://github.com/rudjx3/skins/raw/main/rae/rae%20rafis.osk)
-[![](https://i.imgur.com/BwoUrlz.jpeg)](https://github.com/rudjx3/skins/raw/main/rae/rae%20rafis.osk)
+# [rae rafis](https://github.com/rudj-skinhub/woal/raw/tyfh/rae/rae%20rafis.osk)
+[![](https://i.imgur.com/BwoUrlz.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/rae/rae%20rafis.osk)
 
-# [yamemasita edit](https://github.com/rudjx3/skins/raw/main/rae/yamemasita_edit.osk)
-[![](https://i.imgur.com/KTS7hwr.jpg)](https://github.com/rudjx3/skins/raw/main/rae/yamemasita_edit.osk)
+# [yamemasita edit](https://github.com/rudj-skinhub/woal/raw/tyfh/rae/yamemasita_edit.osk)
+[![](https://i.imgur.com/KTS7hwr.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/rae/yamemasita_edit.osk)
 
 #
 <p align="center">
