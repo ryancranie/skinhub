@@ -23,12 +23,12 @@ last 03/01/2023
        width="151" 
        height="70"/></a>
 
-<a href="https://github.com/rudjx3/skins/blob/main/aeshub.md">
+<a href="https://github.com/rudj-skinhub/woal/blob/tyfh/aeshub.md">
 <img src="https://i.imgur.com/WPSNbSx.png"
        width="151" 
        height="70"/></a>
 
-<a href="https://github.com/rudjx3/skins/blob/main/aeshub.md">
+<a href="https://github.com/rudj-skinhub/woal/blob/tyfh/aeshub.md">
 <img src="https://i.imgur.com/nnkLwEo.png" 
        width="151" 
        height="70"/></a>
