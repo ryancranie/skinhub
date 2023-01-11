@@ -1,4 +1,4 @@
-# jack's skinhub
+# Jack's skinhub
 <p align="center">
 <a href="https://www.youtube.com/channel/UCQv7vaJwPNS5YWCZAC2YesA">
   <img src="https://i.imgur.com/AijpMmj.png"  
@@ -13,8 +13,8 @@ last updated <b>27/11/2022</b>
        width="151" 
        height="70"/></a>
 
-# [unicornpriv](https://github.com/rudj-skinhub/woal/raw/tyfh/bored/unicornpriv.osk)
-[![](https://i.imgur.com/Xm3MWwC.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/bored/unicornpriv.osk)
+# [unicornpriv](https://github.com/rudj-skinhub/woal/raw/tyfh/jack/unicornpriv.osk)
+[![](https://i.imgur.com/Xm3MWwC.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/jack/unicornpriv.osk)
 
 #
 <p align="center">
