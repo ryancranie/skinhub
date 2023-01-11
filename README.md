@@ -288,7 +288,7 @@ last updated <b>09/01/2023</b>
 <br>
   · <a href="https://sites.google.com/view/osu-skins-br/skins?authuser=0">osu skins brasil</a> ·<br>
   · <a href="https://github.com/wonderer0103/osu-skin-asdfasdfasdf/blob/main/README.md">wonderer-osu-skins</a> ·<br>
-  · <a href="https://github.com/venomthor2/morgan-osu-skins/blob/master/README.md">morgan-osu-skins</a> ·<br>
+  · <a href="https://github.com/venomthor2/morg-osu-skins-epic-wow-/blob/main/README.md">morgan-osu-skins</a> ·<br>
   · <a href="http://skins.osuck.net">skins.osuck.net</a> ·<br>
   · <a href="https://github.com/Mizaruuu/osu-RyuK-s-super-cool-skins/blob/master/Skins.md">RyuK-super-cool</a> ·<br>
   · <a href="https://monko2k.xyz/skins">Monko2k.xyz</a> ·<br>
