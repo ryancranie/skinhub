@@ -13,18 +13,8 @@ last updated <b>03/01/2023</b>
        width="151" 
        height="70"/></a>
 
-<a href="https://i.imgur.com/o0kMf8Y.png">
-<img src="https://i.imgur.com/o0kMf8Y.png"
-       width="151" 
-       height="70"/></a>
-
 <a href="https://github.com/baron6060/hard-to-find-osu-skins">
 <img src="https://i.imgur.com/WPSNbSx.png"
-       width="151" 
-       height="70"/></a>
-
-<a href="https://github.com/rudj-skinhub/woal/blob/tyfh/aeshub.md">
-<img src="https://i.imgur.com/nnkLwEo.png" 
        width="151" 
        height="70"/></a>
 
