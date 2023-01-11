@@ -5,7 +5,7 @@
        width="150"
        height="150"></a>
 <br>
-last updated <b>23/10/2022</b>
+last updated <b>11/01/2023</b>
 </p>
 
 <a href="https://www.youtube.com/watch?v=kbbgypvGPgM">
@@ -16,8 +16,8 @@ last updated <b>23/10/2022</b>
 # [- shime!](https://github.com/rudj-skinhub/woal/raw/tyfh/shime/-%20shime!.osk)
 [![](https://shime.s-ul.eu/TgxD0wZ2)](https://github.com/rudj-skinhub/woal/raw/tyfh/shime/-%20shime!.osk)
 
-# [- shime! mapping & modding](https://github.com/rudj-skinhub/woal/raw/tyfh/shime/-%20shime!%20mapping%20%26%20modding.osk)
-[![](https://shime.s-ul.eu/GWaZFX7n)](https://github.com/rudj-skinhub/woal/raw/tyfh/shime/-%20shime!%20mapping%20%26%20modding.osk)
+# [- shime! pepebusiness edit](https://github.com/rudj-skinhub/woal/raw/tyfh/shime/-%20shime!%20pepebusiness%20edit.osk)
+[![](https://shime.s-ul.eu/GWaZFX7n)](https://github.com/rudj-skinhub/woal/raw/tyfh/shime/-%20shime!%20pepebusiness%20edit.osk)
 
 #
 <p align="center">
