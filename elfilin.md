@@ -27,6 +27,10 @@ last updated <b>11/01/2023</b>
   <img src="https://i.imgur.com/YWbDUUy.png"  
        width="100" 
        height="100"></a>
+  <a href="https://twitter.com/elfilin_osu">
+  <img src="https://i.imgur.com/PUQ5uWf.png" 
+       width="100" 
+       height="100"></a>
   <br></br>
   <a href="README.md">rudj-skinhub</a>
  </p>
