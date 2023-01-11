@@ -5,7 +5,7 @@
        width="150"
        height="150"></a>
 <br>
-last 03/01/2023
+last updated <b>03/01/2023</b>
 </p>
 
 <a href="https://github.com/rudjx3/skins/blob/main/README.md">
@@ -103,5 +103,5 @@ last 03/01/2023
        width="100" 
        height="100"></a>
   <br></br>
-  <a href="README.md">woal mega-skinhub</a>
+  <a href="README.md">rudj-skinhub</a>
  </p>

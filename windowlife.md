@@ -5,7 +5,7 @@
        width="150"
        height="150"></a>
 <br>
-last 30/10/2022
+last updated <b>30/10/2022</b>
 </p>
 
 <a href="https://i.imgur.com/o0kMf8Y.png">
@@ -38,5 +38,5 @@ last 30/10/2022
        width="100" 
        height="100"></a>
   <br></br>
-  <a href="README.md">woal mega-skinhub</a>
+  <a href="README.md">rudj-skinhub</a>
  </p>

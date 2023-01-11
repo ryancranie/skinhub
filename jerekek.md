@@ -5,7 +5,7 @@
        width="150"
        height="150"></a>
 <br>
-last 18/09/2022
+last updated <b>18/09/2022</b>
 </p>
 
 # [Elojere 中野区](https://github.com/rudj-skinhub/woal/raw/tyfh/jerekek/Elojere%20%E4%B8%AD%E9%87%8E%E5%8C%BA.osk)
@@ -39,5 +39,5 @@ last 18/09/2022
        width="100" 
        height="100"></a>
   <br></br>
-  <a href="README.md">woal mega-skinhub</a>
+  <a href="README.md">rudj-skinhub</a>
  </p>

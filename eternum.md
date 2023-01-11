@@ -5,7 +5,7 @@
        width="150"
        height="150"></a>
 <br>
-last 26/10/2022
+last updated <b>26/10/2022</b>
 </p>
 
 <a href="https://gist.github.com/Redo7/e54fcf189c1c1aa2c8c7ee5341711312">
@@ -38,5 +38,5 @@ last 26/10/2022
        width="100" 
        height="100"></a>
   <br></br>
-  <a href="README.md">woal mega-skinhub</a>
+  <a href="README.md">rudj-skinhub</a>
  </p>

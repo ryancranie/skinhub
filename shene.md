@@ -5,7 +5,7 @@
        width="150"
        height="150"></a>
 <br>
-last 15/09/2022
+last updated <b>15/09/2022</b>
 </p>
  
  # [-_im_bad_privat](https://github.com/rudj-skinhub/woal/raw/tyfh/shene/-_im_bad_private.osk)
@@ -41,5 +41,5 @@ last 15/09/2022
        width="100" 
        height="100"></a>
  <br></br>
- <a href="README.md">woal mega-skinhub</a>
+ <a href="README.md">rudj-skinhub</a>
  </p>

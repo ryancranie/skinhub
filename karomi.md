@@ -5,7 +5,7 @@
        width="150"
        height="150"></a>
 <br>
-last 11/12/2022
+last updated <b>11/12/2022</b>
 </p>
 
 # [《Oka》 Rektygon 2.0 (Karomi Edit)](https://github.com/rudj-skinhub/woal/raw/tyfh/karomi/%E3%80%8AOka%E3%80%8B%20Rektygon%202.0%20(Karomi%20Edit).osk)
@@ -39,5 +39,5 @@ last 11/12/2022
        width="100" 
        height="100"></a>
   <br></br>
-  <a href="README.md">woal mega-skinhub</a>
+  <a href="README.md">rudj-skinhub</a>
  </p>

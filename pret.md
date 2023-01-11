@@ -5,7 +5,7 @@
        width="150"
        height="150"></a>
 <br>
-last 03/01/2023
+last updated <b>03/01/2023</b>
 </p>
 
 # [- Misaki best girl DT](https://github.com/rudj-skinhub/woal/raw/tyfh/pret/-%20Misaki%20best%20girl%20DT.osk)
@@ -48,5 +48,5 @@ last 03/01/2023
        width="100" 
        height="100"></a>
   <br></br>
-  <a href="README.md">woal mega-skinhub</a>
+  <a href="README.md">rudj-skinhub</a>
  </p>

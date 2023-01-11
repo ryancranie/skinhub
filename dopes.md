@@ -5,7 +5,7 @@
        width="150"
        height="150"></a>
 <br>
-last 27/11/2022
+last updated <b>27/11/2022</b>
 </p>
 
 # [dopes_edit](https://github.com/rudj-skinhub/woal/raw/tyfh/dopes/dopes_edit.osk)
@@ -33,5 +33,5 @@ last 27/11/2022
        width="100" 
        height="100"></a>
   <br></br>
-  <a href="README.md">woal mega-skinhub</a>
+  <a href="README.md">rudj-skinhub</a>
  </p>

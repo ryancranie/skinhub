@@ -44,5 +44,5 @@
 #
 
 <p align="center">
-<a href="README.md">woal mega-skinhub</a>
+<a href="README.md">rudj-skinhub</a>
 </p>
