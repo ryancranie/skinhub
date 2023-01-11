@@ -1,4 +1,4 @@
-# Mahmood's skinhub
+# Elfilin's skinhub
 <p align="center">
 <a href="https://osu.ppy.sh/users/7627844">
   <img src="https://a.ppy.sh/7627844"  
