@@ -278,6 +278,22 @@ last updated <b>09/01/2023</b>
   <img src="https://a.ppy.sh/18803427"
        width="175"
        height="175"></a>
+  <a href="plasma.md">
+  <img src="https://a.ppy.sh/10077431"
+       width="175"
+       height="175"></a>
+  <a href="elfilin.md">
+  <img src="https://a.ppy.sh/12640485"
+       width="175"
+       height="175"></a>
+  <a href="dark.md">
+  <img src="https://a.ppy.sh/5240155"
+       width="175"
+       height="175"></a>
+  <a href="453jake.md">
+  <img src="https://a.ppy.sh/12925812"
+       width="175"
+       height="175"></a>
   <br>
 </p>
 
@@ -297,7 +313,6 @@ last updated <b>09/01/2023</b>
   · <a href="https://github.com/nymphiaosu/funne-pribet-skins/blob/main/README.md">nymphia-funne-pribet</a> ·<br>
   · <a href="https://github.com/akanoriron/akanoriron.github.io/blob/main/README.md">akanoriron.github.io</a> ·<br>
   · <a href="https://gist.github.com/N0vywow/5955cfa83fe2b2fbf4f51752c5a72bc5">n0vy-skins.md</a> ·<br>
-  · <a href="https://sites.google.com/view/osu-skins-br/dark">osu-skins-br/dark</a> ·<br>
   · <a href="https://enri623.notion.site/enri623/skins-1713c8dcb3af4db8a6f4caf4e7fb5e37">enri.notion.site</a> ·<br>
   · <a href="https://github.com/joofixd/vaxei-osu-skins/blob/master/README.md">Vaxei-osu-skins</a> ·<br>
   · <a href="https://gist.github.com/Fobxx/107e2bad2bf7312cd49431c696aac912">Shigetora Skin Archive</a> ·<br>
