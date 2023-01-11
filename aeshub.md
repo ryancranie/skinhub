@@ -13,9 +13,9 @@
 [![](https://camo.githubusercontent.com/c252087e8d146266e489240f0ec8c120bd36b52342e5089858242a8facb1f224/68747470733a2f2f6f73752e7070792e73682f73732f31383230373630342f35363135)](https://github.com/rudj-skinhub/woal/raw/tyfh/charlotte/-%20%2B%20tkova.osk)
 <details><summary></summary>The cleanest tkova like skin i've ever played with, I prefer this skin over rafis on certain DT maps, which says a lot.</details>
 
-# [Sunflower Vol.1 - release](https://github.com/rudj-skinhub/woal/raw/tyfh/charlotte/Sunflower%20Vol.1%20-%20release.osk) | [Source](https://github.com/rudjx3/skins/blob/main/charlotte.md#sunflower-vol1---release)
+# [Sunflower Vol.1 - release](https://github.com/rudj-skinhub/woal/raw/tyfh/charlotte/Sunflower%20Vol.1%20-%20release.osk) | [Source](https://osu.ppy.sh/users/1629553)
 [![](https://camo.githubusercontent.com/0ccb6090a8b02acfe91338eb69b2d941f62802b1b07aa1cdb1e9dfb82e619636/68747470733a2f2f6f73752e7070792e73682f73732f31383230373635302f62303731)](https://github.com/rudj-skinhub/woal/raw/tyfh/charlotte/Sunflower%20Vol.1%20-%20release.osk)
-<details><summary></summary>Another charlotte skin, Sunflower has a perfect balance of older skin elements whilst retaining modern playability. For me, it's great on HD.</details>
+<details><summary></summary>User rHO made this skin, Sunflower has a perfect balance of older skin elements whilst retaining modern playability. For me, it's great on HD.</details>
 
 # [Toke_-_Natsukihina](https://github.com/rudj-skinhub/woal/raw/tyfh/toke/Toke_-_Natsukihina.osk) | [Source](https://github.com/rudjx3/skins/blob/main/toke.md#toke_-_natsukihina)
 [![](https://osu.ppy.sh/ss/18328072/d8fe)](https://github.com/rudj-skinhub/woal/raw/tyfh/toke/Toke_-_Natsukihina.osk)
