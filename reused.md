@@ -23,8 +23,8 @@ last updated <b>12/01/2023</b>
        width="151" 
        height="70"/></a>
 
-# [- + - tkori_r](https://github.com/rudj-skinhub/woal/raw/tyfh/reused/-%20%2B%20-%20tkori_r.osk)
-[![](https://i.imgur.com/Meckm9W.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/reused/-%20%2B%20-%20tkori_r.osk)
+# [- + - tkori_r](https://www.mediafire.com/file/46by2l74ywhbrb3/-+++-+tkori_r.osk/file)
+[![](https://i.imgur.com/Meckm9W.png)](https://www.mediafire.com/file/46by2l74ywhbrb3/-+++-+tkori_r.osk/file)
 
 # [tko reused](https://github.com/rudj-skinhub/woal/raw/tyfh/reused/tko%20reused.osk)
 [![](https://osu.ppy.sh/ss/18330165/692a)](https://github.com/rudj-skinhub/woal/raw/tyfh/reused/tko%20reused.osk)
