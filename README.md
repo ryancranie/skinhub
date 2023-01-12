@@ -1,8 +1,9 @@
 # rudj-skinhub
+### DISCLAIMER: I host this skinhub for dozens of players, I do not check every single skin for private assets. If you have a problem with me hosting a skin here, please contact me on <a href="https://twitter.com/rudj_">twitter</a>!! 
 made by <a href="https://twitter.com/rudj_">rudj</a><br>
 rip woal-mega-skinhub: 07/08/2022 - 10/01/2023<br>
 if you want a skinhub join the <a href="https://discord.gg/RE8ExXsvHZ">skinhub discord</a><br>
-last updated <b>11/01/2023</b>
+last updated <b>12/01/2023</b>
   <details>
     <summary>list instead of icons</summary><br>
 · <a href="453jake.md">453jake</a><br>
