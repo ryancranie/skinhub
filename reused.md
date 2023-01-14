@@ -25,6 +25,7 @@ last updated <b>12/01/2023</b>
 
 # [- + - tkori_r](https://www.mediafire.com/file/46by2l74ywhbrb3/-+++-+tkori_r.osk/file)
 [![](https://i.imgur.com/Meckm9W.png)](https://www.mediafire.com/file/46by2l74ywhbrb3/-+++-+tkori_r.osk/file)
+<details><summary></summary>^This skin is over 100MB; This skin's download link will not be hosted from the skinhub.</details>
 
 # [tko reused](https://github.com/rudj-skinhub/woal/raw/tyfh/reused/tko%20reused.osk)
 [![](https://osu.ppy.sh/ss/18330165/692a)](https://github.com/rudj-skinhub/woal/raw/tyfh/reused/tko%20reused.osk)
