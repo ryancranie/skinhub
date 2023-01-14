@@ -5,8 +5,14 @@
        width="150"
        height="150"></a>
 <br>
-last updated <b>11/01/2023</b>
+last updated <b>14/01/2023</b>
 </p>
+
+# [Ralsei From Deltarune (Bunnrei’s skin)](https://github.com/rudj-skinhub/woal/raw/tyfh/elfilin/ralseifromdeltarune.osk) (All modes)
+[![](https://i.imgur.com/9YeZdjg.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/elfilin/ralseifromdeltarune.osk)
+[![](https://i.imgur.com/RJ84OpF.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/elfilin/ralseifromdeltarune.osk)
+[![](https://i.imgur.com/l5r0X8a.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/elfilin/ralseifromdeltarune.osk)
+[![](https://i.imgur.com/QltiPTc.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/elfilin/ralseifromdeltarune.osk)
 
 # [King Dedede Kirby Mix Skin](https://github.com/rudj-skinhub/woal/raw/tyfh/elfilin/King%20Dedede%20Kirby%20Mix%20Skin.osk) | [Preview](https://youtu.be/Qfaevdz2vTE)
 [![](https://i.imgur.com/5jmjpAd.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/elfilin/King%20Dedede%20Kirby%20Mix%20Skin.osk)
