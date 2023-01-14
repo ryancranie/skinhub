@@ -8,7 +8,7 @@
 last updated <b>14/01/2023</b>
 </p>
 
-# [Ralsei From Deltarune (Bunnrei’s skin)](https://github.com/rudj-skinhub/woal/raw/tyfh/elfilin/ralseifromdeltarune.osk) (All modes)
+# [Ralsei From Deltarune (Bunnrei’s skin)](https://github.com/rudj-skinhub/woal/raw/tyfh/elfilin/ralseifromdeltarune.osk) (All modes & resolutions)
 [![](https://i.imgur.com/9YeZdjg.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/elfilin/ralseifromdeltarune.osk)
 [![](https://i.imgur.com/RJ84OpF.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/elfilin/ralseifromdeltarune.osk)
 [![](https://i.imgur.com/l5r0X8a.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/elfilin/ralseifromdeltarune.osk)
