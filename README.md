@@ -3,9 +3,10 @@
 made by <a href="https://twitter.com/rudj_">rudj</a><br>
 rip woal-mega-skinhub: 07/08/2022 - 10/01/2023<br>
 if you want a skinhub join the <a href="https://discord.gg/RE8ExXsvHZ">skinhub discord</a><br>
-last updated <b>12/01/2023</b>
+last updated <b>14/01/2023</b>
   <details>
     <summary>list instead of icons</summary><br>
+· <a href="1thgrader.md">1th Grader</a><br>
 · <a href="453jake.md">453jake</a><br>
 · <a href="accelerator.md">Accelerator</a><br>
 · <a href="airiat.md">airiat</a><br>
@@ -37,6 +38,7 @@ last updated <b>12/01/2023</b>
 · <a href="kiirochii.md">kiirochii</a><br>
 · <a href="kogan.md">kogan</a><br>
 · <a href="lifeline.md">Lifeline</a><br>
+· <a href="logosmage.md">logosmage</a><br>
 · <a href="longandthick.md">LongAndThick</a><br>
 · <a href="lucasual.md">lucasual</a><br>
 · <a href="luciano.md">Luciano</a><br>
@@ -297,6 +299,14 @@ last updated <b>12/01/2023</b>
        height="175"></a>
   <a href="453jake.md">
   <img src="https://a.ppy.sh/12925812"
+       width="175"
+       height="175"></a>
+  <a href="1thgrader.md">
+  <img src="https://a.ppy.sh/3417494"
+       width="175"
+       height="175"></a>
+  <a href="logosmage.md">
+  <img src="https://a.ppy.sh/25255914"
        width="175"
        height="175"></a>
   <br>
