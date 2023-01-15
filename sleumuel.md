@@ -13,6 +13,10 @@ last updated <b>07/01/2023</b>
        width="151" 
        height="70"/></a>
 
+# [-   ⊹ shizume](https://www.mediafire.com/file/d4totq9i8w4ellg/-_%25E2%258A%25B9_shizume.osk/file)
+[![](https://osu.ppy.sh/ss/18376467/2c60)](https://www.mediafire.com/file/d4totq9i8w4ellg/-_%25E2%258A%25B9_shizume.osk/file)
+<details><summary></summary>^This skin is over 100MB; This skin's download link will not be hosted from the skinhub.</details>
+
 # [sleumuel](https://github.com/rudj-skinhub/woal/raw/tyfh/sleumuel/sleumuel.osk)
 [![](https://osu.ppy.sh/ss/18359766/6bcc)](https://github.com/rudj-skinhub/woal/raw/tyfh/sleumuel/sleumuel.osk)
 
