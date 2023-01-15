@@ -316,10 +316,10 @@ last updated <b>14/01/2023</b>
   <img src="https://a.ppy.sh/25255914"
        width="175"
        height="175"></a>
-**  <a href="ajj.md">
+  <a href="ajj.md">
   <img src="https://a.ppy.sh/4959454"
        width="175"
-       height="175"></a>**
+       height="175"></a>
   <br>
 </p>
 
