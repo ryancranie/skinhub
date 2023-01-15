@@ -21,6 +21,10 @@ last updated <b>15/01/2023</b>
 #
 <p align="center">
   <br></br>
+  <a href="https://www.twitch.tv/logosmage11">
+  <img src="https://i.imgur.com/HM030lk.png" 
+       width="100" 
+       height="100"></a>
   <a href="https://www.youtube.com/@logosmage7748">
   <img src="https://i.imgur.com/YWbDUUy.png"  
        width="100" 
