@@ -37,10 +37,10 @@ last updated <b>15/01/2023</b>
 # [wix](https://github.com/rudj-skinhub/woal/raw/tyfh/lystia/wix.osk)
 [![](https://osu.ppy.sh/ss/18374315/1b8c)](https://github.com/rudj-skinhub/woal/raw/tyfh/lystia/wix.osk)
 
-# [boom_hit300](https://github.com/rudj-skinhub/woal/raw/tyfh/lystia/boom_hit300.osk)
+# [gn](https://github.com/rudj-skinhub/woal/raw/tyfh/lystia/boom_hit300.osk)
 [![](https://cdn.discordapp.com/attachments/999367667465068585/1025369923633037332/screenshot014.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/lystia/gn.osk)
 
-# [chitanda_rainbow](https://github.com/rudj-skinhub/woal/raw/tyfh/lystia/chitanda_rainbow.osk)
+# [chitanda](https://github.com/rudj-skinhub/woal/raw/tyfh/lystia/chitanda_rainbow.osk)
 [![](https://cdn.discordapp.com/attachments/999367667465068585/1025369988091097130/screenshot009.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/lystia/chitanda.osk)
 
 #
