@@ -5,32 +5,43 @@
        width="150"
        height="150"></a>
 <br>
-last updated <b>23/10/2022</b>
+last updated <b>15/01/2023</b>
 </p>
+
+<a href="https://www.youtube.com/watch?v=kbbgypvGPgM">
+<img src="https://i.imgur.com/uDyKiLi.png"
+       width="151" 
+       height="70"/></a>
+
+# [tekkitoseoul](https://github.com/rudj-skinhub/woal/raw/tyfh/lystia/tekkitoseoul.osk)
+[![](https://osu.ppy.sh/ss/18374307/ea27)](https://github.com/rudj-skinhub/woal/raw/tyfh/lystia/tekkitoseoul.osk)
+
+# [tekkitowww](https://github.com/rudj-skinhub/woal/raw/tyfh/lystia/tekkitowww.osk)
+[![](https://osu.ppy.sh/ss/18374312/d9c1)](https://github.com/rudj-skinhub/woal/raw/tyfh/lystia/tekkitowww.osk)
+
+# [tekkitoaristia](https://github.com/rudj-skinhub/woal/raw/tyfh/lystia/tekkitoaristia.osk)
+[![](https://osu.ppy.sh/ss/18374300/c594)](https://github.com/rudj-skinhub/woal/raw/tyfh/lystia/tekkitoaristia.osk)
+
+# [karcher](https://github.com/rudj-skinhub/woal/raw/tyfh/lystia/karcher.osk)
+[![](https://osu.ppy.sh/ss/18374295/4b13)](https://github.com/rudj-skinhub/woal/raw/tyfh/lystia/karcher.osk)
+
+# [default](https://github.com/rudj-skinhub/woal/raw/tyfh/lystia/default.osk)
+[![](https://osu.ppy.sh/ss/18374277/f6c3)](https://github.com/rudj-skinhub/woal/raw/tyfh/lystia/default.osk)
+
+# [tekkitodefault](https://github.com/rudj-skinhub/woal/raw/tyfh/lystia/tekkitodefault.osk)
+[![](https://osu.ppy.sh/ss/18374303/3eff)](https://github.com/rudj-skinhub/woal/raw/tyfh/lystia/tekkitodefault.osk)
+
+# [milo](https://github.com/rudj-skinhub/woal/raw/tyfh/lystia/milo.osk)
+[![](https://osu.ppy.sh/ss/18374298/86b1)](https://github.com/rudj-skinhub/woal/raw/tyfh/lystia/milo.osk)
+
+# [wix](https://github.com/rudj-skinhub/woal/raw/tyfh/lystia/wix.osk)
+[![](https://osu.ppy.sh/ss/18374315/1b8c)](https://github.com/rudj-skinhub/woal/raw/tyfh/lystia/wix.osk)
 
 # [boom_hit300](https://github.com/rudj-skinhub/woal/raw/tyfh/lystia/boom_hit300.osk)
 [![](https://cdn.discordapp.com/attachments/999367667465068585/1025369923633037332/screenshot014.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/lystia/boom_hit300.osk)
 
-# [lystia_dt](https://github.com/rudj-skinhub/woal/raw/tyfh/lystia/lystia_dt.osk)
-[![](https://i.imgur.com/rdVanix.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/lystia/lystia_dt.osk)
-
-# [boop_tech](https://github.com/rudj-skinhub/woal/raw/tyfh/lystia/boop_tech.osk)
-[![](https://cdn.discordapp.com/attachments/999367667465068585/1025369987747172362/screenshot008.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/lystia/boop_tech.osk)
-
 # [chitanda_rainbow](https://github.com/rudj-skinhub/woal/raw/tyfh/lystia/chitanda_rainbow.osk)
 [![](https://cdn.discordapp.com/attachments/999367667465068585/1025369988091097130/screenshot009.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/lystia/chitanda_rainbow.osk)
-
-# [milo_insta](https://github.com/rudj-skinhub/woal/raw/tyfh/lystia/milo_insta.osk)
-[![](https://cdn.discordapp.com/attachments/999367667465068585/1025369988439232553/screenshot010.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/lystia/milo_insta.osk)
-
-# [rudj_milo](https://github.com/rudj-skinhub/woal/raw/tyfh/lystia/rudj_milo.osk)
-[![](https://cdn.discordapp.com/attachments/999367667465068585/1025369989026435093/screenshot015.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/lystia/rudj_milo.osk)
-
-# [tekkito_pink](https://github.com/rudj-skinhub/woal/raw/tyfh/lystia/tekkito_pink.osk)
-[![](https://cdn.discordapp.com/attachments/999367667465068585/1025370678565806110/screenshot021.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/lystia/tekkito_pink.osk)
-
-# [haga](https://github.com/rudj-skinhub/woal/raw/tyfh/lystia/haga.osk)
-[![](https://i.imgur.com/YOTh0gth.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/lystia/haga.osk)
 
 #
 <p align="center">
