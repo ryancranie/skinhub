@@ -16,6 +16,9 @@ last updated <b>27/12/2022</b>
 # [#lifeline x Kristiyan subahibi](https://github.com/rudj-skinhub/woal/raw/tyfh/xkristiyan/-_lifeline_x_Kristiyan_subahibi.osk) | [Source](https://github.com/rudj-skinhub/woal/blob/tyfh/xkristiyan.md#lifeline-x-kristiyan-subahibi)
 [![](https://i.imgur.com/ssg3v5Q.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/xkristiyan/-_lifeline_x_Kristiyan_subahibi.osk)
 
+# [funorange edit](https://github.com/rudj-skinhub/woal/raw/tyfh/lifeline/funorange%20edit.osk)
+[![](https://osu.ppy.sh/ss/18375244/2837)](https://github.com/rudj-skinhub/woal/raw/tyfh/lifeline/funorange%20edit.osk)
+
 # [navy kantoku lifeline edit](https://github.com/rudj-skinhub/woal/raw/tyfh/lifeline/navy%20kantoku%20lifeline%20edit.osk)
 [![](https://i.imgur.com/i4RqJMn.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/lifeline/navy%20kantoku%20lifeline%20edit.osk)
 
