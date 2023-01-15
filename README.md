@@ -10,6 +10,7 @@ last updated <b>14/01/2023</b>
 · <a href="453jake.md">453jake</a><br>
 · <a href="accelerator.md">Accelerator</a><br>
 · <a href="airiat.md">airiat</a><br>
+· <a href="ajj.md">AJJ</a><br>
 · <a href="aleph.md">Aleph</a><br>
 · <a href="alfonso.md">Alfonso</a><br>
 · <a href="astral.md">astral</a><br>
@@ -57,6 +58,7 @@ last updated <b>14/01/2023</b>
 · <a href="reused.md">Reused</a><br>
 · <a href="roaz.md">roaz</a><br>
 · <a href="rudj.md">rudj</a><br>
+· <a href="sera.md">sera</a><br>
 · <a href="shene.md">shene</a><br>
 · <a href="shime.md">Shime</a><br>
 · <a href="sleumuel.md">sleumuel</a><br>
@@ -86,16 +88,16 @@ last updated <b>14/01/2023</b>
   <img src="https://a.ppy.sh/5513765"  
        width="175"
        height="175"></a>
-  <a href="reused.md">
-  <img src="https://a.ppy.sh/11626318"
-       width="175"
-       height="175"></a>
   <a href="luciano.md">
   <img src="https://a.ppy.sh/11604978" 
        width="175" 
        height="175"></a>
   <a href="dark.md">
   <img src="https://a.ppy.sh/5240155"
+       width="175"
+       height="175"></a>
+  <a href="lystia.md">
+  <img src="https://a.ppy.sh/11042418"  
        width="175"
        height="175"></a>
   <a href="/cloudkeyz/cloudkeyzMain.md">
@@ -105,6 +107,14 @@ last updated <b>14/01/2023</b>
   <a href="roaz.md">
   <img src="https://a.ppy.sh/12834269" 
        width="175" 
+       height="175"></a>
+  <a href="reused.md">
+  <img src="https://a.ppy.sh/11626318"
+       width="175"
+       height="175"></a>
+  <a href="sera.md">
+  <img src="https://a.ppy.sh/11930716"
+       width="175"
        height="175"></a>
   <a href="gabey.md">
   <img src="https://a.ppy.sh/12904237" 
@@ -117,10 +127,6 @@ last updated <b>14/01/2023</b>
   <a href="shene.md">
   <img src="https://media.discordapp.net/attachments/739284160090472449/1019860887080804374/222222222.png" 
        width="175" 
-       height="175"></a>
-  <a href="lystia.md">
-  <img src="https://a.ppy.sh/11042418"  
-       width="175"
        height="175"></a>
   <a href="lifeline.md">
   <img src="https://a.ppy.sh/11367222"  
@@ -310,6 +316,10 @@ last updated <b>14/01/2023</b>
   <img src="https://a.ppy.sh/25255914"
        width="175"
        height="175"></a>
+**  <a href="ajj.md">
+  <img src="https://a.ppy.sh/4959454"
+       width="175"
+       height="175"></a>**
   <br>
 </p>
 
