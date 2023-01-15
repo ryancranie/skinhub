@@ -69,7 +69,8 @@ last updated <b>14/01/2023</b>
     <summary>skinning tools</summary><br>
 · <a href="https://github.com/rednir/OsuSkinMixer">OsuSkinMixer</a> - best skin mixxing tool legit<br>
 · <a href="https://github.com/clarks03/Osu-Instafade-Tool">Osu-Instafade-Tool</a> - can make any skin instafade; super awesome<br>
-· <a href="https://github.com/Jose134/HDtoSD">Jose134/HDtoSD</a> - be careful using this!! (use it in a seperate directory) <br>
+· <a href="https://github.com/Jose134/HDtoSD">Jose134/HDtoSD</a> - be careful using this!! (use it in a seperate directory)<br>
+· <a href="https://github.com/RoanH/ImageScaler">RoanH/ImageScaler</a> - pretty customizable (use it in a seperate directory)<br>
   </details>
   
 #
