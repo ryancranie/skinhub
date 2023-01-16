@@ -28,7 +28,7 @@ last updated <b>15/01/2023</b>
 #
 <p align="center">
   <br></br>
-  <a href="https://www.twitch.tv/killedwish">
+  <a href="https://www.twitch.tv/378x">
   <img src="https://i.imgur.com/HM030lk.png" 
        width="100" 
        height="100"></a>
