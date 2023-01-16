@@ -32,7 +32,7 @@ last updated <b>15/01/2023</b>
   <img src="https://i.imgur.com/HM030lk.png" 
        width="100" 
        height="100"></a>
-  <a href="https://twitter.com/wishkills">
+  <a href="https://twitter.com/7astral">
   <img src="https://i.imgur.com/PUQ5uWf.png" 
        width="100" 
        height="100"></a>
