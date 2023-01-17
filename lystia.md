@@ -29,7 +29,7 @@ last updated <b>15/01/2023</b>
 [![](https://osu.ppy.sh/ss/18374277/f6c3)](https://github.com/rudj-skinhub/woal/raw/tyfh/lystia/default.osk)
 
 # [tekkitodefault](https://github.com/rudj-skinhub/woal/raw/tyfh/lystia/tekkitodefault.osk)
-[![](https://osu.ppy.sh/ss/18374303/3eff)](https://github.com/rudj-skinhub/woal/raw/tyfh/lystia/tekkitodefault.osk)
+[![](https://i.imgur.com/GW7V8xv.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/lystia/tekkitodefault.osk)
 
 # [milo](https://github.com/rudj-skinhub/woal/raw/tyfh/lystia/milo.osk)
 [![](https://osu.ppy.sh/ss/18374298/86b1)](https://github.com/rudj-skinhub/woal/raw/tyfh/lystia/milo.osk)
