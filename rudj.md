@@ -5,7 +5,7 @@
        width="150"
        height="150"></a>
 <br>
-last updated <b>03/01/2023</b>
+last updated <b>18/01/2023</b>
 </p>
 
 <a href="https://github.com/rudjx3/skins/blob/main/README.md">
@@ -27,6 +27,12 @@ last updated <b>03/01/2023</b>
 <img src="https://i.imgur.com/nnkLwEo.png" 
        width="151" 
        height="70"/></a>
+
+# [- + autumn](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/-%20%2B%20autumn.osk)
+[![](https://i.imgur.com/kP0g5XO.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/-%20%2B%20autumn.osk)
+
+# [- + autumn dt](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/-%20%2B%20autumn%20dt.osk)
+[![](https://i.imgur.com/KUwVMJI.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/-%20%2B%20autumn%20dt.osk)
 
 # [rudj malis edit](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/rudj%20malis%20edit.osk)
 [![](https://osu.ppy.sh/ss/18350711/d19a)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/rudj%20malis%20edit.osk)
