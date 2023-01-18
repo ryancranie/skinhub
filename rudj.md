@@ -29,7 +29,7 @@ last updated <b>18/01/2023</b>
        height="70"/></a>
 
 # [- + autumn](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/-%20%2B%20autumn.osk)
-[![](https://i.imgur.com/kP0g5XO.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/-%20%2B%20autumn.osk)
+[![](https://i.imgur.com/crci7c9.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/-%20%2B%20autumn.osk)
 
 # [- + autumn dt](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/-%20%2B%20autumn%20dt.osk)
 [![](https://i.imgur.com/KUwVMJI.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/-%20%2B%20autumn%20dt.osk)
