@@ -3,7 +3,6 @@
 made by <a href="https://twitter.com/rudj_">rudj</a><br>
 rip woal-mega-skinhub: 07/08/2022 - 10/01/2023<br>
 if you want a skinhub join the <a href="https://discord.gg/RE8ExXsvHZ">skinhub discord</a><br>
-last updated <b>14/01/2023</b>
   <details>
     <summary>list instead of icons</summary><br>
 · <a href="1thgrader.md">1th Grader</a><br>
