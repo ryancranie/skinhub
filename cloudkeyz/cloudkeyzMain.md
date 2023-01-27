@@ -34,5 +34,5 @@ There are LOTS of [Alternate skins], check them out! FYI, the download links on 
        width="100" 
        height="100"></a>
   <br></br>
-  <a href="https://github.com/rudjx3/skins/blob/main/README.md">woal mega-skinhub</a>
+  <a href="README.md">rudj-skinhub</a>
  </p>
