@@ -5,8 +5,19 @@
        width="150"
        height="150"></a>
 <br>
-last updated <b>29/12/2022</b>
+last updated <b>27/01/2023</b>
 </p>
+
+<a href="https://www.youtube.com/watch?v=kbbgypvGPgM">
+<img src="https://i.imgur.com/uDyKiLi.png"
+       width="151" 
+       height="70"/></a>
+
+# [bleh](https://github.com/rudj-skinhub/woal/raw/tyfh/delta/bleh.osk)
+[![](https://i.imgur.com/s1AtrRo.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/delta/bleh.osk)
+
+# [deltahddt](https://github.com/rudj-skinhub/woal/raw/tyfh/delta/deltahddt.osk)
+[![](https://i.imgur.com/FNGJhOB.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/delta/deltahddt.osk)
 
 # [Made in Abyss (remake)](https://github.com/rudj-skinhub/woal/raw/tyfh/delta/Made%20in%20Abyss%20(remake).osk)
 [![](https://i.imgur.com/dP4ZbUR.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/delta/Made%20in%20Abyss%20(remake).osk)
