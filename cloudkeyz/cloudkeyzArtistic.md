@@ -5,7 +5,7 @@
        width="150"
        height="150"></a>
 <br>
-last 23/12/2022
+last <b>23/12/2022</b>
 </p>
 
 # [【 BOFXVI 】 竹 竹 竹 竹 竹(Take) !](https://drive.google.com/file/d/1kFdKoXQaUMiAdiue-n_IKc3jv2zPrwQv/view?usp=share_link)
