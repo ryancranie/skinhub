@@ -5,7 +5,7 @@
        width="150"
        height="150"></a>
 <br>
-last 23/12/2022
+last <b>23/12/2022</b>
 </p>
 
 # [# 『 PERSONA 5 』 #](https://drive.google.com/file/d/1SbZTx4lG6Hdyl-wWaGgndjVo8LabVCQT/view)
