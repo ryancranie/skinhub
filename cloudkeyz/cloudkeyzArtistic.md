@@ -37,5 +37,5 @@ last 23/12/2022
        height="100"></a>
   <br></br>
   <a href="cloudkeyzMain.md">CloudKeyz' main page</a><br>
-  <a href="https://github.com/rudjx3/skins/blob/main/README.md">woal mega-skinhub</a>
+  <a href="README.md">rudj-skinhub</a>
  </p>
