@@ -5,7 +5,7 @@
        width="150"
        height="150"></a>
 <br>
-last 23/12/2022
+last <b>23/12/2022</b>
 </p>
 
 # [# Chocomint Ice v1.0 #](https://drive.google.com/file/d/12rZFGTkdNqtpgj3n8-pY-c1HgnRDjbe7/view)
