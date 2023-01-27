@@ -5,7 +5,7 @@
        width="150"
        height="150"></a>
 <br>
-last 23/12/2022
+last <b>23/12/2022</b>
 </p>
 
 # [# 〘 SOUND VOLTEX 〙VIVID WAVE #](https://drive.google.com/file/d/1xMK85Tv1_g-jbUzsO6dsATgLaeOhKoRN/view?usp=share_link)
@@ -29,5 +29,5 @@ last 23/12/2022
        height="100"></a>
   <br></br>
   <a href="cloudkeyzMain.md">CloudKeyz' main page</a><br>
-  <a href="https://github.com/rudjx3/skins/blob/main/README.md">woal mega-skinhub</a>
+  <a href="README.md">rudj-skinhub</a>
  </p>
