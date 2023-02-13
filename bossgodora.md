@@ -5,7 +5,7 @@
        width="150"
        height="150"></a>
 <br>
-last updated <b>07/01/2023</b>
+last updated <b>13/02/2023</b>
 </p>
 
 # [SPONGOIDS](https://github.com/rudj-skinhub/woal/raw/tyfh/bossgodora/SPONGOIDS.osk)
@@ -16,6 +16,9 @@ last updated <b>07/01/2023</b>
 
 # [cheeseburger](https://github.com/rudj-skinhub/woal/raw/tyfh/bossgodora/cheeseburger.osk)
 [![](https://i.imgur.com/rSJXMC4.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/bossgodora/cheeseburger.osk)
+
+# [Mafham Mix (Slider Skin taiko edit)](https://github.com/rudj-skinhub/woal/raw/tyfh/bossgodora/Mafham_Mix_Slider_Skin_taiko_edit.osk)
+[![](https://i.imgur.com/uJdIj4x.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/bossgodora/Mafham_Mix_Slider_Skin_taiko_edit.osk)
 
 #
 <p align="center">
