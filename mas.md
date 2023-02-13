@@ -22,7 +22,10 @@ last updated <b>13/02/2023</b>
 <img src="https://i.imgur.com/nnkLwEo.png" 
        width="151" 
        height="70"/></a>
- 
+
+# [kimika Xilver](https://github.com/rudj-skinhub/woal/raw/tyfh/mas/kimika%20xilver.osk)
+[![](https://i.imgur.com/Qq5hwLk.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/mas/kimika%20xilver.osk)
+
 # [rolling girl](https://github.com/rudj-skinhub/woal/raw/tyfh/mas/rolling%20girl.osk)
 [![](https://i.imgur.com/ffAv5Ob.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/mas/rolling%20girl.osk)
 
