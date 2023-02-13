@@ -18,7 +18,7 @@ last updated <b>13/02/2023</b>
 [![](https://i.imgur.com/vPN5rgx.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/milim/toke%2Bnewnew.osk)
 
 # [toke+mocha kez edit](https://github.com/rudj-skinhub/woal/raw/tyfh/milim/toke%2Bmocha%20kez%20edit.osk)
-[![](https://i.imgur.com/TpxB30F.jpeg)]([)](https://github.com/rudj-skinhub/woal/raw/tyfh/milim/toke%2Bmocha%20kez%20edit.osk)
+[![](https://i.imgur.com/TpxB30F.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/milim/toke%2Bmocha%20kez%20edit.osk)
 
 # [toke dark edit](https://github.com/rudj-skinhub/woal/raw/tyfh/milim/toke%20dark%20edit.osk)
 [![](https://i.imgur.com/YCO1UpO.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/milim/toke%20dark%20edit.osk)
