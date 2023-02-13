@@ -5,8 +5,11 @@
        width="150"
        height="150"></a>
 <br>
-last updated <b>09/12/2022</b>
+last updated <b>13/02/2023</b>
 </p>
+
+# [umineko lucas Golden](https://github.com/rudj-skinhub/woal/raw/tyfh/lucasual/umineko%20lucas%20Golden.osk)
+[![](https://i.imgur.com/iOfGWqo.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/lucasual/umineko%20lucas%20Golden.osk)
 
 # [umineko lucas Aristia](https://github.com/rudj-skinhub/woal/raw/tyfh/lucasual/umineko%20lucas%20Aristia.osk)
 [![](https://i.imgur.com/81ETUdK.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/lucasual/umineko%20lucas%20Aristia.osk)
