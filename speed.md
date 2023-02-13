@@ -5,8 +5,11 @@
        width="150"
        height="150"></a>
 <br>
-last updated <b>07/01/2023</b>
+last updated <b>13/02/2023</b>
 </p>
+
+# [be_mono](https://github.com/rudj-skinhub/woal/raw/tyfh/speed/be_mono.osk)
+[![](https://i.imgur.com/CRSZLU3.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/speed/be_mono.osk)
 
 # [n2zg85](https://github.com/rudj-skinhub/woal/raw/tyfh/speed/n2zg85.osk)
 [![](https://cdn.discordapp.com/attachments/1020438364001939547/1020440353008013422/screenshot1335.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/speed/n2zg85.osk)
