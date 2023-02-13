@@ -8,6 +8,11 @@
 last updated 13/02/2023
 </p>
 
+<a href="https://www.youtube.com/watch?v=kbbgypvGPgM">
+<img src="https://i.imgur.com/uDyKiLi.png"
+       width="151" 
+       height="70"/></a>
+
 # [flayy instafade](https://github.com/rudj-skinhub/woal/raw/tyfh/flayy/flayy%20instafade.osk)
 [![](https://i.imgur.com/uqhPPIK.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/flayy/flayy%20instafade.osk)
 
