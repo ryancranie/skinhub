@@ -1,4 +1,4 @@
-# Mahmood's skinhub
+# Arancino's skinhub
 <p align="center">
 <a href="https://osu.ppy.sh/users/11749789">
   <img src="https://a.ppy.sh/11749789"  
@@ -8,8 +8,17 @@
 last updated <b>13/02/2023</b>
 </p>
 
-# [HABIBI boop](https://github.com/rudj-skinhub/woal/raw/tyfh/mahmood/HABIBI%20boop.osk)
-[![](https://osu.ppy.sh/ss/18127492/45d4)](https://github.com/rudj-skinhub/woal/raw/tyfh/mahmood/HABIBI%20boop.osk)
+# [Marisancino](https://github.com/rudj-skinhub/woal/raw/tyfh/arancino/Marisancino.osk)
+[![](https://i.imgur.com/zQ5DUls.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/arancino/Marisancino.osk)
+
+# [Arancino (aristia)](https://github.com/rudj-skinhub/woal/raw/tyfh/arancino/Arancino%20(aristia).osk)
+[![](https://i.imgur.com/ubT7Arh.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/arancino/Arancino%20(aristia).osk)
+
+# [ArancinoFumo (Bubbleman)](https://github.com/rudj-skinhub/woal/raw/tyfh/arancino/ArancinoFumo%20(Bubbleman).osk)
+[![](https://i.imgur.com/AKVTfXf.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/arancino/ArancinoFumo%20(Bubbleman).osk)
+
+# [Arancino old](https://github.com/rudj-skinhub/woal/raw/tyfh/arancino/Arancino%20old.osk)
+[![](https://i.imgur.com/Uv75qvA.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/arancino/Arancino%20old.osk)
 
 #
 <p align="center">
