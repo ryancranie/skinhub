@@ -9,10 +9,13 @@ last updated 16/09/2022
 </p>
 
 # [flayy instafade](https://github.com/rudj-skinhub/woal/raw/tyfh/flayy/flayy%20instafade.osk)
-[![](https://cdn.discordapp.com/attachments/1018957796097667122/1020291044937568296/unknown.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/flayy/flayy%20instafade.osk)
+[![](https://i.imgur.com/uqhPPIK.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/flayy/flayy%20instafade.osk)
 
 # [azerino_instafade](https://github.com/rudj-skinhub/woal/raw/tyfh/flayy/azerino_instafade.osk)
-[![](https://cdn.discordapp.com/attachments/1018957796097667122/1020290852473557013/unknown.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/flayy/azerino_instafade.osk)
+[![](https://i.imgur.com/7Sg5glh.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/flayy/azerino_instafade.osk)
+
+# [Aristia flayy](https://github.com/rudj-skinhub/woal/raw/tyfh/flayy/Aristia%20flayy.osk)
+[![](https://i.imgur.com/zLmYmPx.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/flayy/Aristia%20flayy.osk)
 
 #
 <p align="center">
