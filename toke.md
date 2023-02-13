@@ -5,7 +5,7 @@
        width="150"
        height="150"></a>
 <br>
-last updated <b>23/12/2022</b>
+last updated <b>13/02/2023</b>
 </p>
 
 <a href="https://www.youtube.com/watch?v=kbbgypvGPgM">
@@ -25,6 +25,9 @@ last updated <b>23/12/2022</b>
 
 # [Toke_-_Natsukihina](https://github.com/rudj-skinhub/woal/raw/tyfh/toke/Toke_-_Natsukihina.osk)
 [![](https://osu.ppy.sh/ss/18328072/d8fe)](https://github.com/rudj-skinhub/woal/raw/tyfh/toke/Toke_-_Natsukihina.osk)
+
+# [toke+newnew](https://github.com/rudj-skinhub/woal/raw/tyfh/toke/toke%2Bnewnew.osk)
+[![](https://i.imgur.com/vPN5rgx.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/toke/toke%2Bnewnew.osk)
 
 #
 <p align="center">
