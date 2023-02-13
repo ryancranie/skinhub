@@ -5,7 +5,7 @@
        width="150"
        height="150"></a>
 <br>
-last updated 16/09/2022
+last updated 13/02/2023
 </p>
 
 # [flayy instafade](https://github.com/rudj-skinhub/woal/raw/tyfh/flayy/flayy%20instafade.osk)
