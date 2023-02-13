@@ -29,10 +29,10 @@ last updated <b>19/01/2023</b>
        height="70"/></a>
 
 # [- ⊹ autumn](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/-%20%E2%8A%B9%20autumn.osk)
-[![](https://i.imgur.com/ltx51VU.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/-%20%E2%8A%B9%20autumn.osk)
+[![](https://i.imgur.com/7uSegch.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/-%20%E2%8A%B9%20autumn.osk)
 
 # [- ⊹ autumn dt](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/-%20%E2%8A%B9%20autumn%20dt.osk)
-[![](https://i.imgur.com/MAk0nxx.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/-%20%E2%8A%B9%20autumn%20dt.osk)
+[![](https://i.imgur.com/Ufi91UN.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/-%20%E2%8A%B9%20autumn%20dt.osk)
 
 # [rudj malis edit](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/rudj%20malis%20edit.osk)
 [![](https://osu.ppy.sh/ss/18350711/d19a)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/rudj%20malis%20edit.osk)
