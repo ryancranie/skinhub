@@ -5,7 +5,7 @@
        width="150"
        height="150"></a>
 <br>
-last updated <b>29/12/2022</b>
+last updated <b>15/02/2023</b>
 </p>
 
 # [this skin is ass](https://github.com/rudj-skinhub/woal/raw/tyfh/tree/this%20skin%20is%20ass.osk)
