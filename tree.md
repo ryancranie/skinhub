@@ -8,8 +8,11 @@
 last updated <b>29/12/2022</b>
 </p>
 
-# [just a mixed skin](https://github.com/rudj-skinhub/woal/raw/tyfh/tree/just%20a%20mixed%20skin.osk)
-[![](https://i.imgur.com/rJtHG5f.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/tree/just%20a%20mixed%20skin.osk)
+# [this skin is ass](https://github.com/rudj-skinhub/woal/raw/tyfh/tree/this%20skin%20is%20ass.osk)
+[![](https://i.imgur.com/rEspKbX.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/tree/this%20skin%20is%20ass.osk)
+
+# [this skin is dt](https://github.com/rudj-skinhub/woal/raw/tyfh/tree/this%20skin%20is%20dt.osk)
+[![](https://i.imgur.com/o1jQt7L.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/tree/this%20skin%20is%20dt.osk)
 
 #
 <p align="center">
