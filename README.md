@@ -38,6 +38,7 @@ if you want a skinhub join the <a href="https://discord.gg/RE8ExXsvHZ">skinhub d
 · <a href="jade.md">Jade</a><br>
 · <a href="jerekek.md">Jerekek</a><br>
 · <a href="jezusne.md">JezusNE</a><br>
+· <a href="knko.md">Knko</a><br>
 · <a href="tree.md">just a tree</a><br>
 · <a href="kanocchi.md">kanocchi</a><br>
 · <a href="karomi.md">Karomi</a><br>
@@ -72,6 +73,7 @@ if you want a skinhub join the <a href="https://discord.gg/RE8ExXsvHZ">skinhub d
 · <a href="speed.md">speed</a><br>
 · <a href="suzuori.md">Suzuori</a><br>
 · <a href="toke.md">Toke</a><br>
+· <a href="wilsen.md">wilsen</a><br>
 · <a href="windowlife.md">WindowLife</a><br>
 · <a href="xkristiyan.md">xKristiyan</a><br>
   </details>
@@ -364,6 +366,14 @@ if you want a skinhub join the <a href="https://discord.gg/RE8ExXsvHZ">skinhub d
   <img src="https://a.ppy.sh/8821737"
        width="175"
        height="175"></a>
+  <a href="knko.md">
+  <img src="https://i.imgur.com/XNnOy72.jpeg"
+       width="175"
+       height="175"></a>
+  <a href="wilsen.md">
+  <img src="https://a.ppy.sh/9221036"
+       width="175"
+       height="175"></a>
   <br>
 </p>
 
@@ -379,6 +389,7 @@ if you want a skinhub join the <a href="https://discord.gg/RE8ExXsvHZ">skinhub d
   · <a href="https://github.com/Mizaruuu/osu-RyuK-s-super-cool-skins/blob/master/Skins.md">RyuK-super-cool</a> ·<br>
   · <a href="https://monko2k.xyz/skins">Monko2k.xyz</a> ·<br>
   · <a href="https://compendium.skinship.xyz/">compendium.skinship.xyz</a> ·<br>
+  · <a href="https://github.com/malyszewski/malyszewski/blob/main/skiny.md">malis-tekkito</a> ·<br>
   · <a href="https://circle-people.com/skins/">circle-people.com</a> ·<br>
   · <a href="https://github.com/nymphiaosu/funne-pribet-skins/blob/main/README.md">nymphia-funne-pribet</a> ·<br>
   · <a href="https://github.com/akanoriron/akanoriron.github.io/blob/main/README.md">akanoriron.github.io</a> ·<br>
