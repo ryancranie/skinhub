@@ -12,8 +12,8 @@ last updated <b>04/04/2023</b>
 [![](https://i.ibb.co/kVZ7vKV/screenshot039.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/knko/-%20kasushiina.osk)
 
 #
-
 <p align="center">
+  <br></br>
   <a href="https://twitter.com/knko21505584">
   <img src="https://i.imgur.com/PUQ5uWf.png" 
        width="100" 
