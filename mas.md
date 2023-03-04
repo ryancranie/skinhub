@@ -5,7 +5,7 @@
        width="150"
        height="150"></a>
 <br>
-last updated <b>13/02/2023</b>
+last updated <b>04/04/2023</b>
 </p>
 
 <a href="https://www.youtube.com/watch?v=kbbgypvGPgM">
@@ -22,6 +22,12 @@ last updated <b>13/02/2023</b>
 <img src="https://i.imgur.com/nnkLwEo.png" 
        width="151" 
        height="70"/></a>
+
+# [- poemchan](https://github.com/rudj-skinhub/woal/raw/tyfh/mas/-%20poemchan.osk)
+[![](https://i.imgur.com/YmnZjSb.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/mas/-%20poemchan.osk)
+
+# [U+2638](https://github.com/rudj-skinhub/woal/raw/tyfh/mas/U%2B2638.osk)
+[![](https://i.imgur.com/8QhZtN0.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/mas/U%2B2638.osk)
 
 # [kimika Xilver](https://github.com/rudj-skinhub/woal/raw/tyfh/mas/kimika%20xilver.osk)
 [![](https://i.imgur.com/Qq5hwLk.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/mas/kimika%20xilver.osk)
