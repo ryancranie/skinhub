@@ -5,7 +5,7 @@
        width="150"
        height="150"></a>
 <br>
-last updated <b>27/01/2022</b>
+last updated <b>04/04/2023</b>
 </p>
 
 <a href="https://www.youtube.com/watch?v=kbbgypvGPgM">
@@ -13,11 +13,14 @@ last updated <b>27/01/2022</b>
        width="151" 
        height="70"/></a>
 
-# [⚝ Lady BERNKASTEL ⚝](https://github.com/rudj-skinhub/woal/raw/tyfh/suzuori/%E2%9A%9D%20Lady%20BERNKASTEL%20%E2%9A%9D.osk) | [Preview](https://imgur.com/a/jc3A7GA)
-[![](https://i.imgur.com/JSYgeSb.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/suzuori/%E2%9A%9D%20Lady%20BERNKASTEL%20%E2%9A%9D.osk)
+# [⚝ Lady BERNKASTEL ⚝](https://github.com/rudj-skinhub/woal/raw/tyfh/suzuori/%E2%9A%9D%20Lady%20BERNKASTEL%20%E2%9A%9D.osk) | [Preview](https://imgur.com/a/QqzBURm)
+[![](https://i.imgur.com/X93QXF9.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/suzuori/%E2%9A%9D%20Lady%20BERNKASTEL%20%E2%9A%9D.osk)
 
-# [⚝ Lady BERNKASTEL DT⚝](https://github.com/rudj-skinhub/woal/raw/tyfh/suzuori/%E2%9A%9D%20Lady%20BERNKASTEL%20DT%E2%9A%9D.osk)
+# [⚝ Lady BERNKASTEL DT ⚝](https://github.com/rudj-skinhub/woal/raw/tyfh/suzuori/%E2%9A%9D%20Lady%20BERNKASTEL%20DT%E2%9A%9D.osk)
 [![](https://i.imgur.com/fwbPwAo.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/suzuori/%E2%9A%9D%20Lady%20BERNKASTEL%20DT%E2%9A%9D.osk)
+
+# [⚝ Lady BERNKASTEL Aristia ⚝](https://github.com/rudj-skinhub/woal/raw/tyfh/suzuori/%E2%9A%9D%20Lady%20BERNKASTEL%20Aristia%20%E2%9A%9D.osk)
+[![](https://i.imgur.com/nWHdu1U.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/suzuori/%E2%9A%9D%20Lady%20BERNKASTEL%20Aristia%20%E2%9A%9D.osk)
 
 #
 <p align="center">
