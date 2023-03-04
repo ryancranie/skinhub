@@ -1,14 +1,14 @@
-# Mahmood's skinhub
+# Knko's skinhub
 <p align="center">
-<a href="https://osu.ppy.sh/users/7627844">
-  <img src="https://a.ppy.sh/7627844"  
+<a href="https://twitter.com/knko21505584">
+  <img src="https://i.imgur.com/XNnOy72.jpeg"  
        width="150"
        height="150"></a>
 <br>
 last updated <b>15/09/2022</b>
 </p>
 
-# [HABIBI boop](https://github.com/rudj-skinhub/woal/raw/tyfh/mahmood/HABIBI%20boop.osk)
+# [- kasushiina](https://github.com/rudj-skinhub/woal/raw/tyfh/mahmood/HABIBI%20boop.osk)
 [![](https://osu.ppy.sh/ss/18127492/45d4)](https://github.com/rudj-skinhub/woal/raw/tyfh/mahmood/HABIBI%20boop.osk)
 
 #
