@@ -5,7 +5,7 @@
        width="150"
        height="150"></a>
 <br>
-last updated <b>04/04/2023</b>
+last updated <b>04/03/2023</b>
 </p>
 
 # [- kasushiina](https://github.com/rudj-skinhub/woal/raw/tyfh/knko/-%20kasushiina.osk)
