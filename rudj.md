@@ -26,5 +26,6 @@ last updated <b>19/01/2023</b>
        width="100" 
        height="100"></a>
   <br></br>
+  <a href="rudj_old.md">rudj_old skinhub</a><br>
   <a href="README.md">rudj-skinhub</a>
  </p>
