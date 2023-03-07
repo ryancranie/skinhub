@@ -1,5 +1,6 @@
 # rudj's skinhub
 these skins are optimized, huge credit to <a href="https://osu.ppy.sh/users/7075211">tekkito</a>; my old skins are <a href="rudj_old.md">here</a><br>
+I highly reccomend <a href="https://github.com/malyszewski/malyszewski/blob/main/skiny.md">these skins</a>.
 <p align="center">
 <a href="https://osu.ppy.sh/users/11592896">
   <img src="https://a.ppy.sh/11592896"  
@@ -17,6 +18,17 @@ last updated <b>07/03/2023</b>
 
 # [vv](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/vv.osk)
 [![](https://i.imgur.com/RlO4G2C.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/vv.osk)
+
+## TO DO
+
+# [vv rudj]()
+[![]()]()
+
+# [dt clack]()
+[![]()]()
+
+# [mas]()
+[![]()]()
 
 #
 <p align="center">
