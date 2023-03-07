@@ -19,19 +19,17 @@ last updated <b>07/03/2023</b>
 # [vv](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/vv.osk)
 [![](https://i.imgur.com/RlO4G2C.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/vv.osk)
 
-## TO DO
-
 # [fade](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/fade.osk)
-[![]()](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/fade.osk)
+[![](https://i.imgur.com/VrwcYSw.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/fade.osk)
 
 # [clack](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/clack.osk)
-[![]()](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/clack.osk)
+[![](https://i.imgur.com/h1Cdo5I.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/clack.osk)
 
 # [mas](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/mas.osk)
-[![]()](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/mas.osk)
+[![](https://i.imgur.com/rIX3HYB.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/mas.osk)
 
 # [shield](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/shield.osk)
-[![]()](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/shield.osk)
+[![](https://i.imgur.com/Fcb7lEx.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/shield.osk)
 
 #
 <p align="center">
