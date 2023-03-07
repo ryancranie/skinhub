@@ -21,13 +21,16 @@ last updated <b>07/03/2023</b>
 
 ## TO DO
 
-# [vv rudj]() - instafade
+# [fade]()
 [![]()]()
 
-# [dt clack]()
+# [clack]()
 [![]()]()
 
 # [mas]()
+[![]()]()
+
+# [sld]()
 [![]()]()
 
 #
