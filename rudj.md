@@ -10,7 +10,7 @@ I highly reccomend <a href="https://github.com/malyszewski/malyszewski/blob/main
 last updated <b>07/03/2023</b>
 </p>
 
-# [rudj](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/rudj.osk)
+# [rudj](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/.osk)
 [![](https://i.imgur.com/FkSVBMi.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/rudj.osk)
 
 # [dt](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/dt.osk)
@@ -21,17 +21,17 @@ last updated <b>07/03/2023</b>
 
 ## TO DO
 
-# [fade]()
-[![]()]()
+# [fade](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/fade.osk)
+[![]()](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/fade.osk)
 
-# [clack]()
-[![]()]()
+# [clack](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/clack.osk)
+[![]()](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/clack.osk)
 
-# [mas]()
-[![]()]()
+# [mas](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/mas.osk)
+[![]()](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/mas.osk)
 
-# [sld]()
-[![]()]()
+# [shield](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/shield.osk)
+[![]()](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/shield.osk)
 
 #
 <p align="center">
