@@ -1,14 +1,22 @@
 # rudj's skinhub
+these skins are optimized, huge credit to <a href="https://osu.ppy.sh/users/7075211">tekkito</a>; my old skins are <a href="rudj_old.md">here</a><br>
 <p align="center">
 <a href="https://osu.ppy.sh/users/11592896">
   <img src="https://a.ppy.sh/11592896"  
        width="150"
        height="150"></a>
 <br>
-last updated <b>19/01/2023</b>
+last updated <b>07/03/2023</b>
 </p>
 
-# [to be remade - optimizing skins soon]()
+# [rudj](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/rudj.osk)
+[![](https://i.imgur.com/FkSVBMi.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/rudj.osk)
+
+# [dt](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/dt.osk)
+[![](https://i.imgur.com/vCR86qU.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/dt.osk)
+
+# [vv](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/vv.osk)
+[![](https://i.imgur.com/RlO4G2C.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/vv.osk)
 
 #
 <p align="center">
@@ -26,6 +34,5 @@ last updated <b>19/01/2023</b>
        width="100" 
        height="100"></a>
   <br></br>
-  <a href="rudj_old.md">rudj_old skinhub</a><br>
   <a href="README.md">rudj-skinhub</a>
  </p>
