@@ -13,7 +13,7 @@ last updated <b>03/01/2023</b>
        width="151" 
        height="70"/></a>
 
-<a href="https://github.com/baron6060/hard-to-find-osu-skins">
+<a href="https://github.com/baron6060/harder-to-find-osu-skins">
 <img src="https://i.imgur.com/WPSNbSx.png"
        width="151" 
        height="70"/></a>
