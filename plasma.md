@@ -8,6 +8,9 @@
 last updated <b>11/01/2023</b>
 </p>
 
+# [plasma](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/plasma.osk) - optimized
+[![](https://i.imgur.com/4NS5uqs.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/plasma.osk)
+
 # [boom 0524 edit](https://github.com/rudj-skinhub/woal/raw/tyfh/plasma/boom%200524%20edit.osk)
 [![](https://i.imgur.com/gScgmgT.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/plasma/boom%200524%20edit.osk)
 
