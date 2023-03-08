@@ -31,7 +31,7 @@ last updated <b>08/03/2023</b>
 # [shield](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/shield.osk)
 [![](https://i.imgur.com/Fcb7lEx.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/shield.osk)
 
-# [plasma](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/plasma.osk)
+# [plasma](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/plasma.osk) - no hitsounds
 [![](https://i.imgur.com/4NS5uqs.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/plasma.osk)
 
 #
