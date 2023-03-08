@@ -7,7 +7,7 @@ I highly reccomend <a href="https://github.com/malyszewski/malyszewski/blob/main
        width="150"
        height="150"></a>
 <br>
-last updated <b>07/03/2023</b>
+last updated <b>08/03/2023</b>
 </p>
 
 # [rudj](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/.osk)
@@ -30,6 +30,9 @@ last updated <b>07/03/2023</b>
 
 # [shield](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/shield.osk)
 [![](https://i.imgur.com/Fcb7lEx.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/shield.osk)
+
+# [plasma](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/plasma.osk)
+[![](https://i.imgur.com/4NS5uqs.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/plasma.osk)
 
 #
 <p align="center">
