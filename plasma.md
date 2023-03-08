@@ -11,6 +11,9 @@ last updated <b>11/01/2023</b>
 # [plasma](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/plasma.osk) - optimized
 [![](https://i.imgur.com/4NS5uqs.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/plasma.osk)
 
+# [plasma dt](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/plasma%20dt.osk) - optimized
+[![](https://i.imgur.com/l3NZrmP.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/plasma%20dt.osk)
+
 # [boom 0524 edit](https://github.com/rudj-skinhub/woal/raw/tyfh/plasma/boom%200524%20edit.osk)
 [![](https://i.imgur.com/gScgmgT.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/plasma/boom%200524%20edit.osk)
 
