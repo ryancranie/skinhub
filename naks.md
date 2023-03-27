@@ -1,28 +1,23 @@
-# Mahmood's skinhub
+# NAKS' skinhub
 <p align="center">
-<a href="https://osu.ppy.sh/users/7627844">
-  <img src="https://a.ppy.sh/7627844"  
+<a href="https://osu.ppy.sh/users/8968500">
+  <img src="https://a.ppy.sh/8968500"  
        width="150"
        height="150"></a>
 <br>
-last updated <b>15/09/2022</b>
+last updated <b>27/03/2023</b>
 </p>
 
-# [HABIBI boop](https://github.com/rudj-skinhub/woal/raw/tyfh/mahmood/HABIBI%20boop.osk)
-[![](https://osu.ppy.sh/ss/18127492/45d4)](https://github.com/rudj-skinhub/woal/raw/tyfh/mahmood/HABIBI%20boop.osk)
+# [- 『SNP』 NAKS-Kaguya](https://github.com/rudj-skinhub/woal/raw/tyfh/naks/-%20%E3%80%8ESNP%E3%80%8F%20NAKS-Kaguya.osk)
+[![](https://i.imgur.com/ySflrsN.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/naks/-%20%E3%80%8ESNP%E3%80%8F%20NAKS-Kaguya.osk)
+
+# [- 『SNP』 NAKS-Kaguya hidden ver](https://github.com/rudj-skinhub/woal/raw/tyfh/naks/-%20%E3%80%8ESNP%E3%80%8F%20NAKS-Kaguya%20hidden%20ver.osk)
+[![](https://i.imgur.com/xIMmSBO.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/naks/-%20%E3%80%8ESNP%E3%80%8F%20NAKS-Kaguya%20hidden%20ver.osk)
 
 #
 <p align="center">
   <br></br>
-  <a href="https://www.twitch.tv/mahmood789">
-  <img src="https://i.imgur.com/HM030lk.png" 
-       width="100" 
-       height="100"></a>
-  <a href="https://www.youtube.com/channel/UCygux1fzHoMSLVFVfgE_3sw">
-  <img src="https://i.imgur.com/YWbDUUy.png"  
-       width="100" 
-       height="100"></a>
-  <a href="https://twitter.com/InnyNips">
+  <a href="https://twitter.com/just_naks">
   <img src="https://i.imgur.com/PUQ5uWf.png" 
        width="100" 
        height="100"></a>
