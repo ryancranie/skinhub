@@ -5,7 +5,7 @@
        width="150"
        height="150"></a>
 <br>
-last updated <b>09/12/2022</b>
+last updated <b>27/03/2023</b>
 </p>
 
 # [aristia doom](https://github.com/rudj-skinhub/woal/raw/tyfh/doomwrld/aristia%20doom.osk)
@@ -16,6 +16,9 @@ last updated <b>09/12/2022</b>
 
 # [aprx stunna edit](https://github.com/rudj-skinhub/woal/raw/tyfh/doomwrld/aprx%20stunna%20edit.osk)
 [![](https://i.imgur.com/TABOceq.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/doomwrld/aprx%20stunna%20edit.osk)
+
+# [Aristia doom balls](https://github.com/rudj-skinhub/woal/raw/tyfh/doomwrld/Aristia%20doom%20balls.osk)
+[![](https://i.imgur.com/7f3eBcK.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/doomwrld/Aristia%20doom%20balls.osk)
 
 #
 
