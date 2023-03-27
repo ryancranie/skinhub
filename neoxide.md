@@ -1,28 +1,31 @@
-# Mahmood's skinhub
+# Neoxide's skinhub
 <p align="center">
-<a href="https://osu.ppy.sh/users/7627844">
-  <img src="https://a.ppy.sh/7627844"  
+<a href="https://osu.ppy.sh/users/17907702">
+  <img src="https://a.ppy.sh/17907702"  
        width="150"
        height="150"></a>
 <br>
-last updated <b>15/09/2022</b>
+last updated <b>27/03/2023</b>
 </p>
 
-# [HABIBI boop](https://github.com/rudj-skinhub/woal/raw/tyfh/mahmood/HABIBI%20boop.osk)
-[![](https://osu.ppy.sh/ss/18127492/45d4)](https://github.com/rudj-skinhub/woal/raw/tyfh/mahmood/HABIBI%20boop.osk)
+# [IdiotLemonSkin](https://github.com/rudj-skinhub/woal/raw/tyfh/neoxide/IdiotLemonSkin.osk)
+[![](https://images2.imgbox.com/96/97/zpnIBUvm_o.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/neoxide/IdiotLemonSkin.osk)
+
+# [ChimataSkergDTFinale](https://github.com/rudj-skinhub/woal/raw/tyfh/neoxide/ChimataSkergDTFinale.osk)
+[![](https://images2.imgbox.com/7b/3c/8V7nhMPP_o.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/neoxide/ChimataSkergDTFinale.osk)
 
 #
 <p align="center">
   <br></br>
-  <a href="https://www.twitch.tv/mahmood789">
+  <a href="https://www.twitch.tv/neoxide___">
   <img src="https://i.imgur.com/HM030lk.png" 
        width="100" 
        height="100"></a>
-  <a href="https://www.youtube.com/channel/UCygux1fzHoMSLVFVfgE_3sw">
+  <a href="https://www.youtube.com/channel/UCI2ESjzIPAWlfyjLoa6KBvQ">
   <img src="https://i.imgur.com/YWbDUUy.png"  
        width="100" 
        height="100"></a>
-  <a href="https://twitter.com/InnyNips">
+  <a href="https://twitter.com/LikesSoars">
   <img src="https://i.imgur.com/PUQ5uWf.png" 
        width="100" 
        height="100"></a>
