@@ -10,7 +10,7 @@ I highly reccomend <a href="https://github.com/malyszewski/malyszewski/blob/main
 last updated <b>08/03/2023</b>
 </p>
 
-# [rudj](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/.osk)
+# [rudj](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/rudj.osk)
 [![](https://i.imgur.com/FkSVBMi.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/rudj.osk)
 
 # [dt](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/dt.osk)
