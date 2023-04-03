@@ -22,6 +22,9 @@ last updated <b>03/04/2023</b>
 # [vv](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/vv.osk)
 [![](https://i.imgur.com/RlO4G2C.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/vv.osk)
 
+# [azerino](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/azerino.osk)
+[![](https://i.imgur.com/X7NkxS8.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/azerino.osk)
+
 # [fade](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/fade.osk)
 [![](https://i.imgur.com/VrwcYSw.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/fade.osk)
 
