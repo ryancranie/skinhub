@@ -8,11 +8,11 @@
 last updated <b>03/04/2023</b>
 </p>
 
-# [plasma](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/plasma.osk) - optimized
-[![](https://i.imgur.com/QVAT5KA.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/plasma.osk)
+# [plasma](https://github.com/rudj-skinhub/woal/raw/tyfh/plasma/plasma.osk) - optimized
+[![](https://i.imgur.com/QVAT5KA.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/plasma/plasma.osk)
 
-# [plasma dt](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/plasma%20dt.osk) - optimized
-[![](https://i.imgur.com/gKZmQs4.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/plasma%20dt.osk)
+# [plasma dt](https://github.com/rudj-skinhub/woal/raw/tyfh/plasma/plasma%20dt.osk) - optimized
+[![](https://i.imgur.com/gKZmQs4.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/plasma/plasma%20dt.osk)
 
 # [boom 0524 edit](https://github.com/rudj-skinhub/woal/raw/tyfh/plasma/boom%200524%20edit.osk)
 [![](https://i.imgur.com/gScgmgT.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/plasma/boom%200524%20edit.osk)
