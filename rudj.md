@@ -7,7 +7,7 @@ I highly reccomend <a href="https://github.com/malyszewski/malyszewski/blob/main
        width="150"
        height="150"></a>
 <br>
-last updated <b>03/04/2023</b>
+last updated <b>07/04/2023</b>
 </p>
 
 # [rudj](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/rudj.osk)
@@ -25,6 +25,9 @@ last updated <b>03/04/2023</b>
 # [azerino](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/azerino.osk)
 [![](https://i.imgur.com/X7NkxS8.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/azerino.osk)
 
+# [rudjino](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/rudjino.osk)
+[![](https://i.imgur.com/Vdk72Lb.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/rudjino.osk)
+
 # [fade](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/fade.osk)
 [![](https://i.imgur.com/VrwcYSw.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/fade.osk)
 
@@ -37,11 +40,11 @@ last updated <b>03/04/2023</b>
 # [shield](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/shield.osk)
 [![](https://i.imgur.com/Fcb7lEx.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/shield.osk)
 
-# [plasma](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/plasma.osk)
-[![](https://i.imgur.com/QVAT5KA.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/plasma.osk)
+# [azr8](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/azr8.osk)
+[![](https://i.imgur.com/ohiBFQp.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/azr8.osk)
 
-# [plasma dt](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/plasma%20dt.osk)
-[![](https://i.imgur.com/gKZmQs4.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/plasma%20dt.osk)
+# [tuna](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/tuna.osk)
+[![](https://i.imgur.com/YEZIw1o.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/tuna.osk)
 
 # [dtvv](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/dtvv.osk)
 [![](https://i.imgur.com/ZU0sIXL.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/dtvv.osk)
