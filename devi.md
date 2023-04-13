@@ -5,7 +5,7 @@
        width="150"
        height="150"></a>
 <br>
-last updated <b>13/04/2022</b>
+last updated <b>13/04/2023</b>
 </p>
 
 # [zzzmimimi](https://github.com/rudj-skinhub/woal/raw/tyfh/devi/zzzmimimi.osk) | [Preview](https://imgur.com/gallery/xDZtTtt)
