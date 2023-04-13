@@ -23,6 +23,7 @@ if you want a skinhub join the <a href="https://discord.gg/RE8ExXsvHZ">skinhub d
 · <a href="ciru.md">ciru</a><br>
 · <a href="dark.md">DARK</a><br>
 · <a href="delta.md">delta</a><br>
+· <a href="devi.md">Devi</a><br>
 · <a href="doomwrld.md">DoomWrld</a><br>
 · <a href="dopes.md">dopes</a><br>
 · <a href="duckyzie.md">duckyzie</a><br>
@@ -79,6 +80,7 @@ if you want a skinhub join the <a href="https://discord.gg/RE8ExXsvHZ">skinhub d
 · <a href="wilsen.md">Wilsen</a><br>
 · <a href="windowlife.md">WindowLife</a><br>
 · <a href="xkristiyan.md">xKristiyan</a><br>
+· <a href="zyn.md">zyn</a><br>
   </details>
   <details>
     <summary>skinning tools</summary><br>
@@ -389,6 +391,14 @@ if you want a skinhub join the <a href="https://discord.gg/RE8ExXsvHZ">skinhub d
   <img src="https://a.ppy.sh/17907702"
        width="175"
        height="175"></a>
+  <a href="devi.md">
+  <img src="https://a.ppy.sh/19500711"
+       width="175"
+       height="175"></a>
+  <a href="zyn.md">
+  <img src="https://a.ppy.sh/6138309"
+       width="175"
+       height="175"></a>
   <br>
 </p>
 
@@ -430,4 +440,5 @@ if you want a skinhub join the <a href="https://discord.gg/RE8ExXsvHZ">skinhub d
   · <a href="https://github.com/oreoabc/nft-osu-skins/blob/main/oreoskins.md">nft-osu-skins</a> ·<br>
   · <a href="https://github.com/Gerwazus/All-Skins">Gerwazus-All-Skins</a> ·<br>
   · <a href="https://github.com/Jason4502x/Pinguinzi-Skins">Pinguinzi-Skins</a> ·<br>
+  · <a href="https://github.com/chikatoosu/chikato/blob/main/skins.md">chikato-skins</a> ·<br>
 </p>
