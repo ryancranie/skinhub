@@ -22,14 +22,8 @@ last updated <b>13/04/2023</b>
 # [deltahddt](https://github.com/rudj-skinhub/woal/raw/tyfh/delta/deltahddt.osk)
 [![](https://i.imgur.com/FNGJhOB.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/delta/deltahddt.osk)
 
-# [Made in Abyss (remake)](https://github.com/rudj-skinhub/woal/raw/tyfh/delta/Made%20in%20Abyss%20(remake).osk)
-[![](https://i.imgur.com/dP4ZbUR.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/delta/Made%20in%20Abyss%20(remake).osk)
-
 # [Rafis but SZ - delta edit](https://github.com/rudj-skinhub/woal/raw/tyfh/delta/Rafis%20but%20SZ%20-%20delta%20edit.osk)
 [![](https://i.imgur.com/y69PqN8.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/delta/Rafis%20but%20SZ%20-%20delta%20edit.osk)
-
-# [tkokab](https://github.com/rudj-skinhub/woal/raw/tyfh/delta/tkokab.osk)
-[![](https://i.imgur.com/SWzXobF.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/delta/tkokab.osk)
 
 #
 <p align="center">
