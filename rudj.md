@@ -7,11 +7,11 @@ I highly reccomend <a href="https://github.com/malyszewski/malyszewski/blob/main
        width="150"
        height="150"></a>
 <br>
-last updated <b>22/04/2023</b>
+last updated <b>01/05/2023</b>
 </p>
 
-# [rudj](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/rudj.osk)
-[![](https://i.imgur.com/FkSVBMi.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/rudj.osk)
+# [rudjinator](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/rudjinator.osk)
+[![](https://i.imgur.com/QBHDRdy.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/rudjinator.osk)
 
 # [dt](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/dt.osk)
 [![](https://i.imgur.com/vCR86qU.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/dt.osk)
@@ -29,13 +29,16 @@ last updated <b>22/04/2023</b>
 [![](https://i.imgur.com/X7NkxS8.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/azerino.osk)
 
 # [rudjino](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/rudjino.osk)
-[![](https://i.imgur.com/Vdk72Lb.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/rudjino.osk)
+[![](https://i.imgur.com/qIsnuCb.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/rudjino.osk)
 
 # [fade](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/fade.osk)
 [![](https://i.imgur.com/VrwcYSw.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/fade.osk)
 
 # [clack](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/clack.osk)
 [![](https://i.imgur.com/HQFGGLZ.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/clack.osk)
+
+# [rudj](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/rudj.osk)
+[![](https://i.imgur.com/FkSVBMi.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/rudj.osk)
 
 # [mas](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/mas.osk)
 [![](https://i.imgur.com/rIX3HYB.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/mas.osk)
@@ -47,10 +50,16 @@ last updated <b>22/04/2023</b>
 [![](https://i.imgur.com/ohiBFQp.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/azr8.osk)
 
 # [tuna](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/tuna.osk)
-[![](https://i.imgur.com/YEZIw1o.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/tuna.osk)
+[![](https://i.imgur.com/fGtwRO9.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/tuna.osk)
 
 # [dtvv](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/dtvv.osk)
-[![](https://i.imgur.com/ZU0sIXL.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/dtvv.osk)
+[![](https://i.imgur.com/MjT5vF9.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/dtvv.osk)
+
+# [dt_t](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/dt_t.osk)
+[![](https://i.imgur.com/jr53psY.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/dt_t.osk)
+
+# [vaxei](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/vaxei.osk)
+[![](https://i.imgur.com/hIy9CLB.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/vaxei.osk)
 
 # [ikanyai](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/ikanyai.osk)
 [![](https://i.imgur.com/bEKqFyw.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/rudj/ikanyai.osk)
