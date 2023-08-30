@@ -8,14 +8,14 @@
   last updated <b>11/01/2023</b>
 </p>
 
-# [aristia instafade blue +trail](https://github.com/rudj-skinhub/woal/raw/tyfh/453jake/aristia%20instafade%20blue%20%2Btrail.osk)
-[![](https://i.imgur.com/IQ5GRNy.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/453jake/aristia%20instafade%20blue%20%2Btrail.osk)
+# [aristia instafade blue +trail](https://github.com/rudj-skinhub/woal/raw/tyfh/player/453jake/aristia%20instafade%20blue%20%2Btrail.osk)
+[![](https://i.imgur.com/IQ5GRNy.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/453jake/aristia%20instafade%20blue%20%2Btrail.osk)
 
-# [- 《CK》 Clash Tekkito](https://github.com/rudj-skinhub/woal/raw/tyfh/453jake/-%20%E3%80%8ACK%E3%80%8B%20Clash%20Tekkito.osk)
-[![](https://i.imgur.com/2qykPol.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/453jake/-%20%E3%80%8ACK%E3%80%8B%20Clash%20Tekkito.osk)
+# [- 《CK》 Clash Tekkito](https://github.com/rudj-skinhub/woal/raw/tyfh/player/453jake/-%20%E3%80%8ACK%E3%80%8B%20Clash%20Tekkito.osk)
+[![](https://i.imgur.com/2qykPol.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/453jake/-%20%E3%80%8ACK%E3%80%8B%20Clash%20Tekkito.osk)
 
-# [- 《CK》 Clash Rafis](https://github.com/rudj-skinhub/woal/raw/tyfh/453jake/-%20%E3%80%8ACK%E3%80%8B%20Clash%20Rafis.osk)
-[![](https://i.imgur.com/uMgTZjC.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/453jake/-%20%E3%80%8ACK%E3%80%8B%20Clash%20Rafis.osk)
+# [- 《CK》 Clash Rafis](https://github.com/rudj-skinhub/woal/raw/tyfh/player/453jake/-%20%E3%80%8ACK%E3%80%8B%20Clash%20Rafis.osk)
+[![](https://i.imgur.com/uMgTZjC.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/453jake/-%20%E3%80%8ACK%E3%80%8B%20Clash%20Rafis.osk)
 
 #
 <p align="center">

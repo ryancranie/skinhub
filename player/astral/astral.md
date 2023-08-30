@@ -13,17 +13,17 @@ last updated <b>15/01/2023</b>
        width="151" 
        height="70"/></a>
 
-# [heartrate](https://github.com/rudj-skinhub/woal/raw/tyfh/astral/heartrate.osk)
-[![](https://i.imgur.com/3dOEcBk.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/astral/heartrate.osk)
+# [heartrate](https://github.com/rudj-skinhub/woal/raw/tyfh/player/astral/heartrate.osk)
+[![](https://i.imgur.com/3dOEcBk.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/astral/heartrate.osk)
 
-# [how the sky was](https://github.com/rudj-skinhub/woal/raw/tyfh/astral/how%20the%20sky%20was.osk)
-[![](https://i.imgur.com/whBahWa.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/astral/how%20the%20sky%20was.osk)
+# [how the sky was](https://github.com/rudj-skinhub/woal/raw/tyfh/player/astral/how%20the%20sky%20was.osk)
+[![](https://i.imgur.com/whBahWa.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/astral/how%20the%20sky%20was.osk)
 
-# [monko bliss](https://github.com/rudj-skinhub/woal/raw/tyfh/astral/monko%20bliss.osk)
-[![](https://i.imgur.com/mW7eSyN.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/astral/monko%20bliss.osk)
+# [monko bliss](https://github.com/rudj-skinhub/woal/raw/tyfh/player/astral/monko%20bliss.osk)
+[![](https://i.imgur.com/mW7eSyN.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/astral/monko%20bliss.osk)
 
-# [tekkito bliss](https://github.com/rudj-skinhub/woal/raw/tyfh/astral/tekkito%20bliss.osk)
-[![](https://i.imgur.com/aK9JqOZ.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/astral/tekkito%20bliss.osk)
+# [tekkito bliss](https://github.com/rudj-skinhub/woal/raw/tyfh/player/astral/tekkito%20bliss.osk)
+[![](https://i.imgur.com/aK9JqOZ.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/astral/tekkito%20bliss.osk)
 
 #
 <p align="center">

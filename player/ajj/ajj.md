@@ -8,8 +8,8 @@
 last updated <b>15/01/2023</b>
 </p>
 
-# [AJJ](https://github.com/rudj-skinhub/woal/raw/tyfh/ajj/AJJ.osk)
-[![](https://osu.ppy.sh/ss/18376442/66d8)](https://github.com/rudj-skinhub/woal/raw/tyfh/ajj/AJJ.osk)
+# [AJJ](https://github.com/rudj-skinhub/woal/raw/tyfh/player/ajj/AJJ.osk)
+[![](https://osu.ppy.sh/ss/18376442/66d8)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/ajj/AJJ.osk)
 
 #
 <p align="center">

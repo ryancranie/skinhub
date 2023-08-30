@@ -8,14 +8,14 @@
 last updated <b>27/11/2022</b>
 </p>
 
-# [dopes_edit](https://github.com/rudj-skinhub/woal/raw/tyfh/dopes/dopes_edit.osk)
-[![](https://i.imgur.com/YWSWIRu.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/dopes/dopes_edit.osk)
+# [dopes_edit](https://github.com/rudj-skinhub/woal/raw/tyfh/player/dopes/dopes_edit.osk)
+[![](https://i.imgur.com/YWSWIRu.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/dopes/dopes_edit.osk)
 
-# [maliszewski_edit](https://github.com/rudj-skinhub/woal/raw/tyfh/dopes/maliszewski_edit.osk)
-[![](https://i.imgur.com/LbQKdKl.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/dopes/maliszewski_edit.osk)
+# [maliszewski_edit](https://github.com/rudj-skinhub/woal/raw/tyfh/player/dopes/maliszewski_edit.osk)
+[![](https://i.imgur.com/LbQKdKl.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/dopes/maliszewski_edit.osk)
 
-# [myangelaosora 404](https://github.com/rudj-skinhub/woal/raw/tyfh/dopes/myangelaosora_404.osk)
-[![](https://i.imgur.com/ZeHmgW7h.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/dopes/myangelaosora_404.osk)
+# [myangelaosora 404](https://github.com/rudj-skinhub/woal/raw/tyfh/player/dopes/myangelaosora_404.osk)
+[![](https://i.imgur.com/ZeHmgW7h.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/dopes/myangelaosora_404.osk)
 
 #
 <p align="center">

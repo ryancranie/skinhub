@@ -8,11 +8,11 @@
 last updated <b>27/03/2023</b>
 </p>
 
-# [- 『SNP』 NAKS-Kaguya](https://github.com/rudj-skinhub/woal/raw/tyfh/naks/-%20%E3%80%8ESNP%E3%80%8F%20NAKS-Kaguya.osk)
-[![](https://i.imgur.com/ySflrsN.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/naks/-%20%E3%80%8ESNP%E3%80%8F%20NAKS-Kaguya.osk)
+# [- 『SNP』 NAKS-Kaguya](https://github.com/rudj-skinhub/woal/raw/tyfh/player/naks/-%20%E3%80%8ESNP%E3%80%8F%20NAKS-Kaguya.osk)
+[![](https://i.imgur.com/ySflrsN.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/naks/-%20%E3%80%8ESNP%E3%80%8F%20NAKS-Kaguya.osk)
 
-# [- 『SNP』 NAKS-Kaguya hidden ver](https://github.com/rudj-skinhub/woal/raw/tyfh/naks/-%20%E3%80%8ESNP%E3%80%8F%20NAKS-Kaguya%20hidden%20ver.osk)
-[![](https://i.imgur.com/xIMmSBO.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/naks/-%20%E3%80%8ESNP%E3%80%8F%20NAKS-Kaguya%20hidden%20ver.osk)
+# [- 『SNP』 NAKS-Kaguya hidden ver](https://github.com/rudj-skinhub/woal/raw/tyfh/player/naks/-%20%E3%80%8ESNP%E3%80%8F%20NAKS-Kaguya%20hidden%20ver.osk)
+[![](https://i.imgur.com/xIMmSBO.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/naks/-%20%E3%80%8ESNP%E3%80%8F%20NAKS-Kaguya%20hidden%20ver.osk)
 
 #
 <p align="center">

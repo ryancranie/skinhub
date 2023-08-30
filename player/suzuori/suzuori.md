@@ -13,14 +13,14 @@ last updated <b>04/03/2023</b>
        width="151" 
        height="70"/></a>
 
-# [⚝ Lady BERNKASTEL ⚝](https://github.com/rudj-skinhub/woal/raw/tyfh/suzuori/%E2%9A%9D%20Lady%20BERNKASTEL%20%E2%9A%9D.osk) | [Preview](https://imgur.com/a/QqzBURm)
-[![](https://i.imgur.com/X93QXF9.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/suzuori/%E2%9A%9D%20Lady%20BERNKASTEL%20%E2%9A%9D.osk)
+# [⚝ Lady BERNKASTEL ⚝](https://github.com/rudj-skinhub/woal/raw/tyfh/player/suzuori/%E2%9A%9D%20Lady%20BERNKASTEL%20%E2%9A%9D.osk) | [Preview](https://imgur.com/a/QqzBURm)
+[![](https://i.imgur.com/X93QXF9.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/suzuori/%E2%9A%9D%20Lady%20BERNKASTEL%20%E2%9A%9D.osk)
 
-# [⚝ Lady BERNKASTEL DT ⚝](https://github.com/rudj-skinhub/woal/raw/tyfh/suzuori/%E2%9A%9D%20Lady%20BERNKASTEL%20DT%E2%9A%9D.osk)
-[![](https://i.imgur.com/fwbPwAo.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/suzuori/%E2%9A%9D%20Lady%20BERNKASTEL%20DT%E2%9A%9D.osk)
+# [⚝ Lady BERNKASTEL DT ⚝](https://github.com/rudj-skinhub/woal/raw/tyfh/player/suzuori/%E2%9A%9D%20Lady%20BERNKASTEL%20DT%E2%9A%9D.osk)
+[![](https://i.imgur.com/fwbPwAo.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/suzuori/%E2%9A%9D%20Lady%20BERNKASTEL%20DT%E2%9A%9D.osk)
 
-# [⚝ Lady BERNKASTEL Aristia ⚝](https://github.com/rudj-skinhub/woal/raw/tyfh/suzuori/%E2%9A%9D%20Lady%20BERNKASTEL%20Aristia%20%E2%9A%9D.osk)
-[![](https://i.imgur.com/nWHdu1U.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/suzuori/%E2%9A%9D%20Lady%20BERNKASTEL%20Aristia%20%E2%9A%9D.osk)
+# [⚝ Lady BERNKASTEL Aristia ⚝](https://github.com/rudj-skinhub/woal/raw/tyfh/player/suzuori/%E2%9A%9D%20Lady%20BERNKASTEL%20Aristia%20%E2%9A%9D.osk)
+[![](https://i.imgur.com/nWHdu1U.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/suzuori/%E2%9A%9D%20Lady%20BERNKASTEL%20Aristia%20%E2%9A%9D.osk)
 
 #
 <p align="center">

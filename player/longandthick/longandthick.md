@@ -8,8 +8,8 @@
 last updated <b>25/12/2022</b>
 </p>
 
-# [ShortAndSkinny](https://github.com/rudj-skinhub/woal/raw/tyfh/longandthick/ShortAndSkinny.osk)
-[![](https://osu.ppy.sh/ss/18333992/e229)](https://github.com/rudj-skinhub/woal/raw/tyfh/longandthick/ShortAndSkinny.osk)
+# [ShortAndSkinny](https://github.com/rudj-skinhub/woal/raw/tyfh/player/longandthick/ShortAndSkinny.osk)
+[![](https://osu.ppy.sh/ss/18333992/e229)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/longandthick/ShortAndSkinny.osk)
 
 #
 <p align="center">

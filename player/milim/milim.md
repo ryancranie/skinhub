@@ -8,29 +8,29 @@
 last updated <b>13/02/2023</b>
 </p>
 
-# [Natsusaki Yomi](https://github.com/rudj-skinhub/woal/raw/tyfh/milim/Natsusaki%20Yomi.osk)
-[![](https://i.imgur.com/RV1mOrz.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/milim/Natsusaki%20Yomi.osk)
+# [Natsusaki Yomi](https://github.com/rudj-skinhub/woal/raw/tyfh/player/milim/Natsusaki%20Yomi.osk)
+[![](https://i.imgur.com/RV1mOrz.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/milim/Natsusaki%20Yomi.osk)
 
-# [tkova edit frnnd](https://github.com/rudj-skinhub/woal/raw/tyfh/milim/tkova%20edit%20frnnd.osk)
-[![](https://i.imgur.com/3k8XuJA.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/milim/tkova%20edit%20frnnd.osk)
+# [tkova edit frnnd](https://github.com/rudj-skinhub/woal/raw/tyfh/player/milim/tkova%20edit%20frnnd.osk)
+[![](https://i.imgur.com/3k8XuJA.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/milim/tkova%20edit%20frnnd.osk)
 
-# [toke+newnew](https://github.com/rudj-skinhub/woal/raw/tyfh/milim/toke%2Bnewnew.osk)
-[![](https://i.imgur.com/vPN5rgx.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/milim/toke%2Bnewnew.osk)
+# [toke+newnew](https://github.com/rudj-skinhub/woal/raw/tyfh/player/milim/toke%2Bnewnew.osk)
+[![](https://i.imgur.com/vPN5rgx.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/milim/toke%2Bnewnew.osk)
 
-# [toke+mocha kez edit](https://github.com/rudj-skinhub/woal/raw/tyfh/milim/toke%2Bmocha%20kez%20edit.osk)
-[![](https://i.imgur.com/TpxB30F.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/milim/toke%2Bmocha%20kez%20edit.osk)
+# [toke+mocha kez edit](https://github.com/rudj-skinhub/woal/raw/tyfh/player/milim/toke%2Bmocha%20kez%20edit.osk)
+[![](https://i.imgur.com/TpxB30F.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/milim/toke%2Bmocha%20kez%20edit.osk)
 
-# [toke dark edit](https://github.com/rudj-skinhub/woal/raw/tyfh/milim/toke%20dark%20edit.osk)
-[![](https://i.imgur.com/YCO1UpO.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/milim/toke%20dark%20edit.osk)
+# [toke dark edit](https://github.com/rudj-skinhub/woal/raw/tyfh/player/milim/toke%20dark%20edit.osk)
+[![](https://i.imgur.com/YCO1UpO.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/milim/toke%20dark%20edit.osk)
 
-# [aria natori](https://github.com/rudj-skinhub/woal/raw/tyfh/milim/-%20%2B%20aria_natori.osk)
-[![](https://i.imgur.com/KXipn7z.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/milim/-%20%2B%20aria_natori.osk)
+# [aria natori](https://github.com/rudj-skinhub/woal/raw/tyfh/player/milim/-%20%2B%20aria_natori.osk)
+[![](https://i.imgur.com/KXipn7z.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/milim/-%20%2B%20aria_natori.osk)
 
-# [i love oregairu](https://github.com/rudj-skinhub/woal/raw/tyfh/milim/i%20love%20oregairu.osk)
-[![](https://i.imgur.com/iDwB7hz.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/milim/i%20love%20oregairu.osk)
+# [i love oregairu](https://github.com/rudj-skinhub/woal/raw/tyfh/player/milim/i%20love%20oregairu.osk)
+[![](https://i.imgur.com/iDwB7hz.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/milim/i%20love%20oregairu.osk)
 
-# [!~evb](https://github.com/rudj-skinhub/woal/raw/tyfh/milim/!%7Eevb.osk)
-[![](https://i.imgur.com/UJEoFLo.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/milim/!%7Eevb.osk)
+# [!~evb](https://github.com/rudj-skinhub/woal/raw/tyfh/player/milim/!%7Eevb.osk)
+[![](https://i.imgur.com/UJEoFLo.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/milim/!%7Eevb.osk)
 
 #
 <p align="center">

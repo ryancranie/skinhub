@@ -18,23 +18,23 @@ last updated <b>27/01/2022</b>
        width="151" 
        height="70"/></a>
 
-# [hnta BB](https://github.com/rudj-skinhub/woal/raw/tyfh/hnta/hnta%20BB.osk)
-[![](https://i.imgur.com/28E1hNb.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/hnta/hnta%20BB.osk)
+# [hnta BB](https://github.com/rudj-skinhub/woal/raw/tyfh/player/hnta/hnta%20BB.osk)
+[![](https://i.imgur.com/28E1hNb.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/hnta/hnta%20BB.osk)
 
-# [hnta BTMC](https://github.com/rudj-skinhub/woal/raw/tyfh/hnta/hnta%20BTMC.osk)
-[![](https://i.imgur.com/ugt27zu.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/hnta/hnta%20BTMC.osk)
+# [hnta BTMC](https://github.com/rudj-skinhub/woal/raw/tyfh/player/hnta/hnta%20BTMC.osk)
+[![](https://i.imgur.com/ugt27zu.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/hnta/hnta%20BTMC.osk)
 
-# [hnta DT](https://github.com/rudj-skinhub/woal/raw/tyfh/hnta/hnta%20DT.osk)
-[![](https://i.imgur.com/LGW8sJW.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/hnta/hnta%20DT.osk)
+# [hnta DT](https://github.com/rudj-skinhub/woal/raw//player/hnta/hnta%20DT.osk)
+[![](https://i.imgur.com/LGW8sJW.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/hnta/hnta%20DT.osk)
 
-# [hnta O](https://github.com/rudj-skinhub/woal/raw/tyfh/hnta/hnta%20O.osk)
-[![](https://i.imgur.com/rbGbPtY.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/hnta/hnta%20O.osk)
+# [hnta O](https://github.com/rudj-skinhub/woal/raw/tyfh/player/hnta/hnta%20O.osk)
+[![](https://i.imgur.com/rbGbPtY.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/hnta/hnta%20O.osk)
 
-# [hnta tekkito](https://github.com/rudj-skinhub/woal/raw/tyfh/hnta/hnta%20tekkito.osk)
-[![](https://i.imgur.com/qhqmDxc.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/hnta/hnta%20tekkito.osk)
+# [hnta tekkito](https://github.com/rudj-skinhub/woal/raw/tyfh/player/hnta/hnta%20tekkito.osk)
+[![](https://i.imgur.com/qhqmDxc.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/hnta/hnta%20tekkito.osk)
 
-# [hnta varv](https://github.com/rudj-skinhub/woal/raw/tyfh/hnta/hnta%20varv.osk)
-[![](https://i.imgur.com/aR9zHpr.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/hnta/hnta%20varv.osk)
+# [hnta varv](https://github.com/rudj-skinhub/woal/raw/tyfh/player/hnta/hnta%20varv.osk)
+[![](https://i.imgur.com/aR9zHpr.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/hnta/hnta%20varv.osk)
 
 #
 <p align="center">

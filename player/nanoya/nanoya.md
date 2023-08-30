@@ -8,20 +8,20 @@
 last updated <b>21/10/2022</b>
 </p>
 
-# [vv1](https://github.com/rudj-skinhub/woal/raw/tyfh/nanoya/vv1.osk)
-[![](https://i.imgur.com/es3K3bV.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/nanoya/vv1.osk)
+# [vv1](https://github.com/rudj-skinhub/woal/raw/tyfh/player/nanoya/vv1.osk)
+[![](https://i.imgur.com/es3K3bV.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/nanoya/vv1.osk)
 
-# [hvick](https://github.com/rudj-skinhub/woal/raw/tyfh/nanoya/hvick.osk)
-[![](https://i.imgur.com/cMntOPA.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/nanoya/hvick.osk)
+# [hvick](https://github.com/rudj-skinhub/woal/raw/tyfh/player/nanoya/hvick.osk)
+[![](https://i.imgur.com/cMntOPA.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/nanoya/hvick.osk)
 
-# [dt](https://github.com/rudj-skinhub/woal/raw/tyfh/nanoya/dt.osk)
-[![](https://i.imgur.com/2H8BQ7f.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/nanoya/dt.osk)
+# [dt](https://github.com/rudj-skinhub/woal/raw/tyfh/player/nanoya/dt.osk)
+[![](https://i.imgur.com/2H8BQ7f.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/nanoya/dt.osk)
 
-# [bubbleman](https://github.com/rudj-skinhub/woal/raw/tyfh/nanoya/bubbleman.osk)
-[![](https://i.imgur.com/B2l1F3D.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/nanoya/bubbleman.osk)
+# [bubbleman](https://github.com/rudj-skinhub/woal/raw/tyfh/player/nanoya/bubbleman.osk)
+[![](https://i.imgur.com/B2l1F3D.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/nanoya/bubbleman.osk)
 
-# [nanoya](https://github.com/rudj-skinhub/woal/raw/tyfh/nanoya/nanoya.osk)
-[![](https://i.imgur.com/DCtXbZD.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/nanoya/nanoya.osk)
+# [nanoya](https://github.com/rudj-skinhub/woal/raw/tyfh/player/nanoya/nanoya.osk)
+[![](https://i.imgur.com/DCtXbZD.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/nanoya/nanoya.osk)
 
 #
 <p align="center">

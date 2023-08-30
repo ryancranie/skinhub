@@ -13,11 +13,11 @@ last updated <b>21/12/2022</b>
        width="151" 
        height="70"/></a>
 
-# [Bocchi + Dare](https://github.com/rudj-skinhub/woal/raw/tyfh/kiirochii/Bocchi%20%2B%20Dare.osk)
-[![](https://i.imgur.com/Gis4zKF.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/kiirochii/Bocchi%20%2B%20Dare.osk)
+# [Bocchi + Dare](https://github.com/rudj-skinhub/woal/raw/tyfh/player/kiirochii/Bocchi%20%2B%20Dare.osk)
+[![](https://i.imgur.com/Gis4zKF.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/kiirochii/Bocchi%20%2B%20Dare.osk)
 
-# [Rafis + playfield](https://github.com/rudj-skinhub/woal/raw/tyfh/kiirochii/Rafis%20%2B%20playfield.osk)
-[![](https://cdn.discordapp.com/attachments/999706619820638248/1020287626068111360/screenshot1538.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/kiirochii/Rafis%20%2B%20playfield.osk)
+# [Rafis + playfield](https://github.com/rudj-skinhub/woal/raw/tyfh/player/kiirochii/Rafis%20%2B%20playfield.osk)
+[![](https://cdn.discordapp.com/attachments/999706619820638248/1020287626068111360/screenshot1538.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/kiirochii/Rafis%20%2B%20playfield.osk)
 
 #
 <p align="center">

@@ -13,14 +13,14 @@ last updated <b>26/10/2022</b>
        width="151" 
        height="70"/></a>
 
-# [etn varv](https://github.com/rudj-skinhub/woal/raw/tyfh/eternum/etn%20varv.osk)
-[![](https://i.imgur.com/pK6YHZI.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/eternum/etn%20varv.osk)
+# [etn varv](https://github.com/rudj-skinhub/woal/raw/tyfh/player/eternum/etn%20varv.osk)
+[![](https://i.imgur.com/pK6YHZI.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/eternum/etn%20varv.osk)
 
-# [rafis fast](https://github.com/rudj-skinhub/woal/raw/tyfh/eternum/rafis%20fast.osk)
-[![](https://i.imgur.com/8EzcM1h.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/eternum/rafis%20fast.osk)
+# [rafis fast](https://github.com/rudj-skinhub/woal/raw/tyfh/player/eternum/rafis%20fast.osk)
+[![](https://i.imgur.com/8EzcM1h.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/eternum/rafis%20fast.osk)
 
-# [tekkito](https://github.com/rudj-skinhub/woal/raw/tyfh/eternum/tekkito.osk)
-[![](https://i.imgur.com/GAgdALQ.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/eternum/tekkito.osk)
+# [tekkito](https://github.com/rudj-skinhub/woal/raw/tyfh/player/eternum/tekkito.osk)
+[![](https://i.imgur.com/GAgdALQ.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/eternum/tekkito.osk)
 
 #
 <p align="center">

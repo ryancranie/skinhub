@@ -8,8 +8,8 @@
 last updated <b>13/04/2023</b>
 </p>
 
-# [zzzmimimi](https://github.com/rudj-skinhub/woal/raw/tyfh/devi/zzzmimimi.osk) | [Preview](https://imgur.com/gallery/xDZtTtt)
-[![](https://i.imgur.com/urdOUAw.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/devi/zzzmimimi.osk)
+# [zzzmimimi](https://github.com/rudj-skinhub/woal/raw/tyfh/player/devi/zzzmimimi.osk) | [Preview](https://imgur.com/gallery/xDZtTtt)
+[![](https://i.imgur.com/urdOUAw.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/devi/zzzmimimi.osk)
 
 #
 <p align="center">

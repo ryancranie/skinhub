@@ -8,14 +8,14 @@
 last updated <b>21/10/2022</b>
 </p>
 
-# [₍ᐢ. ̫ .ᐢ₎](https://github.com/rudj-skinhub/woal/raw/tyfh/erick/%E2%82%8D%E1%90%A2.%20%CC%AB%20.%E1%90%A2%E2%82%8E.osk)
-[![](https://secret.s-ul.eu/2XhEF1x7)](https://github.com/rudj-skinhub/woal/raw/tyfh/erick/%E2%82%8D%E1%90%A2.%20%CC%AB%20.%E1%90%A2%E2%82%8E.osk)
+# [₍ᐢ. ̫ .ᐢ₎](https://github.com/rudj-skinhub/woal/raw/tyfh/player/erick/%E2%82%8D%E1%90%A2.%20%CC%AB%20.%E1%90%A2%E2%82%8E.osk)
+[![](https://secret.s-ul.eu/2XhEF1x7)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/erick/%E2%82%8D%E1%90%A2.%20%CC%AB%20.%E1%90%A2%E2%82%8E.osk)
 
-# [float](https://github.com/rudj-skinhub/woal/raw/tyfh/erick/float.osk)
-[![](https://osu.ppy.sh/ss/18205138/b8ac)](https://github.com/rudj-skinhub/woal/raw/tyfh/erick/float.osk)
+# [float](https://github.com/rudj-skinhub/woal/raw/tyfh/player/erick/float.osk)
+[![](https://osu.ppy.sh/ss/18205138/b8ac)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/erick/float.osk)
 
-# [soft](https://github.com/rudj-skinhub/woal/raw/tyfh/erick/soft.osk)
-[![](https://osu.ppy.sh/ss/18205140/8a4e)](https://github.com/rudj-skinhub/woal/raw/tyfh/erick/soft.osk)
+# [soft](https://github.com/rudj-skinhub/woal/raw/tyfh/player/erick/soft.osk)
+[![](https://osu.ppy.sh/ss/18205140/8a4e)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/erick/soft.osk)
 
 #
 <p align="center">

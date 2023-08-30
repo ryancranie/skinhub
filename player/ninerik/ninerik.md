@@ -18,35 +18,35 @@ last updated 07/01/2023
        width="151" 
        height="70"/></a>
 
-# [nin24x24](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/nin24x24.osk)
-[![](https://osu.ppy.sh/ss/18358522/18f7)](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/nin24x24.osk)
+# [nin24x24](https://github.com/rudj-skinhub/woal/raw/tyfh/player/ninerik/nin24x24.osk)
+[![](https://osu.ppy.sh/ss/18358522/18f7)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/ninerik/nin24x24.osk)
 
-# [aristiatekkito](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/aristiatekkito.osk)
-[![](https://osu.ppy.sh/ss/18358518/cf11)](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/aristiatekkito.osk)
+# [aristiatekkito](https://github.com/rudj-skinhub/woal/raw/tyfh/player/ninerik/aristiatekkito.osk)
+[![](https://osu.ppy.sh/ss/18358518/cf11)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/ninerik/aristiatekkito.osk)
 
-# [scyllamonko](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/scyllamonko.osk)
-[![](https://osu.ppy.sh/ss/18358525/b8f1)](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/scyllamonko.osk)
+# [scyllamonko](https://github.com/rudj-skinhub/woal/raw/tyfh/player/ninerik/scyllamonko.osk)
+[![](https://osu.ppy.sh/ss/18358525/b8f1)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/ninerik/scyllamonko.osk)
 
-# [tekkito](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/tekkito.osk)
-[![](https://osu.ppy.sh/ss/18358539/78ca)](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/tekkito.osk)
+# [tekkito](https://github.com/rudj-skinhub/woal/raw/tyfh/player/ninerik/tekkito.osk)
+[![](https://osu.ppy.sh/ss/18358539/78ca)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/ninerik/tekkito.osk)
 
-# [varv_edit](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/varv%20edit.osk)
-[![](https://osu.ppy.sh/ss/18358542/0944)](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/varv%20edit.osk)
+# [varv_edit](https://github.com/rudj-skinhub/woal/raw/tyfh/player/ninerik/varv%20edit.osk)
+[![](https://osu.ppy.sh/ss/18358542/0944)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/ninerik/varv%20edit.osk)
 
-# [ninerik old](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/ninerik%20old.osk)
-[![](https://osu.ppy.sh/ss/18127526/c02b)](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/ninerik%20old.osk)
+# [ninerik old](https://github.com/rudj-skinhub/woal/raw/tyfh/player/ninerik/ninerik%20old.osk)
+[![](https://osu.ppy.sh/ss/18127526/c02b)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/ninerik/ninerik%20old.osk)
 
-# [Arnold 24x24](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/Arnold24x24.osk)
-[![](https://osu.ppy.sh/ss/18127514/594e)](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/Arnold24x24.osk)
+# [Arnold 24x24](https://github.com/rudj-skinhub/woal/raw/tyfh/player/ninerik/Arnold24x24.osk)
+[![](https://osu.ppy.sh/ss/18127514/594e)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/ninerik/Arnold24x24.osk)
 
-# [fancy lad](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/fancy%20lad.osk)
-[![](https://osu.ppy.sh/ss/18127519/e37b)](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/fancy%20lad.osk)
+# [fancy lad](https://github.com/rudj-skinhub/woal/raw/tyfh/player/ninerik/fancy%20lad.osk)
+[![](https://osu.ppy.sh/ss/18127519/e37b)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/ninerik/fancy%20lad.osk)
 
-# [Varvalian + bloo cursor](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/Varvalian%20%2B%20bloo%20cursor.osk)
-[![](https://osu.ppy.sh/ss/18127524/707a)](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/Varvalian%20%2B%20bloo%20cursor.osk)
+# [Varvalian + bloo cursor](https://github.com/rudj-skinhub/woal/raw/tyfh/player/ninerik/Varvalian%20%2B%20bloo%20cursor.osk)
+[![](https://osu.ppy.sh/ss/18127524/707a)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/ninerik/Varvalian%20%2B%20bloo%20cursor.osk)
 
-# [Intercambing](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/Intercambing.osk)
-[![](https://osu.ppy.sh/ss/18127521/9c1b)](https://github.com/rudj-skinhub/woal/raw/tyfh/ninerik/Intercambing.osk)
+# [Intercambing](https://github.com/rudj-skinhub/woal/raw/tyfh/player/ninerik/Intercambing.osk)
+[![](https://osu.ppy.sh/ss/18127521/9c1b)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/ninerik/Intercambing.osk)
 
 #
 <p align="center">

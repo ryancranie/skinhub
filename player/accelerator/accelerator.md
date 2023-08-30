@@ -18,8 +18,8 @@ last updated <b>03/01/2023</b>
        width="151" 
        height="70"/></a>
 
-# [Stocking (& a bit of panty)](https://github.com/rudj-skinhub/woal/raw/tyfh/accelerator/Stocking%20(%26%20a%20bit%20of%20panty).osk) [NSFW]
-[![](https://i.imgur.com/UKX5lrP.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/accelerator/Stocking%20(%26%20a%20bit%20of%20panty).osk)
+# [Stocking (& a bit of panty)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/accelerator/Stocking%20(%26%20a%20bit%20of%20panty).osk) [NSFW]
+[![](https://i.imgur.com/UKX5lrP.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/accelerator/Stocking%20(%26%20a%20bit%20of%20panty).osk)
 
 #
 <p align="center">

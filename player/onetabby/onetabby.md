@@ -13,8 +13,8 @@ last updated <b>03/01/2023</b>
        width="151" 
        height="70"/></a>
 
-# [momoko](https://github.com/rudj-skinhub/woal/raw/tyfh/onetabby/momoko.osk)
-[![](https://i.imgur.com/7rfclsn.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/onetabby/momoko.osk)
+# [momoko](https://github.com/rudj-skinhub/woal/raw/tyfh/player/onetabby/momoko.osk)
+[![](https://i.imgur.com/7rfclsn.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/onetabby/momoko.osk)
 
 #
 <p align="center">
