@@ -29,7 +29,7 @@ last updated <b>23/10/2022</b>
 # [- + tkova](https://github.com/rudj-skinhub/woal/raw/tyfh/player/charlotte/-%20%2B%20tkova.osk)
 [![](https://osu.ppy.sh/ss/18207604/5615)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/charlotte/-%20%2B%20tkova.osk)
 
-# [- + toke charlotte](https://github.com/rudj-skinhub/woal/raw/tyfh/charlotte/-%20%2B%20toke%20charlotte.osk)
+# [- + toke charlotte](https://github.com/rudj-skinhub/woal/raw/tyfh/player/charlotte/-%20%2B%20toke%20charlotte.osk)
 [![](https://osu.ppy.sh/ss/18207608/bc5b)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/charlotte/-%20%2B%20toke%20charlotte.osk)
 
 # [- Lua (Toke Hamster) + DT edit](https://github.com/rudj-skinhub/woal/raw/tyfh/player/charlotte/-%20Lua%20(Toke%20Hamster)%20%2B%20DT%20edit.osk)

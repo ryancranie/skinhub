@@ -24,7 +24,7 @@ last updated <b>27/01/2022</b>
 # [hnta BTMC](https://github.com/rudj-skinhub/woal/raw/tyfh/player/hnta/hnta%20BTMC.osk)
 [![](https://i.imgur.com/ugt27zu.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/hnta/hnta%20BTMC.osk)
 
-# [hnta DT](https://github.com/rudj-skinhub/woal/raw//player/hnta/hnta%20DT.osk)
+# [hnta DT](https://github.com/rudj-skinhub/woal/raw/tyfh/player/hnta/hnta%20DT.osk)
 [![](https://i.imgur.com/LGW8sJW.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/hnta/hnta%20DT.osk)
 
 # [hnta O](https://github.com/rudj-skinhub/woal/raw/tyfh/player/hnta/hnta%20O.osk)

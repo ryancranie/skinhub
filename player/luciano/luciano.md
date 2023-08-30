@@ -17,7 +17,7 @@ last updated <b>11/01/2023</b>
 [![](https://i.imgur.com/nrFmPzJ.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/luciano/Niko-LUCIANO.osk)
 
 # [cookie-_LUCIANO](https://github.com/rudj-skinhub/woal/raw/tyfh/player/luciano/cookie-_LUCIANO.osk)
-[![](https://i.imgur.com/dSlhJQa.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/luciano/cookie-_LUCIANO.osk)
+[![](https://i.imgur.com/dSlhJQa.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/luciano/cookie-_LUCIANO.osk)
 
 # [oepep 2020](https://github.com/rudj-skinhub/woal/raw/tyfh/player/luciano/oepep_2020.osk)
 [![](https://i.imgur.com/O18NGLK.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/luciano/oepep_2020.osk)

@@ -8,26 +8,26 @@
 last updated <b>15/09/2022</b>
 </p>
  
- # [-_im_bad_privat](https://github.com/rudj-skinhub/woal/raw/tyfh/shene/-_im_bad_private.osk)
-[![](https://cdn.discordapp.com/attachments/739284160090472449/1019858146019254332/screenshot173.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/shene/-_im_bad_private.osk)
+ # [-_im_bad_privat](https://github.com/rudj-skinhub/woal/raw/tyfh/player/shene/-_im_bad_private.osk)
+[![](https://cdn.discordapp.com/attachments/739284160090472449/1019858146019254332/screenshot173.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/shene/-_im_bad_private.osk)
 
- # [vilecat_XD](https://github.com/rudj-skinhub/woal/raw/tyfh/shene/vilecat_XD.osk)
-[![](https://cdn.discordapp.com/attachments/739284160090472449/1019858400231825448/screenshot180.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/shene/vilecat_XD.osk)
+ # [vilecat_XD](https://github.com/rudj-skinhub/woal/raw/tyfh/player/shene/vilecat_XD.osk)
+[![](https://cdn.discordapp.com/attachments/739284160090472449/1019858400231825448/screenshot180.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/shene/vilecat_XD.osk)
 
- # [dick](https://github.com/rudj-skinhub/woal/raw/tyfh/shene/dick.osk)
-[![](https://cdn.discordapp.com/attachments/739284160090472449/1019858795939250267/screenshot181.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/shene/dick.osk)
+ # [dick](https://github.com/rudj-skinhub/woal/raw/tyfh/player/shene/dick.osk)
+[![](https://cdn.discordapp.com/attachments/739284160090472449/1019858795939250267/screenshot181.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/shene/dick.osk)
 
- # [-_Lua__im_bad](https://github.com/rudj-skinhub/woal/raw/tyfh/shene/-_Lua__im_bad.osk)
-[![](https://cdn.discordapp.com/attachments/739284160090472449/1019859221937918032/screenshot183.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/shene/-_Lua__im_bad.osk)
+ # [-_Lua__im_bad](https://github.com/rudj-skinhub/woal/raw/tyfh/player/shene/-_Lua__im_bad.osk)
+[![](https://cdn.discordapp.com/attachments/739284160090472449/1019859221937918032/screenshot183.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/shene/-_Lua__im_bad.osk)
 
- # [XD_Hakurei_DT_edit](https://github.com/rudj-skinhub/woal/raw/tyfh/shene/XD_Hakurei_DT_edit.osk)
-[![](https://cdn.discordapp.com/attachments/739284160090472449/1019859752404135936/screenshot185.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/shene/XD_Hakurei_DT_edit.osk)
+ # [XD_Hakurei_DT_edit](https://github.com/rudj-skinhub/woal/raw/tyfh/player/shene/XD_Hakurei_DT_edit.osk)
+[![](https://cdn.discordapp.com/attachments/739284160090472449/1019859752404135936/screenshot185.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/shene/XD_Hakurei_DT_edit.osk)
 
- # [-__im_bad__ava](https://github.com/rudj-skinhub/woal/raw/tyfh/shene/-__im_bad__ava.osk)
-[![](https://cdn.discordapp.com/attachments/739284160090472449/1019860045363695697/screenshot186.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/shene/-__im_bad__ava.osk)
+ # [-__im_bad__ava](https://github.com/rudj-skinhub/woal/raw/tyfh/player/shene/-__im_bad__ava.osk)
+[![](https://cdn.discordapp.com/attachments/739284160090472449/1019860045363695697/screenshot186.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/shene/-__im_bad__ava.osk)
 
- # [-_wwwwnesonya2skin](https://github.com/rudj-skinhub/woal/raw/tyfh/shene/-_wwwwnesonya2skin.osk)
-[![](https://cdn.discordapp.com/attachments/739284160090472449/1019860619895259186/screenshot187.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/shene/-_wwwwnesonya2skin.osk)
+ # [-_wwwwnesonya2skin](https://github.com/rudj-skinhub/woal/raw/tyfh/player/shene/-_wwwwnesonya2skin.osk)
+[![](https://cdn.discordapp.com/attachments/739284160090472449/1019860619895259186/screenshot187.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/shene/-_wwwwnesonya2skin.osk)
 
 #
 <p align="center">

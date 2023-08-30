@@ -23,11 +23,11 @@ last updated <b>13/02/2023</b>
        width="151" 
        height="70"/></a>
 
-# [Toke_-_Natsukihina](https://github.com/rudj-skinhub/woal/raw/tyfh/toke/Toke_-_Natsukihina.osk)
-[![](https://osu.ppy.sh/ss/18328072/d8fe)](https://github.com/rudj-skinhub/woal/raw/tyfh/toke/Toke_-_Natsukihina.osk)
+# [Toke_-_Natsukihina](https://github.com/rudj-skinhub/woal/raw/tyfh/player/toke/Toke_-_Natsukihina.osk)
+[![](https://osu.ppy.sh/ss/18328072/d8fe)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/toke/Toke_-_Natsukihina.osk)
 
-# [toke+newnew](https://github.com/rudj-skinhub/woal/raw/tyfh/toke/toke%2Bnewnew.osk)
-[![](https://i.imgur.com/vPN5rgx.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/toke/toke%2Bnewnew.osk)
+# [toke+newnew](https://github.com/rudj-skinhub/woal/raw/tyfh/player/toke/toke%2Bnewnew.osk)
+[![](https://i.imgur.com/vPN5rgx.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/toke/toke%2Bnewnew.osk)
 
 #
 <p align="center">

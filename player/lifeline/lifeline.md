@@ -17,7 +17,7 @@ last updated <b>27/12/2022</b>
 [![](https://i.imgur.com/ssg3v5Q.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/xkristiyan/-_lifeline_x_Kristiyan_subahibi.osk)
 
 # [funorange edit](https://github.com/rudj-skinhub/woal/raw/tyfh/player/lifeline/funorange%20edit.osk)
-[![](https://osu.ppy.sh/ss/18375244/2837)](https://github.com/rudj-skinhub/woal/raw//player/lifeline/funorange%20edit.osk)
+[![](https://osu.ppy.sh/ss/18375244/2837)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/lifeline/funorange%20edit.osk)
 
 # [navy kantoku lifeline edit](https://github.com/rudj-skinhub/woal/raw/tyfh/player/lifeline/navy%20kantoku%20lifeline%20edit.osk)
 [![](https://i.imgur.com/i4RqJMn.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/lifeline/navy%20kantoku%20lifeline%20edit.osk)
@@ -26,7 +26,7 @@ last updated <b>27/12/2022</b>
 [![](https://osu.ppy.sh/ss/18336153/e5ec)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/lifeline/%23Azerite%20(osu%20player84)%20%232.osk)
 
 # [Aristia(Edit)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/lifeline/Aristia(Edit).osk)
-[![](https://osu.ppy.sh/ss/18336157/fdc2)](https://github.com/rudj-skinhub/woal/raw//player/lifeline/Aristia(Edit).osk)
+[![](https://osu.ppy.sh/ss/18336157/fdc2)](https://github.com/rudj-skinhub/woal/raw/tyth/player/lifeline/Aristia(Edit).osk)
 
 # [AristiaEdit but SZ](https://github.com/rudj-skinhub/woal/raw/tyfh/player/lifeline/AristiaEdit%20but%20SZ.osk)
 [![](https://osu.ppy.sh/ss/18336160/8d17)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/lifeline/AristiaEdit%20but%20SZ.osk)
@@ -41,7 +41,7 @@ last updated <b>27/12/2022</b>
 [![](https://osu.ppy.sh/ss/18336164/7b91)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/lifeline/Rafis%20but%20SZ.osk)
 
 # [boop](https://github.com/rudj-skinhub/woal/raw/tyfh/player/lifeline/boop.osk)
-[![](https://osu.ppy.sh/ss/18336161/9885)](https://github.com/rudj-skinhub/woal/raw//player/lifeline/boop.osk)
+[![](https://osu.ppy.sh/ss/18336161/9885)](https://github.com/rudj-skinhub/woal/rawt/tyfh/player/lifeline/boop.osk)
 
 # [elohere but SZ](https://github.com/rudj-skinhub/woal/raw/tyfh/player/lifeline/elohere%20but%20SZ.osk)
 [![](https://osu.ppy.sh/ss/18336168/5e7b)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/lifeline/elohere%20but%20SZ.osk)

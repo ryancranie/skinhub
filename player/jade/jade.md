@@ -20,7 +20,7 @@ last updated <b>07/01/2023</b>
 # [-Prawilnosc Jade edit](https://github.com/rudj-skinhub/woal/raw/tyfh/player/jade/-Prawilnosc%20Jade%20edit.osk)
 [![](https://i.imgur.com/PL5jM6C.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/jade/-Prawilnosc%20Jade%20edit.osk)
 
-# [- bocchi dt](https://github.com/rudj-skinhub/woal/raw//player/jade/-%20bocchi%20dt.osk)
+# [- bocchi dt](https://github.com/rudj-skinhub/woal/raw/tyfh/player/jade/-%20bocchi%20dt.osk)
 [![](https://i.imgur.com/OYlTNzy.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/jade/-%20bocchi%20dt.osk)
 
 #
