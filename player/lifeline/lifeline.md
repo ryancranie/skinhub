@@ -41,7 +41,7 @@ last updated <b>27/12/2022</b>
 [![](https://osu.ppy.sh/ss/18336164/7b91)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/lifeline/Rafis%20but%20SZ.osk)
 
 # [boop](https://github.com/rudj-skinhub/woal/raw/tyfh/player/lifeline/boop.osk)
-[![](https://osu.ppy.sh/ss/18336161/9885)](https://github.com/rudj-skinhub/woal/rawt/tyfh/player/lifeline/boop.osk)
+[![](https://osu.ppy.sh/ss/18336161/9885)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/lifeline/boop.osk)
 
 # [elohere but SZ](https://github.com/rudj-skinhub/woal/raw/tyfh/player/lifeline/elohere%20but%20SZ.osk)
 [![](https://osu.ppy.sh/ss/18336168/5e7b)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/lifeline/elohere%20but%20SZ.osk)
