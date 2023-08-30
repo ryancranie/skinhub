@@ -8,8 +8,8 @@
 last updated <b>15/01/2023</b>
 </p>
 
-# [1th_gerard_cope_skin](player/1thgrader/1th_gerard_cope_skin.osk)
-[![](https://osu.ppy.sh/ss/18376409/c663)](player/1thgrader/1th_gerard_cope_skin.osk)
+# [1th_gerard_cope_skin](https://github.com/rudj-skinhub/woal/raw/tyfh/1thgrader/1th_gerard_cope_skin.osk)
+[![](https://osu.ppy.sh/ss/18376409/c663)](https://github.com/rudj-skinhub/woal/raw/tyfh/1thgrader/1th_gerard_cope_skin.osk)
 
 # [BIKKO IS [REDACTED]!!!](https://github.com/rudj-skinhub/woal/raw/tyfh/1thgrader/BIKKO%20IS%20%5BREDACTED%5D!!!.osk)
 [![](https://osu.ppy.sh/ss/18374265/160d)](https://github.com/rudj-skinhub/woal/raw/tyfh/1thgrader/BIKKO%20IS%20%5BREDACTED%5D!!!.osk)
