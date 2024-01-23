@@ -1,8 +1,6 @@
 # rudj-skinhub
-### DISCLAIMER: I host this skinhub for dozens of players, I do not check every single skin for private assets. If you have a problem with me hosting a skin here, please contact me on <a href="https://twitter.com/rudj_">twitter</a>!! 
-made by <a href="https://twitter.com/rudj_">rudj</a><br>
-rip woal-mega-skinhub: 07/08/2022 - 10/01/2023<br>
-if you want a skinhub join the <a href="https://discord.gg/RE8ExXsvHZ">skinhub discord</a><br>
+### DISCLAIMER: I host this skinhub for dozens of players, I do not check every single skin for private assets. If you have a problem with me hosting a skin here, please contact me.
+Come talk about osu skinning on the <a href="https://discord.gg/RE8ExXsvHZ">skinhub discord</a> :))<br>
   <details>
     <summary>list instead of icons</summary><br>
 · <a href="player/1thgrader/1thgrader.md">1th Grader</a><br>
@@ -442,3 +440,6 @@ if you want a skinhub join the <a href="https://discord.gg/RE8ExXsvHZ">skinhub d
   · <a href="https://github.com/Jason4502x/Pinguinzi-Skins">Pinguinzi-Skins</a> ·<br>
   · <a href="https://github.com/chikatoosu/chikato/blob/main/skins.md">chikato-skins</a> ·<br>
 </p>
+
+rip woal-mega-skinhub: 07/08/2022 - 10/01/2023<br>
+rip rudj-skinhub: 10/01/2023 - 23/01/2024
