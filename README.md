@@ -1,4 +1,4 @@
-# rudj-skinhub
+# rc_skinhub
 Welcome to the skinhub, this reporitory archives and showcases lots of player-made skins, for osu!. Enjoy looking around, just click any image to download .osks
 ### DISCLAIMER: I host this skinhub for dozens of players, I do not check every single skin for private assets. If you have a problem with me hosting, please contact me.
 R.I.P. woal-mega-skinhub: _07/08/2022 - 10/01/2023_<br>
