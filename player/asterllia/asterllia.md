@@ -17,6 +17,9 @@ last updated <b>23/01/2024</b>
 <img src="https://i.imgur.com/WPSNbSx.png"
        width="151" 
        height="70"/></a>
+	   
+# [eunbi](https://github.com/ryancranie/skinhub/raw/tyfh/player/asterllia/eunbi.osk)
+[![](https://i.imgur.com/sGEE4p6.png)](https://github.com/ryancranie/skinhub/raw/tyfh/player/asterllia/eunbi.osk)
 
 # [- thinkingofu ☆ (ﾉ_)ﾉ](https://github.com/ryancranie/skinhub/raw/tyfh/player/asterllia/-_thinkingofu.osk)
 [![](https://i.imgur.com/C3pFXHG.png)](https://github.com/ryancranie/skinhub/raw/tyfh/player/asterllia/-_thinkingofu.osk)

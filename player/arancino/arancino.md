@@ -5,8 +5,11 @@
        width="150"
        height="150"></a>
 <br>
-last updated <b>13/02/2023</b>
+last updated <b>23/01/2024</b>
 </p>
+
+# [Marisancino (cookiezi)](https://github.com/ryancranie/skinhub/raw/tyfh/player/arancino/Marisancino%20(cookiezi).osk)
+[![](https://i.imgur.com/zQ5DUls.png)](https://github.com/ryancranie/skinhub/raw/tyfh/player/arancino/Marisancino%20(cookiezi).osk)
 
 # [Marisancino](https://github.com/ryancranie/skinhub/raw/tyfh/player/arancino/Marisancino.osk)
 [![](https://i.imgur.com/zQ5DUls.png)](https://github.com/ryancranie/skinhub/raw/tyfh/player/arancino/Marisancino.osk)
