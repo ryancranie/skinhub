@@ -25,7 +25,7 @@ last updated <b>23/01/2024</b>
 # [ฅ^•ﻌ•^ฅ Merit on osu! 《ARICIN》](https://github.com/ryancranie/skinhub/raw/tyfh/player/merit/%E0%B8%85%5E%E2%80%A2%EF%BB%8C%E2%80%A2%5E%E0%B8%85%20%20Merit%20on%20osu!%20%20%20%E3%80%8AARICIN%E3%80%8B.osk)
 [![](https://media.discordapp.net/attachments/1032724508613804104/1097736128725012590/aricin_preview.jpg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/merit/%E0%B8%85%5E%E2%80%A2%EF%BB%8C%E2%80%A2%5E%E0%B8%85%20%20Merit%20on%20osu!%20%20%20%E3%80%8AARICIN%E3%80%8B.osk)
 
-# [[OLD] ฅ^•ﻌ•^ฅ Merit on osu! 《ROHULK》](https://github.com/ryancranie/skinhub/raw/tyfh/player/merit/%E0%B8%85%5E%E2%80%A2%EF%BB%8C%E2%80%A2%5E%E0%B8%85%20%20Merit%20on%20osu!%20%20%20%E3%80%8AROHULK%E3%80%8B.osk)
+# [OLD] [ ฅ^•ﻌ•^ฅ Merit on osu! 《ROHULK》](https://github.com/ryancranie/skinhub/raw/tyfh/player/merit/%E0%B8%85%5E%E2%80%A2%EF%BB%8C%E2%80%A2%5E%E0%B8%85%20%20Merit%20on%20osu!%20%20%20%E3%80%8AROHULK%E3%80%8B.osk)
 [![](https://i.imgur.com/OfGGXcx.jpeg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/merit/%E0%B8%85%5E%E2%80%A2%EF%BB%8C%E2%80%A2%5E%E0%B8%85%20%20Merit%20on%20osu!%20%20%20%E3%80%8AROHULK%E3%80%8B.osk)
 
 #
