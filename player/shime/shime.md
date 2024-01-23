@@ -13,11 +13,11 @@ last updated <b>11/01/2023</b>
        width="151" 
        height="70"/></a>
 
-# [- shime!](https://github.com/rudj-skinhub/woal/raw/tyfh/player/shime/-%20shime!.osk)
-[![](https://shime.s-ul.eu/TgxD0wZ2)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/shime/-%20shime!.osk)
+# [- shime!](https://github.com/ryancranie/skinhub/raw/tyfh/player/shime/-%20shime!.osk)
+[![](https://shime.s-ul.eu/TgxD0wZ2)](https://github.com/ryancranie/skinhub/raw/tyfh/player/shime/-%20shime!.osk)
 
-# [- shime! pepebusiness edit](https://github.com/rudj-skinhub/woal/raw/tyfh/player/shime/-%20shime!%20pepebusiness%20edit.osk)
-[![](https://shime.s-ul.eu/GWaZFX7n)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/shime/-%20shime!%20pepebusiness%20edit.osk)
+# [- shime! pepebusiness edit](https://github.com/ryancranie/skinhub/raw/tyfh/player/shime/-%20shime!%20pepebusiness%20edit.osk)
+[![](https://shime.s-ul.eu/GWaZFX7n)](https://github.com/ryancranie/skinhub/raw/tyfh/player/shime/-%20shime!%20pepebusiness%20edit.osk)
 
 #
 <p align="center">
@@ -37,3 +37,4 @@ last updated <b>11/01/2023</b>
   <br></br>
   <a href="README.md">rudj-skinhub</a>
  </p>
+

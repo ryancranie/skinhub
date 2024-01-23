@@ -18,29 +18,29 @@ last updated <b>23/01/2024</b>
        width="151" 
        height="70"/></a>
 
-# [- thinkingofu ☆ (ﾉ_)ﾉ](https://github.com/rudj-skinhub/woal/raw/tyfh/player/asterllia/-_thinkingofu.osk)
-[![](https://i.imgur.com/C3pFXHG.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/asterllia/-_thinkingofu.osk)
+# [- thinkingofu ☆ (ﾉ_)ﾉ](https://github.com/ryancranie/skinhub/raw/tyfh/player/asterllia/-_thinkingofu.osk)
+[![](https://i.imgur.com/C3pFXHG.png)](https://github.com/ryancranie/skinhub/raw/tyfh/player/asterllia/-_thinkingofu.osk)
 
-# [✦ - asterllia - nijika!](https://github.com/rudj-skinhub/woal/raw/tyfh/player/asterllia/%E2%9C%A6%20-%20asterllia%20-%20nijika!.osk)
-[![](https://i.imgur.com/dSgmIlD.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/asterllia/%E2%9C%A6%20-%20asterllia%20-%20nijika!.osk)
+# [✦ - asterllia - nijika!](https://github.com/ryancranie/skinhub/raw/tyfh/player/asterllia/%E2%9C%A6%20-%20asterllia%20-%20nijika!.osk)
+[![](https://i.imgur.com/dSgmIlD.png)](https://github.com/ryancranie/skinhub/raw/tyfh/player/asterllia/%E2%9C%A6%20-%20asterllia%20-%20nijika!.osk)
 
-# [✦ - asterllia - ikuyo!](https://github.com/rudj-skinhub/woal/raw/tyfh/player/asterllia/%E2%9C%A6%20-%20asterllia%20-%20ikuyo!.osk)
-[![](https://i.imgur.com/eYquBk6.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/asterllia/%E2%9C%A6%20-%20asterllia%20-%20ikuyo!.osk)
+# [✦ - asterllia - ikuyo!](https://github.com/ryancranie/skinhub/raw/tyfh/player/asterllia/%E2%9C%A6%20-%20asterllia%20-%20ikuyo!.osk)
+[![](https://i.imgur.com/eYquBk6.png)](https://github.com/ryancranie/skinhub/raw/tyfh/player/asterllia/%E2%9C%A6%20-%20asterllia%20-%20ikuyo!.osk)
 
-# [✦ - asterllia - ryou!](https://github.com/rudj-skinhub/woal/raw/tyfh/player/asterllia/%E2%9C%A6%20-%20asterllia%20-%20ryou!.osk)
-[![](https://i.imgur.com/Gl6wQch.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/asterllia/%E2%9C%A6%20-%20asterllia%20-%20ryou!.osk)
+# [✦ - asterllia - ryou!](https://github.com/ryancranie/skinhub/raw/tyfh/player/asterllia/%E2%9C%A6%20-%20asterllia%20-%20ryou!.osk)
+[![](https://i.imgur.com/Gl6wQch.png)](https://github.com/ryancranie/skinhub/raw/tyfh/player/asterllia/%E2%9C%A6%20-%20asterllia%20-%20ryou!.osk)
 
-# [✦ - asterllia - ryou! - azr8](https://github.com/rudj-skinhub/woal/raw/tyfh/player/asterllia/%E2%9C%A6%20-%20asterllia%20-%20ryou!%20-%20azr8.osk)
-[![](https://i.imgur.com/0xIpuK8.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/asterllia/%E2%9C%A6%20-%20asterllia%20-%20ryou!%20-%20azr8.osk)
+# [✦ - asterllia - ryou! - azr8](https://github.com/ryancranie/skinhub/raw/tyfh/player/asterllia/%E2%9C%A6%20-%20asterllia%20-%20ryou!%20-%20azr8.osk)
+[![](https://i.imgur.com/0xIpuK8.png)](https://github.com/ryancranie/skinhub/raw/tyfh/player/asterllia/%E2%9C%A6%20-%20asterllia%20-%20ryou!%20-%20azr8.osk)
 
-# [#patience](https://github.com/rudj-skinhub/woal/raw/tyfh/player/asterllia/%23patience.osk)
-[![](https://i.imgur.com/3wbcSY3.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/asterllia/%23patience.osk)
+# [#patience](https://github.com/ryancranie/skinhub/raw/tyfh/player/asterllia/%23patience.osk)
+[![](https://i.imgur.com/3wbcSY3.jpg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/asterllia/%23patience.osk)
 
-# [Lenathea-](https://github.com/rudj-skinhub/woal/raw/tyfh/player/asterllia/Lenathea-.osk)
-[![](https://i.imgur.com/Az1UVWz.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/asterllia/Lenathea-.osk)
+# [Lenathea-](https://github.com/ryancranie/skinhub/raw/tyfh/player/asterllia/Lenathea-.osk)
+[![](https://i.imgur.com/Az1UVWz.jpg)](https://github.com/ryancranie/skinhub/raw/tyfh/asterllia/Lenathea-.osk)
 
-# [bocchi_aster!](https://github.com/rudj-skinhub/woal/raw/tyfh/player/asterllia/bocchi_aster!.osk)
-[![](https://i.imgur.com/RrmJyOr.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/asterllia/bocchi_aster!.osk)
+# [bocchi_aster!](https://github.com/ryancranie/skinhub/raw/tyfh/player/asterllia/bocchi_aster!.osk)
+[![](https://i.imgur.com/RrmJyOr.jpg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/asterllia/bocchi_aster!.osk)
 
 #
 <p align="center">
@@ -52,3 +52,4 @@ last updated <b>23/01/2024</b>
   <br></br>
   <a href="README.md">rudj-skinhub</a>
  </p>
+

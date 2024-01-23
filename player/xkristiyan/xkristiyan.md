@@ -18,16 +18,16 @@ last 04/01/23
        width="151" 
        height="70"/></a>
 
-<a href="https://github.com/rudj-skinhub/woal/blob/tyfh/aeshub.md">
+<a href="https://github.com/ryancranie/skinhub/blob/tyfh/aeshub.md">
 <img src="https://i.imgur.com/nnkLwEo.png" 
        width="151" 
        height="70"/></a>
 
-# [#lifeline x Kristiyan subahibi](https://github.com/rudj-skinhub/woal/raw/tyfh/player/xkristiyan/-_lifeline_x_Kristiyan_subahibi.osk)
-[![](https://i.imgur.com/ssg3v5Q.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/xkristiyan/-_lifeline_x_Kristiyan_subahibi.osk)
+# [#lifeline x Kristiyan subahibi](https://github.com/ryancranie/skinhub/raw/tyfh/player/xkristiyan/-_lifeline_x_Kristiyan_subahibi.osk)
+[![](https://i.imgur.com/ssg3v5Q.png)](https://github.com/ryancranie/skinhub/raw/tyfh/player/xkristiyan/-_lifeline_x_Kristiyan_subahibi.osk)
 
-# [#xKrisk Subahibi](https://github.com/rudj-skinhub/woal/raw/tyfh/player/xkristiyan/-%20%23xKrisk%20Subahibi.osk) [NSFW]
-[![](https://i.imgur.com/SzbmmE1.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/xkristiyan/-%20%23xKrisk%20Subahibi.osk)
+# [#xKrisk Subahibi](https://github.com/ryancranie/skinhub/raw/tyfh/player/xkristiyan/-%20%23xKrisk%20Subahibi.osk) [NSFW]
+[![](https://i.imgur.com/SzbmmE1.jpeg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/xkristiyan/-%20%23xKrisk%20Subahibi.osk)
 
 #
 <p align="center">
@@ -47,3 +47,4 @@ last 04/01/23
   <br></br>
   <a href="README.md">rudj-skinhub</a>
  </p>
+

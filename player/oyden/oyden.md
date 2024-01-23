@@ -13,23 +13,23 @@ last updated <b>09/12/2022</b>
        width="151" 
        height="70"/></a>
 
-# [-_Oyden_404](https://github.com/rudj-skinhub/woal/raw/tyfh/player/oyden/-_Oyden_404.osk)
-[![](https://i.imgur.com/fdCq4JD.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/oyden/-_Oyden_404.osk)
+# [-_Oyden_404](https://github.com/ryancranie/skinhub/raw/tyfh/player/oyden/-_Oyden_404.osk)
+[![](https://i.imgur.com/fdCq4JD.png)](https://github.com/ryancranie/skinhub/raw/tyfh/player/oyden/-_Oyden_404.osk)
 
-# [-_Oyden_aristia](https://github.com/rudj-skinhub/woal/raw/tyfh/player/oyden/-_Oyden_aristia.osk)
-[![](https://i.imgur.com/eYP18Yy.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/oyden/-_Oyden_aristia.osk)
+# [-_Oyden_aristia](https://github.com/ryancranie/skinhub/raw/tyfh/player/oyden/-_Oyden_aristia.osk)
+[![](https://i.imgur.com/eYP18Yy.png)](https://github.com/ryancranie/skinhub/raw/tyfh/player/oyden/-_Oyden_aristia.osk)
 
-# [-_Oyden_bubble](https://github.com/rudj-skinhub/woal/raw/tyfh/player/oyden/-_Oyden_bubble.osk)
-[![](https://i.imgur.com/meBuyQ2.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/oyden/-_Oyden_bubble.osk)
+# [-_Oyden_bubble](https://github.com/ryancranie/skinhub/raw/tyfh/player/oyden/-_Oyden_bubble.osk)
+[![](https://i.imgur.com/meBuyQ2.png)](https://github.com/ryancranie/skinhub/raw/tyfh/player/oyden/-_Oyden_bubble.osk)
 
-# [-_Oyden_777](https://github.com/rudj-skinhub/woal/raw/tyfh/player/oyden/-_Oyden_777.osk)
-[![](https://i.imgur.com/VJAEwHW.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/oyden/-_Oyden_777.osk)
+# [-_Oyden_777](https://github.com/ryancranie/skinhub/raw/tyfh/player/oyden/-_Oyden_777.osk)
+[![](https://i.imgur.com/VJAEwHW.png)](https://github.com/ryancranie/skinhub/raw/tyfh/player/oyden/-_Oyden_777.osk)
 
-# [-_Oyden_tekkito](https://github.com/rudj-skinhub/woal/raw/tyfh/player/oyden/-_Oyden_tekkito.osk)
-[![](https://i.imgur.com/HKFztWe.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/oyden/-_Oyden_tekkito.osk)
+# [-_Oyden_tekkito](https://github.com/ryancranie/skinhub/raw/tyfh/player/oyden/-_Oyden_tekkito.osk)
+[![](https://i.imgur.com/HKFztWe.png)](https://github.com/ryancranie/skinhub/raw/tyfh/player/oyden/-_Oyden_tekkito.osk)
 
-# [-_Oyden_n44](https://github.com/rudj-skinhub/woal/raw/tyfh/player/oyden/-_Oyden_n44.osk)
-[![](https://i.imgur.com/fmadPcq.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/oyden/-_Oyden_n44.osk)
+# [-_Oyden_n44](https://github.com/ryancranie/skinhub/raw/tyfh/player/oyden/-_Oyden_n44.osk)
+[![](https://i.imgur.com/fmadPcq.png)](https://github.com/ryancranie/skinhub/raw/tyfh/player/oyden/-_Oyden_n44.osk)
 
 
 #
@@ -50,3 +50,4 @@ last updated <b>09/12/2022</b>
   <br></br>
   <a href="README.md">rudj-skinhub</a>
  </p>
+

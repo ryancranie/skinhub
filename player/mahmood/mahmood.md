@@ -8,8 +8,8 @@
 last updated <b>15/09/2022</b>
 </p>
 
-# [HABIBI boop](https://github.com/rudj-skinhub/woal/raw/tyfh/player/mahmood/HABIBI%20boop.osk)
-[![](https://osu.ppy.sh/ss/18127492/45d4)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/mahmood/HABIBI%20boop.osk)
+# [HABIBI boop](https://github.com/ryancranie/skinhub/raw/tyfh/player/mahmood/HABIBI%20boop.osk)
+[![](https://osu.ppy.sh/ss/18127492/45d4)](https://github.com/ryancranie/skinhub/raw/tyfh/player/mahmood/HABIBI%20boop.osk)
 
 #
 <p align="center">
@@ -29,3 +29,4 @@ last updated <b>15/09/2022</b>
   <br></br>
   <a href="README.md">rudj-skinhub</a>
  </p>
+

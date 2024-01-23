@@ -8,11 +8,11 @@
 last updated <b>15/02/2023</b>
 </p>
 
-# [this skin is ass](https://github.com/rudj-skinhub/woal/raw/tyfh/player/tree/this%20skin%20is%20ass.osk)
-[![](https://i.imgur.com/rEspKbX.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/tree/this%20skin%20is%20ass.osk)
+# [this skin is ass](https://github.com/ryancranie/skinhub/raw/tyfh/player/tree/this%20skin%20is%20ass.osk)
+[![](https://i.imgur.com/rEspKbX.jpeg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/tree/this%20skin%20is%20ass.osk)
 
-# [this skin is dt](https://github.com/rudj-skinhub/woal/raw/tyfh/player/tree/this%20skin%20is%20dt.osk)
-[![](https://i.imgur.com/o1jQt7L.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/tree/this%20skin%20is%20dt.osk)
+# [this skin is dt](https://github.com/ryancranie/skinhub/raw/tyfh/player/tree/this%20skin%20is%20dt.osk)
+[![](https://i.imgur.com/o1jQt7L.jpeg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/tree/this%20skin%20is%20dt.osk)
 
 #
 <p align="center">
@@ -24,3 +24,4 @@ last updated <b>15/02/2023</b>
   <br></br>
   <a href="README.md">rudj-skinhub</a>
  </p>
+

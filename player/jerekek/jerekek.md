@@ -8,20 +8,20 @@
 last updated <b>18/09/2022</b>
 </p>
 
-# [Elojere 中野区](https://github.com/rudj-skinhub/woal/raw/tyfh/player/jerekek/Elojere%20%E4%B8%AD%E9%87%8E%E5%8C%BA.osk)
-[![](https://osu.ppy.sh/ss/18134870/1db1)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/jerekek/Elojere%20%E4%B8%AD%E9%87%8E%E5%8C%BA.osk)
+# [Elojere 中野区](https://github.com/ryancranie/skinhub/raw/tyfh/player/jerekek/Elojere%20%E4%B8%AD%E9%87%8E%E5%8C%BA.osk)
+[![](https://osu.ppy.sh/ss/18134870/1db1)](https://github.com/ryancranie/skinhub/raw/tyfh/player/jerekek/Elojere%20%E4%B8%AD%E9%87%8E%E5%8C%BA.osk)
 
-# [Aesthetic 1.3.11 +red cursor](https://github.com/rudj-skinhub/woal/raw/tyfh/player/jerekek/Aesthetic%201.3.11%20%2Bred%20cursor.osk)
-[![](https://osu.ppy.sh/ss/18134880/94b8)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/jerekek/Aesthetic%201.3.11%20%2Bred%20cursor.osk)
+# [Aesthetic 1.3.11 +red cursor](https://github.com/ryancranie/skinhub/raw/tyfh/player/jerekek/Aesthetic%201.3.11%20%2Bred%20cursor.osk)
+[![](https://osu.ppy.sh/ss/18134880/94b8)](https://github.com/ryancranie/skinhub/raw/tyfh/player/jerekek/Aesthetic%201.3.11%20%2Bred%20cursor.osk)
 
-# [Haadez + Shige v2](https://github.com/rudj-skinhub/woal/raw/tyfh/player/jerekek/Haadez%20%2B%20Shige%20v2.osk)
-[![](https://osu.ppy.sh/ss/18134883/1819)](https://github.com/rudj-skinhub/woal/raw//player/jerekek/Haadez%20%2B%20Shige%20v2.osk)
+# [Haadez + Shige v2](https://github.com/ryancranie/skinhub/raw/tyfh/player/jerekek/Haadez%20%2B%20Shige%20v2.osk)
+[![](https://osu.ppy.sh/ss/18134883/1819)](https://github.com/ryancranie/skinhub/raw//player/jerekek/Haadez%20%2B%20Shige%20v2.osk)
 
-# [Rafis 2018-03-26 HDDT](https://github.com/rudj-skinhub/woal/raw/tyfh/player/jerekek/Rafis%202018-03-26%20HDDT.osk)
-[![](https://osu.ppy.sh/ss/18134867/bc96)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/jerekek/Rafis%202018-03-26%20HDDT.osk)
+# [Rafis 2018-03-26 HDDT](https://github.com/ryancranie/skinhub/raw/tyfh/player/jerekek/Rafis%202018-03-26%20HDDT.osk)
+[![](https://osu.ppy.sh/ss/18134867/bc96)](https://github.com/ryancranie/skinhub/raw/tyfh/player/jerekek/Rafis%202018-03-26%20HDDT.osk)
 
-# [matskun quantuaalinen skini](https://github.com/rudj-skinhub/woal/raw/tyfh/player/jerekek/matskun%20quantuaalinen%20skini.osk)
-[![](https://osu.ppy.sh/ss/18134893/eacb)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/jerekek/matskun%20quantuaalinen%20skini.osk)
+# [matskun quantuaalinen skini](https://github.com/ryancranie/skinhub/raw/tyfh/player/jerekek/matskun%20quantuaalinen%20skini.osk)
+[![](https://osu.ppy.sh/ss/18134893/eacb)](https://github.com/ryancranie/skinhub/raw/tyfh/player/jerekek/matskun%20quantuaalinen%20skini.osk)
 
 #
 <p align="center">
@@ -41,3 +41,4 @@ last updated <b>18/09/2022</b>
   <br></br>
   <a href="README.md">rudj-skinhub</a>
  </p>
+

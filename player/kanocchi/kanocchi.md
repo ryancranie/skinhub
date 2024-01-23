@@ -8,11 +8,11 @@
 last updated <b>27/01/2022</b>
 </p>
 
-# [we bare bears](https://github.com/rudj-skinhub/woal/raw/tyfh/player/kanocchi/we%20bare%20bears.osk)
-[![](https://i.imgur.com/wmjDWxB.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/kanocchi/we%20bare%20bears.osk)
+# [we bare bears](https://github.com/ryancranie/skinhub/raw/tyfh/player/kanocchi/we%20bare%20bears.osk)
+[![](https://i.imgur.com/wmjDWxB.jpeg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/kanocchi/we%20bare%20bears.osk)
 
-# [inuhiro](https://github.com/rudj-skinhub/woal/raw/tyfh/player/kanocchi/inuhiro.osk)
-[![](https://i.imgur.com/0u5UdLV.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/kanocchi/inuhiro.osk)
+# [inuhiro](https://github.com/ryancranie/skinhub/raw/tyfh/player/kanocchi/inuhiro.osk)
+[![](https://i.imgur.com/0u5UdLV.jpeg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/kanocchi/inuhiro.osk)
 
 #
 <p align="center">
@@ -24,3 +24,4 @@ last updated <b>27/01/2022</b>
   <br></br>
   <a href="README.md">rudj-skinhub</a>
  </p>
+

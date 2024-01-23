@@ -8,15 +8,15 @@
 last updated <b>15/01/2023</b>
 </p>
 
-# [Rafis x logosmage x howl](https://github.com/rudj-skinhub/woal/raw/tyfh/player/logosmage/Rafis%20x%20logosmage%20x%20howl.osk)
-[![](https://i.imgur.com/mwzCRFj.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/logosmage/Rafis%20x%20logosmage%20x%20howl.osk)
-[![](https://i.imgur.com/GCK6nnS.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/logosmage/Rafis%20x%20logosmage%20x%20howl.osk)
-[![](https://i.imgur.com/PEpz1Dh.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/logosmage/Rafis%20x%20logosmage%20x%20howl.osk)
-[![](https://i.imgur.com/rFOFVFk.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/logosmage/Rafis%20x%20logosmage%20x%20howl.osk)
-[![](https://i.imgur.com/KNJICNT.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/logosmage/Rafis%20x%20logosmage%20x%20howl.osk)
+# [Rafis x logosmage x howl](https://github.com/ryancranie/skinhub/raw/tyfh/player/logosmage/Rafis%20x%20logosmage%20x%20howl.osk)
+[![](https://i.imgur.com/mwzCRFj.png)](https://github.com/ryancranie/skinhub/raw/tyfh/player/logosmage/Rafis%20x%20logosmage%20x%20howl.osk)
+[![](https://i.imgur.com/GCK6nnS.png)](https://github.com/ryancranie/skinhub/raw/tyfh/player/logosmage/Rafis%20x%20logosmage%20x%20howl.osk)
+[![](https://i.imgur.com/PEpz1Dh.png)](https://github.com/ryancranie/skinhub/raw/tyfh/player/logosmage/Rafis%20x%20logosmage%20x%20howl.osk)
+[![](https://i.imgur.com/rFOFVFk.png)](https://github.com/ryancranie/skinhub/raw/tyfh/player/logosmage/Rafis%20x%20logosmage%20x%20howl.osk)
+[![](https://i.imgur.com/KNJICNT.png)](https://github.com/ryancranie/skinhub/raw/tyfh/player/logosmage/Rafis%20x%20logosmage%20x%20howl.osk)
 
-# [Tekkito x logosmage x WhiteCat](https://github.com/rudj-skinhub/woal/raw/tyfh/player/logosmage/Tekkito%20x%20logosmage%20x%20WhiteCat.osk)
-[![](https://i.imgur.com/8l7Q6l2.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/logosmage/Tekkito%20x%20logosmage%20x%20WhiteCat.osk)
+# [Tekkito x logosmage x WhiteCat](https://github.com/ryancranie/skinhub/raw/tyfh/player/logosmage/Tekkito%20x%20logosmage%20x%20WhiteCat.osk)
+[![](https://i.imgur.com/8l7Q6l2.png)](https://github.com/ryancranie/skinhub/raw/tyfh/player/logosmage/Tekkito%20x%20logosmage%20x%20WhiteCat.osk)
 
 #
 <p align="center">
@@ -32,3 +32,4 @@ last updated <b>15/01/2023</b>
   <br></br>
   <a href="README.md">rudj-skinhub</a>
  </p>
+

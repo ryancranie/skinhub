@@ -13,20 +13,20 @@ last updated <b>23/01/2024</b>
        width="151" 
        height="70"/></a>
 	   
-# [ฅ^•ﻌ•^ฅ Merit on osu! 《MERIT》](https://github.com/rudj-skinhub/woal/raw/tyfh/player/merit/%E0%B8%85%5E%E2%80%A2%EF%BB%8C%E2%80%A2%5E%E0%B8%85%20%20Merit%20on%20osu!%20%20%20%E3%80%8AMERIT%E3%80%8B.osk)
-[![](https://media.discordapp.net/attachments/1032724508613804104/1097737356913688707/merit_preview.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/merit/%E0%B8%85%5E%E2%80%A2%EF%BB%8C%E2%80%A2%5E%E0%B8%85%20%20Merit%20on%20osu!%20%20%20%E3%80%8AMERIT%E3%80%8B.osk)
+# [ฅ^•ﻌ•^ฅ Merit on osu! 《MERIT》](https://github.com/ryancranie/skinhub/raw/tyfh/player/merit/%E0%B8%85%5E%E2%80%A2%EF%BB%8C%E2%80%A2%5E%E0%B8%85%20%20Merit%20on%20osu!%20%20%20%E3%80%8AMERIT%E3%80%8B.osk)
+[![](https://media.discordapp.net/attachments/1032724508613804104/1097737356913688707/merit_preview.jpg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/merit/%E0%B8%85%5E%E2%80%A2%EF%BB%8C%E2%80%A2%5E%E0%B8%85%20%20Merit%20on%20osu!%20%20%20%E3%80%8AMERIT%E3%80%8B.osk)
 
-# [ฅ^•ﻌ•^ฅ Merit on osu! 《RYUK》](https://github.com/rudj-skinhub/woal/raw/tyfh/player/merit/%E0%B8%85%5E%E2%80%A2%EF%BB%8C%E2%80%A2%5E%E0%B8%85%20%20Merit%20on%20osu!%20%20%20%E3%80%8ARYUK%E3%80%8B.osk)
-[![](https://i.imgur.com/IxzMNgJ.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/merit/%E0%B8%85%5E%E2%80%A2%EF%BB%8C%E2%80%A2%5E%E0%B8%85%20%20Merit%20on%20osu!%20%20%20%E3%80%8ARYUK%E3%80%8B.osk)
+# [ฅ^•ﻌ•^ฅ Merit on osu! 《RYUK》](https://github.com/ryancranie/skinhub/raw/tyfh/player/merit/%E0%B8%85%5E%E2%80%A2%EF%BB%8C%E2%80%A2%5E%E0%B8%85%20%20Merit%20on%20osu!%20%20%20%E3%80%8ARYUK%E3%80%8B.osk)
+[![](https://i.imgur.com/IxzMNgJ.jpeg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/merit/%E0%B8%85%5E%E2%80%A2%EF%BB%8C%E2%80%A2%5E%E0%B8%85%20%20Merit%20on%20osu!%20%20%20%E3%80%8ARYUK%E3%80%8B.osk)
 
-# [ฅ^•ﻌ•^ฅ Merit on osu! 《SEOUL》](https://github.com/rudj-skinhub/woal/raw/tyfh/player/merit/%E0%B8%85%5E%E2%80%A2%EF%BB%8C%E2%80%A2%5E%E0%B8%85%20%20Merit%20on%20osu!%20%20%20%E3%80%8ASEOUL%E3%80%8B.osk)
-[![](https://media.discordapp.net/attachments/1032724508613804104/1097737357177913384/SEOUL_preview.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/merit/%E0%B8%85%5E%E2%80%A2%EF%BB%8C%E2%80%A2%5E%E0%B8%85%20%20Merit%20on%20osu!%20%20%20%E3%80%8ASEOUL%E3%80%8B.osk)
+# [ฅ^•ﻌ•^ฅ Merit on osu! 《SEOUL》](https://github.com/ryancranie/skinhub/raw/tyfh/player/merit/%E0%B8%85%5E%E2%80%A2%EF%BB%8C%E2%80%A2%5E%E0%B8%85%20%20Merit%20on%20osu!%20%20%20%E3%80%8ASEOUL%E3%80%8B.osk)
+[![](https://media.discordapp.net/attachments/1032724508613804104/1097737357177913384/SEOUL_preview.jpg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/merit/%E0%B8%85%5E%E2%80%A2%EF%BB%8C%E2%80%A2%5E%E0%B8%85%20%20Merit%20on%20osu!%20%20%20%E3%80%8ASEOUL%E3%80%8B.osk)
 
-# [ฅ^•ﻌ•^ฅ Merit on osu! 《ARICIN》](https://github.com/rudj-skinhub/woal/raw/tyfh/player/merit/%E0%B8%85%5E%E2%80%A2%EF%BB%8C%E2%80%A2%5E%E0%B8%85%20%20Merit%20on%20osu!%20%20%20%E3%80%8AARICIN%E3%80%8B.osk)
-[![](https://media.discordapp.net/attachments/1032724508613804104/1097736128725012590/aricin_preview.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/merit/%E0%B8%85%5E%E2%80%A2%EF%BB%8C%E2%80%A2%5E%E0%B8%85%20%20Merit%20on%20osu!%20%20%20%E3%80%8AARICIN%E3%80%8B.osk)
+# [ฅ^•ﻌ•^ฅ Merit on osu! 《ARICIN》](https://github.com/ryancranie/skinhub/raw/tyfh/player/merit/%E0%B8%85%5E%E2%80%A2%EF%BB%8C%E2%80%A2%5E%E0%B8%85%20%20Merit%20on%20osu!%20%20%20%E3%80%8AARICIN%E3%80%8B.osk)
+[![](https://media.discordapp.net/attachments/1032724508613804104/1097736128725012590/aricin_preview.jpg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/merit/%E0%B8%85%5E%E2%80%A2%EF%BB%8C%E2%80%A2%5E%E0%B8%85%20%20Merit%20on%20osu!%20%20%20%E3%80%8AARICIN%E3%80%8B.osk)
 
-# [ฅ^•ﻌ•^ฅ Merit on osu! 《ROHULK》](https://github.com/rudj-skinhub/woal/raw/tyfh/player/merit/%E0%B8%85%5E%E2%80%A2%EF%BB%8C%E2%80%A2%5E%E0%B8%85%20%20Merit%20on%20osu!%20%20%20%E3%80%8AROHULK%E3%80%8B.osk)
-[![](https://i.imgur.com/OfGGXcx.jpeg)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/merit/%E0%B8%85%5E%E2%80%A2%EF%BB%8C%E2%80%A2%5E%E0%B8%85%20%20Merit%20on%20osu!%20%20%20%E3%80%8AROHULK%E3%80%8B.osk)
+# [ฅ^•ﻌ•^ฅ Merit on osu! 《ROHULK》](https://github.com/ryancranie/skinhub/raw/tyfh/player/merit/%E0%B8%85%5E%E2%80%A2%EF%BB%8C%E2%80%A2%5E%E0%B8%85%20%20Merit%20on%20osu!%20%20%20%E3%80%8AROHULK%E3%80%8B.osk)
+[![](https://i.imgur.com/OfGGXcx.jpeg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/merit/%E0%B8%85%5E%E2%80%A2%EF%BB%8C%E2%80%A2%5E%E0%B8%85%20%20Merit%20on%20osu!%20%20%20%E3%80%8AROHULK%E3%80%8B.osk)
 
 #
 <p align="center">
@@ -46,3 +46,4 @@ last updated <b>23/01/2024</b>
   <br></br>
   <a href="README.md">rudj-skinhub</a>
  </p>
+

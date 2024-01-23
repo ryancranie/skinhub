@@ -8,17 +8,17 @@
 last updated <b>03/04/2023</b>
 </p>
 
-# [plasma](https://github.com/rudj-skinhub/woal/raw/tyfh/player/plasma/plasma.osk) - optimized
-[![](https://i.imgur.com/QVAT5KA.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/plasma/plasma.osk)
+# [plasma](https://github.com/ryancranie/skinhub/raw/tyfh/player/plasma/plasma.osk) - optimized
+[![](https://i.imgur.com/QVAT5KA.png)](https://github.com/ryancranie/skinhub/raw/tyfh/player/plasma/plasma.osk)
 
-# [plasma dt](https://github.com/rudj-skinhub/woal/raw/tyfh/player/plasma/plasma%20dt.osk) - optimized
-[![](https://i.imgur.com/gKZmQs4.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/plasma/plasma%20dt.osk)
+# [plasma dt](https://github.com/ryancranie/skinhub/raw/tyfh/player/plasma/plasma%20dt.osk) - optimized
+[![](https://i.imgur.com/gKZmQs4.png)](https://github.com/ryancranie/skinhub/raw/tyfh/player/plasma/plasma%20dt.osk)
 
-# [boom 0524 edit](https://github.com/rudj-skinhub/woal/raw/tyfh/player/plasma/boom%200524%20edit.osk)
-[![](https://i.imgur.com/gScgmgT.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/plasma/boom%200524%20edit.osk)
+# [boom 0524 edit](https://github.com/ryancranie/skinhub/raw/tyfh/player/plasma/boom%200524%20edit.osk)
+[![](https://i.imgur.com/gScgmgT.png)](https://github.com/ryancranie/skinhub/raw/tyfh/player/plasma/boom%200524%20edit.osk)
 
-# [Rafis HDDT 2018 Refreshed [RK]](https://github.com/rudj-skinhub/woal/raw/tyfh/player/plasma/Rafis%20HDDT%202018%20Refreshed%20%5BRK%5D.osk)
-[![](https://i.imgur.com/X0xdKRR.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/plasma/Rafis%20HDDT%202018%20Refreshed%20%5BRK%5D.osk)
+# [Rafis HDDT 2018 Refreshed [RK]](https://github.com/ryancranie/skinhub/raw/tyfh/player/plasma/Rafis%20HDDT%202018%20Refreshed%20%5BRK%5D.osk)
+[![](https://i.imgur.com/X0xdKRR.png)](https://github.com/ryancranie/skinhub/raw/tyfh/player/plasma/Rafis%20HDDT%202018%20Refreshed%20%5BRK%5D.osk)
 
 #
 <p align="center">
@@ -38,3 +38,4 @@ last updated <b>03/04/2023</b>
   <br></br>
   <a href="README.md">rudj-skinhub</a>
  </p>
+

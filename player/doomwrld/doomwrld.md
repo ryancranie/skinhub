@@ -8,17 +8,17 @@
 last updated <b>27/03/2023</b>
 </p>
 
-# [aristia doom](https://github.com/rudj-skinhub/woal/raw/tyfh/player/doomwrld/aristia%20doom.osk)
-[![](https://cdn.discordapp.com/attachments/936185753225007144/1020450230195470396/screenshot069.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/doomwrld/aristia%20doom.osk)
+# [aristia doom](https://github.com/ryancranie/skinhub/raw/tyfh/player/doomwrld/aristia%20doom.osk)
+[![](https://cdn.discordapp.com/attachments/936185753225007144/1020450230195470396/screenshot069.png)](https://github.com/ryancranie/skinhub/raw/tyfh/player/doomwrld/aristia%20doom.osk)
 
-# [doom dt](https://github.com/rudj-skinhub/woal/raw/tyfh/player/doomwrld/doom%20dt.osk)
-[![](https://cdn.discordapp.com/attachments/936185753225007144/1020683668345339954/screenshot071.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/doomwrld/doom%20dt.osk)
+# [doom dt](https://github.com/ryancranie/skinhub/raw/tyfh/player/doomwrld/doom%20dt.osk)
+[![](https://cdn.discordapp.com/attachments/936185753225007144/1020683668345339954/screenshot071.png)](https://github.com/ryancranie/skinhub/raw/tyfh/player/doomwrld/doom%20dt.osk)
 
-# [aprx stunna edit](https://github.com/rudj-skinhub/woal/raw/tyfh/player/doomwrld/aprx%20stunna%20edit.osk)
-[![](https://i.imgur.com/TABOceq.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/doomwrld/aprx%20stunna%20edit.osk)
+# [aprx stunna edit](https://github.com/ryancranie/skinhub/raw/tyfh/player/doomwrld/aprx%20stunna%20edit.osk)
+[![](https://i.imgur.com/TABOceq.png)](https://github.com/ryancranie/skinhub/raw/tyfh/player/doomwrld/aprx%20stunna%20edit.osk)
 
-# [Aristia doom balls](https://github.com/rudj-skinhub/woal/raw/tyfh/player/doomwrld/Aristia%20doom%20balls.osk)
-[![](https://i.imgur.com/7f3eBcK.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/doomwrld/Aristia%20doom%20balls.osk)
+# [Aristia doom balls](https://github.com/ryancranie/skinhub/raw/tyfh/player/doomwrld/Aristia%20doom%20balls.osk)
+[![](https://i.imgur.com/7f3eBcK.png)](https://github.com/ryancranie/skinhub/raw/tyfh/player/doomwrld/Aristia%20doom%20balls.osk)
 
 #
 
@@ -39,3 +39,4 @@ last updated <b>27/03/2023</b>
   <br></br>
   <a href="README.md">rudj-skinhub</a>
  </p>
+

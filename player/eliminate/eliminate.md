@@ -18,23 +18,23 @@ last updated <b>28/12/2022</b>
        width="151" 
        height="70"/></a>
 
-# [Eliminate Green](https://github.com/rudj-skinhub/woal/raw/tyfh/player/eliminate/Eliminate%20Green.osk)
-[![](https://osu.ppy.sh/ss/18336128/a854)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/eliminate/Eliminate%20Green.osk)
+# [Eliminate Green](https://github.com/ryancranie/skinhub/raw/tyfh/player/eliminate/Eliminate%20Green.osk)
+[![](https://osu.ppy.sh/ss/18336128/a854)](https://github.com/ryancranie/skinhub/raw/tyfh/player/eliminate/Eliminate%20Green.osk)
 
-# [Eliminate Pink](https://github.com/rudj-skinhub/woal/raw/tyfh/player/eliminate/Eliminate%20Pink.osk)
-[![](https://osu.ppy.sh/ss/18336114/72c8)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/eliminate/Eliminate%20Pink.osk)
+# [Eliminate Pink](https://github.com/ryancranie/skinhub/raw/tyfh/player/eliminate/Eliminate%20Pink.osk)
+[![](https://osu.ppy.sh/ss/18336114/72c8)](https://github.com/ryancranie/skinhub/raw/tyfh/player/eliminate/Eliminate%20Pink.osk)
 
-# [Myuka Taiko](https://github.com/rudj-skinhub/woal/raw/tyfh/player/eliminate/Myuka%20Taiko.osk)
-[![](https://osu.ppy.sh/ss/18338359/a5fc)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/eliminate/Myuka%20Taiko.osk)
+# [Myuka Taiko](https://github.com/ryancranie/skinhub/raw/tyfh/player/eliminate/Myuka%20Taiko.osk)
+[![](https://osu.ppy.sh/ss/18338359/a5fc)](https://github.com/ryancranie/skinhub/raw/tyfh/player/eliminate/Myuka%20Taiko.osk)
 
-# [Sorceress_Skin_2](https://github.com/rudj-skinhub/woal/raw/tyfh/player/eliminate/Sorceress_Skin_2.osk)
-[![](https://osu.ppy.sh/ss/18336136/5730)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/eliminate/Sorceress_Skin_2.osk)
+# [Sorceress_Skin_2](https://github.com/ryancranie/skinhub/raw/tyfh/player/eliminate/Sorceress_Skin_2.osk)
+[![](https://osu.ppy.sh/ss/18336136/5730)](https://github.com/ryancranie/skinhub/raw/tyfh/player/eliminate/Sorceress_Skin_2.osk)
 
-# [-.BTMC.Freedom.Dive](https://github.com/rudj-skinhub/woal/raw/tyfh/universal/-.BTMC.Freedom.Dive.osk)
-[![](https://i.ppy.sh/19743f9a911d966fca64a81c018ee380dba163a3/68747470733a2f2f692e696d6775722e636f6d2f74696563544e482e706e67)](https://github.com/rudj-skinhub/woal/raw/tyfh/universal/-.BTMC.Freedom.Dive.osk)
+# [-.BTMC.Freedom.Dive](https://github.com/ryancranie/skinhub/raw/tyfh/universal/-.BTMC.Freedom.Dive.osk)
+[![](https://i.ppy.sh/19743f9a911d966fca64a81c018ee380dba163a3/68747470733a2f2f692e696d6775722e636f6d2f74696563544e482e706e67)](https://github.com/ryancranie/skinhub/raw/tyfh/universal/-.BTMC.Freedom.Dive.osk)
 
-# [Vaxei](https://github.com/rudj-skinhub/woal/raw/tyfh/player/universal/Vaxei.osk)
-[![](https://osu.ppy.sh/ss/18205118/735e)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/universal/Vaxei.osk)
+# [Vaxei](https://github.com/ryancranie/skinhub/raw/tyfh/player/universal/Vaxei.osk)
+[![](https://osu.ppy.sh/ss/18205118/735e)](https://github.com/ryancranie/skinhub/raw/tyfh/player/universal/Vaxei.osk)
 
 #
 <p align="center">
@@ -54,3 +54,4 @@ last updated <b>28/12/2022</b>
   <br></br>
   <a href="README.md">rudj-skinhub</a>
  </p>
+

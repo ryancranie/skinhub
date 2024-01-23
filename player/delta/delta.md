@@ -13,17 +13,17 @@ last updated <b>13/04/2023</b>
        width="151" 
        height="70"/></a>
 
-# [deltanm](https://github.com/rudj-skinhub/woal/raw/tyfh/player/delta/deltanm.osk)
-[![](https://i.imgur.com/rf2G85Z.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/delta/deltanm.osk)
+# [deltanm](https://github.com/ryancranie/skinhub/raw/tyfh/player/delta/deltanm.osk)
+[![](https://i.imgur.com/rf2G85Z.png)](https://github.com/ryancranie/skinhub/raw/tyfh/player/delta/deltanm.osk)
 
-# [bleh](https://github.com/rudj-skinhub/woal/raw/tyfh/player/delta/bleh.osk)
-[![](https://i.imgur.com/s1AtrRo.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/delta/bleh.osk)
+# [bleh](https://github.com/ryancranie/skinhub/raw/tyfh/player/delta/bleh.osk)
+[![](https://i.imgur.com/s1AtrRo.png)](https://github.com/ryancranie/skinhub/raw/tyfh/player/delta/bleh.osk)
 
-# [deltahddt](https://github.com/rudj-skinhub/woal/raw/tyfh/player/delta/deltahddt.osk)
-[![](https://i.imgur.com/FNGJhOB.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/delta/deltahddt.osk)
+# [deltahddt](https://github.com/ryancranie/skinhub/raw/tyfh/player/delta/deltahddt.osk)
+[![](https://i.imgur.com/FNGJhOB.png)](https://github.com/ryancranie/skinhub/raw/tyfh/player/delta/deltahddt.osk)
 
-# [Rafis but SZ - delta edit](https://github.com/rudj-skinhub/woal/raw/tyfh/player/delta/Rafis%20but%20SZ%20-%20delta%20edit.osk)
-[![](https://i.imgur.com/y69PqN8.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/delta/Rafis%20but%20SZ%20-%20delta%20edit.osk)
+# [Rafis but SZ - delta edit](https://github.com/ryancranie/skinhub/raw/tyfh/player/delta/Rafis%20but%20SZ%20-%20delta%20edit.osk)
+[![](https://i.imgur.com/y69PqN8.png)](https://github.com/ryancranie/skinhub/raw/tyfh/player/delta/Rafis%20but%20SZ%20-%20delta%20edit.osk)
 
 #
 <p align="center">
@@ -43,3 +43,4 @@ last updated <b>13/04/2023</b>
   <br></br>
   <a href="README.md">rudj-skinhub</a>
  </p>
+
