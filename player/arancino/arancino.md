@@ -9,7 +9,7 @@ last updated <b>23/01/2024</b>
 </p>
 
 # [Marisancino (cookiezi)](https://github.com/ryancranie/skinhub/raw/tyfh/player/arancino/Marisancino%20(cookiezi).osk)
-[![](https://i.imgur.com/zQ5DUls.png)](https://github.com/ryancranie/skinhub/raw/tyfh/player/arancino/Marisancino%20(cookiezi).osk)
+[![](https://osu.ppy.sh/ss/19001106/bc28)](https://github.com/ryancranie/skinhub/raw/tyfh/player/arancino/Marisancino%20(cookiezi).osk)
 
 # [Marisancino](https://github.com/ryancranie/skinhub/raw/tyfh/player/arancino/Marisancino.osk)
 [![](https://i.imgur.com/zQ5DUls.png)](https://github.com/ryancranie/skinhub/raw/tyfh/player/arancino/Marisancino.osk)
