@@ -25,6 +25,8 @@ last updated <b>21/10/2022</b>
        width="100" 
        height="100"></a>
   <br></br>
-  <a href="README.md">rudj-skinhub</a>
+  <a href="https://github.com/ryancranie/skinhub">rc_skinhub</a>
  </p>
+
+
 
