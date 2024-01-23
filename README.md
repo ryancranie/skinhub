@@ -3,7 +3,8 @@ Welcome to the skinhub, this reporitory archives and showcases lots of player-ma
 ### DISCLAIMER: I host this skinhub for dozens of players, I do not check every single skin for private assets. If you have a problem with me hosting, please contact me.
 R.I.P. woal-mega-skinhub: _07/08/2022 - 10/01/2023_<br>
 R.I.P. rudj-skinhub: _10/01/2023 - 23/01/2024_<br><br>
-Come talk about osu skinning on the <a href="https://discord.gg/RE8ExXsvHZ">skinhub discord</a> :))<br>
+Submission of skins closed _23/01/2024_<br>
+Come talk about osu skinning on the <a href="https://discord.gg/RE8ExXsvHZ">rc_skinhub discord</a> :))<br>
   <details>
     <summary>list instead of icons</summary><br>
 · <a href="player/1thgrader/1thgrader.md">1th Grader</a><br>

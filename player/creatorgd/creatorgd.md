@@ -5,8 +5,11 @@
        width="150"
        height="150"></a>
 <br>
-last updated <b>03/11/2022</b>
+last updated <b>23/01/2024</b>
 </p>
+
+# [Jace 6.25](https://github.com/ryancranie/skinhub/raw/tyfh/player/creatorgd/Jace%206.25.osk)
+[![](https://media.discordapp.net/attachments/1032724508613804104/1114508937736241242/screenshot074.jpg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/creatorgd/Jace%206.25.osk)
 
 # [Yaong kimika](https://github.com/ryancranie/skinhub/raw/tyfh/player/creatorgd/yaong%20kimika.osk)
 [![](https://i.imgur.com/6dX0T4O.jpg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/creatorgd/yaong%20kimika.osk)

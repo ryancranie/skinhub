@@ -5,8 +5,14 @@
        width="150"
        height="150"></a>
 <br>
-last updated <b>15/01/2023</b>
+last updated <b>23/01/2024</b>
 </p>
+
+# [Flor x logosmage](https://github.com/ryancranie/skinhub/raw/tyfh/player/logosmage/Flor%20x%20logosmage.osk)
+[![](https://user-images.githubusercontent.com/110307551/233800416-662e1780-a6f7-4248-aa9f-1d30a8cdfed5.jpg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/logosmage/Flor%20x%20logosmage.osk)
+
+# [Rafis x logosmage x Xooty](https://github.com/ryancranie/skinhub/raw/tyfh/player/logosmage/Rafis%20x%20logosmage%20x%20Xooty.osk)
+[![](https://user-images.githubusercontent.com/110307551/242166661-bda1e5b3-9c83-4ae1-bc70-5bb4a9bcb860.png)](https://github.com/ryancranie/skinhub/raw/tyfh/player/logosmage/Rafis%20x%20logosmage%20x%20Xooty.osk)
 
 # [Rafis x logosmage x howl](https://github.com/ryancranie/skinhub/raw/tyfh/player/logosmage/Rafis%20x%20logosmage%20x%20howl.osk)
 [![](https://i.imgur.com/mwzCRFj.png)](https://github.com/ryancranie/skinhub/raw/tyfh/player/logosmage/Rafis%20x%20logosmage%20x%20howl.osk)
