@@ -1,5 +1,8 @@
 # rudj-skinhub
-### DISCLAIMER: I host this skinhub for dozens of players, I do not check every single skin for private assets. If you have a problem with me hosting a skin here, please contact me.
+Welcome to the skinhub, this reporitory archives and showcases lots of player-made skins, for osu!. Enjoy looking around, just click any image to download .osks
+### DISCLAIMER: I host this skinhub for dozens of players, I do not check every single skin for private assets. If you have a problem with me hosting, please contact me.
+R.I.P. woal-mega-skinhub: _07/08/2022 - 10/01/2023_<br>
+R.I.P. rudj-skinhub: _10/01/2023 - 23/01/2024_<br><br>
 Come talk about osu skinning on the <a href="https://discord.gg/RE8ExXsvHZ">skinhub discord</a> :))<br>
   <details>
     <summary>list instead of icons</summary><br>
@@ -440,6 +443,3 @@ Come talk about osu skinning on the <a href="https://discord.gg/RE8ExXsvHZ">skin
   · <a href="https://github.com/Jason4502x/Pinguinzi-Skins">Pinguinzi-Skins</a> ·<br>
   · <a href="https://github.com/chikatoosu/chikato/blob/main/skins.md">chikato-skins</a> ·<br>
 </p>
-
-rip woal-mega-skinhub: 07/08/2022 - 10/01/2023<br>
-rip rudj-skinhub: 10/01/2023 - 23/01/2024
