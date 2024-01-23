@@ -5,7 +5,7 @@
        width="150"
        height="150"></a>
 <br>
-last updated <b>04/04/2023</b>
+last updated <b>23/01/2024</b>
 </p>
 
 <a href="https://www.youtube.com/watch?v=kbbgypvGPgM">
@@ -17,6 +17,9 @@ last updated <b>04/04/2023</b>
 <img src="https://i.imgur.com/WPSNbSx.png"
        width="151" 
        height="70"/></a>
+
+# [- thinkingofu ☆ (ﾉ_)ﾉ](https://github.com/rudj-skinhub/woal/raw/tyfh/player/asterllia/-_thinkingofu.osk)
+[![](https://i.imgur.com/C3pFXHG.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/asterllia/-_thinkingofu.osk)
 
 # [✦ - asterllia - nijika!](https://github.com/rudj-skinhub/woal/raw/tyfh/player/asterllia/%E2%9C%A6%20-%20asterllia%20-%20nijika!.osk)
 [![](https://i.imgur.com/dSgmIlD.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/player/asterllia/%E2%9C%A6%20-%20asterllia%20-%20nijika!.osk)
