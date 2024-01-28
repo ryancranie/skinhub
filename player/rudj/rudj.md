@@ -1,13 +1,13 @@
 # rudj's skinhub
 These skins are optimized, huge credit to <a href="https://osu.ppy.sh/users/7075211">tekkito</a>; my old skins are <a href="rudj_old.md">here</a>.<br>
-Another website I made <a href="https://sites.google.com/view/skinhubs">28/01/24</a>.
+Another website I made <a href="https://sites.google.com/view/skinhubs">06/06/23</a>.
 <p align="center">
 <a href="https://osu.ppy.sh/users/11592896">
   <img src="https://a.ppy.sh/11592896"  
        width="150"
        height="150"></a>
 <br>
-last updated <b>01/05/2023</b>
+last updated <b>28/01/2024</b>
 </p>
 
 # [rudjinator](https://github.com/ryancranie/skinhub/raw/tyfh/player/rudj/rudjinator.osk)
