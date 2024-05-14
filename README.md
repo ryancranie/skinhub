@@ -1,5 +1,5 @@
 # rc_skinhub
-Welcome to the skinhub, this repository archives and showcases lots of player-made skins for the rhythm game osu!. Enjoy looking around, jclick file names/images to download the skins.
+Welcome to the skinhub, this repository archives and showcases lots of player-made skins for the rhythm game osu!. Enjoy looking around, click file names/images to download the skins.
 ### DISCLAIMER: I host this skinhub for dozens of players, I do not check every single skin for private assets. If you have a problem with me hosting, please contact me.
 R.I.P. woal-mega-skinhub: _07/08/2022 - 10/01/2023_<br>
 R.I.P. rudj-skinhub: _10/01/2023 - 23/01/2024_<br><br>
