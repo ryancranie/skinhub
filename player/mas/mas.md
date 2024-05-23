@@ -13,11 +13,6 @@ last updated <b>23/05/2024</b>
        width="151" 
        height="70"/></a>
 
-<a href="https://github.com/1kimika/skinhub/blob/main/mas.md">
-<img src="https://i.imgur.com/WPSNbSx.png"
-       width="151" 
-       height="70"/></a>
-
 <a href="https://github.com/ryancranie/skinhub/blob/tyfh/aeshub.md">
 <img src="https://i.imgur.com/nnkLwEo.png" 
        width="151" 
