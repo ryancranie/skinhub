@@ -17,7 +17,7 @@ last updated <b>21/12/2022</b>
 [![](https://i.imgur.com/Gis4zKF.jpeg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/kiirochii/Bocchi%20%2B%20Dare.osk)
 
 # [Rafis + playfield](https://github.com/ryancranie/skinhub/raw/tyfh/player/kiirochii/Rafis%20%2B%20playfield.osk)
-[![](https://cdn.discordapp.com/attachments/999706619820638248/1020287626068111360/screenshot1538.jpg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/kiirochii/Rafis%20%2B%20playfield.osk)
+[![](https://i.imgur.com/vTMoZft.jpeg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/kiirochii/Rafis%20%2B%20playfield.osk)
 
 #
 <p align="center">

@@ -31,7 +31,7 @@ last updated <b>28/12/2022</b>
 [![](https://osu.ppy.sh/ss/18336136/5730)](https://github.com/ryancranie/skinhub/raw/tyfh/player/eliminate/Sorceress_Skin_2.osk)
 
 # [-.BTMC.Freedom.Dive](https://github.com/ryancranie/skinhub/raw/tyfh/universal/-.BTMC.Freedom.Dive.osk)
-[![](https://i.ppy.sh/19743f9a911d966fca64a81c018ee380dba163a3/68747470733a2f2f692e696d6775722e636f6d2f74696563544e482e706e67)](https://github.com/ryancranie/skinhub/raw/tyfh/universal/-.BTMC.Freedom.Dive.osk)
+[![](https://i.imgur.com/k372l78.jpeg)](https://github.com/ryancranie/skinhub/raw/tyfh/universal/-.BTMC.Freedom.Dive.osk)
 
 # [Vaxei](https://github.com/ryancranie/skinhub/raw/tyfh/player/universal/Vaxei.osk)
 [![](https://osu.ppy.sh/ss/18205118/735e)](https://github.com/ryancranie/skinhub/raw/tyfh/player/universal/Vaxei.osk)
