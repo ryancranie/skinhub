@@ -8,7 +8,7 @@
 last update <b>19/01/2023</b>
 </p>
 
-## THIS SKINHUB IS AN ARCHIVE; MY NEW SKINHUB IS <a href="rudj.md"><b>HERE</b></a>
+## THIS SKINHUB IS AN ARCHIVE; MY NEW SKINHUB IS <a href="../rudj/rudj.md"><b>HERE</b></a>
 
 <a href="https://github.com/rudjx3/skins/blob/main/README.md">
 <img src="https://i.imgur.com/Pr3zA1H.png"
