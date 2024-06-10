@@ -9,25 +9,25 @@ last updated <b>15/09/2022</b>
 </p>
  
  # [-_im_bad_privat](https://github.com/ryancranie/skinhub/raw/tyfh/player/shene/-_im_bad_private.osk)
-[![](https://cdn.discordapp.com/attachments/739284160090472449/1019858146019254332/screenshot173.jpg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/shene/-_im_bad_private.osk)
+[![](https://i.imgur.com/dUc8CFo.jpeg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/shene/-_im_bad_private.osk)
 
  # [vilecat_XD](https://github.com/ryancranie/skinhub/raw/tyfh/player/shene/vilecat_XD.osk)
-[![](https://cdn.discordapp.com/attachments/739284160090472449/1019858400231825448/screenshot180.jpg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/shene/vilecat_XD.osk)
+[![](https://i.imgur.com/1n1D3OZ.jpeg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/shene/vilecat_XD.osk)
 
  # [dick](https://github.com/ryancranie/skinhub/raw/tyfh/player/shene/dick.osk)
-[![](https://cdn.discordapp.com/attachments/739284160090472449/1019858795939250267/screenshot181.jpg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/shene/dick.osk)
+[![](https://i.imgur.com/6ZdPFjm.jpeg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/shene/dick.osk)
 
  # [-_Lua__im_bad](https://github.com/ryancranie/skinhub/raw/tyfh/player/shene/-_Lua__im_bad.osk)
-[![](https://cdn.discordapp.com/attachments/739284160090472449/1019859221937918032/screenshot183.jpg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/shene/-_Lua__im_bad.osk)
+[![](https://i.imgur.com/fQaZh7y.jpeg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/shene/-_Lua__im_bad.osk)
 
  # [XD_Hakurei_DT_edit](https://github.com/ryancranie/skinhub/raw/tyfh/player/shene/XD_Hakurei_DT_edit.osk)
-[![](https://cdn.discordapp.com/attachments/739284160090472449/1019859752404135936/screenshot185.jpg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/shene/XD_Hakurei_DT_edit.osk)
+[![](https://i.imgur.com/1VtyL9I.jpeg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/shene/XD_Hakurei_DT_edit.osk)
 
  # [-__im_bad__ava](https://github.com/ryancranie/skinhub/raw/tyfh/player/shene/-__im_bad__ava.osk)
-[![](https://cdn.discordapp.com/attachments/739284160090472449/1019860045363695697/screenshot186.jpg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/shene/-__im_bad__ava.osk)
+[![](https://i.imgur.com/5hD50Ga.jpeg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/shene/-__im_bad__ava.osk)
 
  # [-_wwwwnesonya2skin](https://github.com/ryancranie/skinhub/raw/tyfh/player/shene/-_wwwwnesonya2skin.osk)
-[![](https://cdn.discordapp.com/attachments/739284160090472449/1019860619895259186/screenshot187.jpg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/shene/-_wwwwnesonya2skin.osk)
+[![](https://i.imgur.com/uZJESLo.jpeg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/shene/-_wwwwnesonya2skin.osk)
 
 #
 <p align="center">

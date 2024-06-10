@@ -9,7 +9,7 @@ last updated <b>23/01/2024</b>
 </p>
 
 # [- its time to shred ekoro](https://github.com/ryancranie/skinhub/raw/tyfh/player/zyn/-%20its%20time%20to%20shred%20ekoro.osk)
-[![](https://media.discordapp.net/attachments/1032724508613804104/1135567420766032013/screenshot649.jpg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/zyn/-%20its%20time%20to%20shred%20ekoro.osk)
+[![](https://i.imgur.com/MyZVa6g.jpeg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/zyn/-%20its%20time%20to%20shred%20ekoro.osk)
 
 # [zyn vaxei](https://github.com/ryancranie/skinhub/raw/tyfh/player/zyn/zyn%20vaxei.osk)
 [![](https://i.imgur.com/s8uPMBw.jpeg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/zyn/zyn%20vaxei.osk)
