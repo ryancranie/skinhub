@@ -10,7 +10,7 @@
 <details><summary></summary>This skin sounds great, it's super clean and the light blue is really easy and nice to read. I like the wings motif a lot, works super well.</details>
 
 # [rolling girl](https://github.com/ryancranie/skinhub/raw/tyfh/player/aeshub/rolling_girl.osk) | [Source](https://github.com/ryancranie/skinhub/blob/tyfh/player/mas/mas.md#rolling-girl)
-[![](https://i.imgur.com/8W43tjy.jpeg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/mas/rolling%20girl.osk)
+[![](https://i.imgur.com/8W43tjy.jpeg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/aeshub/rolling_girl.osk)
 <details><summary></summary>This skin is super clean, it has element's similar to karcher skin, but without instafade. The colours work super well and it's great to play with. The audio is great too</details>
 
 # [- + tkova](https://github.com/ryancranie/skinhub/raw/tyfh/player/charlotte/-%20%2B%20tkova.osk) | [Source](https://github.com/ryancranie/skinhub/blob/tyfh/player/charlotte/charlotte.md#---tkova)
