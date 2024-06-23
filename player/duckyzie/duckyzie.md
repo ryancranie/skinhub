@@ -17,7 +17,7 @@ last updated <b>03/11/2022</b>
 [![](https://osu.ppy.sh/ss/18211277/8511)](https://github.com/ryancranie/skinhub/raw/tyfh/player/duckyzie/%E5%BF%83kokoro%20dt.osk)
 
 # [pretty](https://github.com/ryancranie/skinhub/raw/tyfh/player/duckyzie/pretty.osk)
-[![](https://cdn.discordapp.com/attachments/901175797698687016/1021418609085521930/image0.jpg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/duckyzie/pretty.osk)
+[![](https://i.imgur.com/GSpk4WE.jpeg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/duckyzie/pretty.osk)
 
 # [aero](https://github.com/ryancranie/skinhub/raw/tyfh/player/duckyzie/aero.osk)
 [![](https://i.imgur.com/mXW7AHJ.jpeg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/duckyzie/aero.osk)

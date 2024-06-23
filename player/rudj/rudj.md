@@ -1,5 +1,5 @@
 # rudj's skinhub
-These skins are optimized, huge credit to <a href="https://osu.ppy.sh/users/7075211">tekkito</a>; my old skins are <a href="rudj_old.md">here</a>.<br>
+These skins are optimized, huge credit to <a href="https://osu.ppy.sh/users/7075211">tekkito</a>; my old skins are <a href="../rudj_old/rudj_old.md">here</a>.<br>
 Google site I made @<a href="https://sites.google.com/view/skinhubs">06/06/23</a>.
 <p align="center">
 <a href="https://osu.ppy.sh/users/11592896">

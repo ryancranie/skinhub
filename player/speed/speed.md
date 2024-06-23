@@ -8,14 +8,19 @@
 last updated <b>13/02/2023</b>
 </p>
 
+<a href="https://b9r.me/skins">
+<img src="https://i.imgur.com/WPSNbSx.png"
+       width="151" 
+       height="70"/></a>
+
 # [be_mono](https://github.com/ryancranie/skinhub/raw/tyfh/player/speed/be_mono.osk)
 [![](https://i.imgur.com/CRSZLU3.jpeg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/speed/be_mono.osk)
 
 # [n2zg85](https://github.com/ryancranie/skinhub/raw/tyfh/player/speed/n2zg85.osk)
-[![](https://cdn.discordapp.com/attachments/1020438364001939547/1020440353008013422/screenshot1335.jpg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/speed/n2zg85.osk)
+[![](https://i.imgur.com/tQsyFSh.jpeg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/speed/n2zg85.osk)
 
 # [be_rhetro_mix](https://github.com/ryancranie/skinhub/raw/tyfh/player/speed/be_rhetro_mix.osk)
-[![](https://media.discordapp.net/attachments/1020438364001939547/1020440952806051860/screenshot1342.jpg?width=1214&height=683)](https://github.com/ryancranie/skinhub/raw/tyfh/player/speed/be_rhetro_mix.osk)
+[![](https://i.imgur.com/txCLqXm.jpeg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/speed/be_rhetro_mix.osk)
 
 # [- be_bubbleman](https://github.com/ryancranie/skinhub/raw/tyfh/player/speed/-%20be_bubbleman.osk)
 [![](https://i.imgur.com/7MqkXSX.jpeg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/speed/-%20be_bubbleman.osk)
