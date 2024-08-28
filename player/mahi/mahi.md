@@ -8,8 +8,8 @@
 last updated <b>28/08/2024</b>
 </p>
 
-# [#azer8duskmsu](https://github.com/ryancranie/skinhub/raw/tyfh/player/mahi/#azer8duskmsu.osk)
-[![](https://i.imgur.com/f8XPpbz.jpeg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/mahi/#azer8duskmsu.osk)
+# [#azer8duskmsu](https://github.com/ryancranie/skinhub/raw/tyfh/player/mahi/%23azer8duskmsu.osk)
+[![](https://i.imgur.com/f8XPpbz.jpeg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/mahi/%23azer8duskmsu.osk)
 
 # [Aristia(msu edit) 2024](https://github.com/ryancranie/skinhub/raw/tyfh/player/mahi/Aristia(msu%20edit)%202024.osk)
 [![](https://i.imgur.com/Oo22vmB.jpeg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/mahi/Aristia(msu%20edit)%202024.osk)
