@@ -11,17 +11,17 @@ last updated <b>28/08/2024</b>
 # [#azer8duskmsu](https://github.com/ryancranie/skinhub/raw/tyfh/player/mahi/#azer8duskmsu.osk)
 [![](https://i.imgur.com/f8XPpbz.jpeg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/mahi/#azer8duskmsu.osk)
 
-# [Aristia(msu edit) 2024](https://github.com/ryancranie/skinhub/raw/tyfh/player/mahi/player/mahi/Aristia(msu%20edit)%202024.osk)
+# [Aristia(msu edit) 2024](https://github.com/ryancranie/skinhub/raw/tyfh/player/mahi/Aristia(msu%20edit)%202024.osk)
 [![](https://i.imgur.com/Oo22vmB.jpeg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/mahi/Aristia(msu%20edit)%202024.osk)
 
-# [Rohulk 4.0 Kingling](https://github.com/ryancranie/skinhub/raw/tyfh/player/mahi/Rohulk%204.0%20Kingling)
-[![](https://i.imgur.com/c8zKzjY.jpeg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/mahi/Rohulk%204.0%20Kingling)
+# [Rohulk 4.0 Kingling](https://github.com/ryancranie/skinhub/raw/tyfh/player/mahi/Rohulk%204.0%20Kingling.osk)
+[![](https://i.imgur.com/c8zKzjY.jpeg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/mahi/Rohulk%204.0%20Kingling.osk)
 
-# [- Topoi 2020 msu](https://github.com/ryancranie/skinhub/raw/tyfh/player/mahi/-%20Topoi%202020%20msu)
-[![](https://i.imgur.com/fxY1MrJ.jpeg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/mahi/-%20Topoi%202020%20msu)
+# [- Topoi 2020 msu](https://github.com/ryancranie/skinhub/raw/tyfh/player/mahi/-%20Topoi%202020%20msu.osk)
+[![](https://i.imgur.com/fxY1MrJ.jpeg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/mahi/-%20Topoi%202020%20msu.osk)
 
-# [howl (msu edit)](https://github.com/ryancranie/skinhub/raw/tyfh/player/mahi/howl%20(msu%20edit))
-[![](https://i.imgur.com/h7Adppt.jpeg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/mahi/howl%20(msu%20edit))
+# [howl (msu edit)](https://github.com/ryancranie/skinhub/raw/tyfh/player/mahi/howl%20(msu%20edit).osk)
+[![](https://i.imgur.com/h7Adppt.jpeg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/mahi/howl%20(msu%20edit).osk)
 
 #
 <p align="center">
